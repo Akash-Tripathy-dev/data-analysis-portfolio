@@ -8,14 +8,16 @@ Each project demonstrates a complete lifecycle: synthetic data generation, raw d
 
 ## 📂 Featured Projects
 
-| Project Folder | Core Focus                             | Key Python Operations Used                           |
-| :------------- | :------------------------------------- | :--------------------------------------------------- |
-| **Project 1**  | Automated synthetic data generation    | Random data generation, Loop structures              |
-| **Project 2**  | Data ingestion and schema handling     | File I/O, Pandas DataFrame assembly                  |
-| **Project 3**  | Handling missing values and duplicates | `.dropna()`, `.drop_duplicates()`, Lambda functions  |
-| **Project 4**  | Data type casting and normalization    | Regular expressions, Numeric formatting, `.astype()` |
-| **Project 5**  | Outlier detection and data filtering   | Boolean masking, Conditional data clipping           |
-| **Project 6**  | Final data pipeline orchestration      | Modular script design, End-to-end execution          |
+| Project Folder | Core Focus | Key Python Operations Used |
+| :------------- | :------------------------------------- | | Project Folder | Core Focus | Key Python Operations Used |
+| :------------- | :------------------------------------------------- | :------------------------------------------------------------------- |
+| **Project 1** | Automated synthetic data generation | Random data generation, Loop structures |
+| **Project 2** | Data ingestion and schema handling | File I/O, Pandas DataFrame assembly |
+| **Project 3** | Handling missing values and duplicates | `.dropna()`, `.drop_duplicates()`, Lambda functions |
+| **Project 4** | Data type casting and normalization | Regular expressions, Numeric formatting, `.astype()` |
+| **Project 5** | Outlier detection and data filtering | Boolean masking, Conditional data clipping |
+| **Project 6** | Final data pipeline orchestration | Modular script design, End-to-end execution |
+| **Project 7** | Telecom network logs analysis & extraction | Regular expressions (Regex), Time-series parsing, Error distribution |
 
 ---
 
