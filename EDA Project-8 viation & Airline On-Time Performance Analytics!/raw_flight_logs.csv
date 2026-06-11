@@ -1,0 +1,5000 @@
+Flight_ID,Airline_Name,Destinations_Hub,Delay_Minutes
+FLI-9799,Air India,Kolkata_CCU,12
+FLI-3283,Akasa Air,Bengaluru_BLR,12
+FLI-8832,Vistara,Mumbai_BOM,12
+FLI-5832,Akasa Air,Kolkata_CCU,12
+FLI-1167,Indigo,Bengaluru_BLR,12
+FLI-6237,Indigo,Bengaluru_BLR,26
+FLI-3875,Indigo,delhi_DEL,12
+FLI-4446,Vistara,delhi_DEL,12
+FLI-6686,Air India,delhi_DEL,12
+FLI-5302,Air India,delhi_DEL,12
+FLI-8867,Air India,Mumbai_BOM,12
+FLI-3305,Air India,Kolkata_CCU,12
+FLI-9971,Vistara,Mumbai_BOM,12
+FLI-2662,Akasa Air,delhi_DEL,26
+FLI-6969,Air India,delhi_DEL,12
+FLI-2401,Indigo,delhi_DEL,12
+FLI-2940,Indigo,Mumbai_BOM,12
+FLI-6861,Indigo,delhi_DEL,12
+FLI-1696,Air India,delhi_DEL,12
+FLI-7440,Air India,delhi_DEL,12
+FLI-3305,Air India,Mumbai_BOM,12
+FLI-1490,Air India,Mumbai_BOM,12
+FLI-5790,Akasa Air,Bengaluru_BLR,12
+FLI-2459,Air India,Bengaluru_BLR,12
+FLI-8475,Indigo,delhi_DEL,12
+FLI-3688,Vistara,Kolkata_CCU,12
+FLI-5060,Air India,Mumbai_BOM,12
+FLI-6288,Vistara,Bengaluru_BLR,12
+FLI-3853,Akasa Air,delhi_DEL,26
+FLI-2027,Vistara,Bengaluru_BLR,26
+FLI-7930,Indigo,Mumbai_BOM,26
+FLI-9676,Indigo,Kolkata_CCU,12
+FLI-2686,Indigo,delhi_DEL,12
+FLI-5205,Vistara,Mumbai_BOM,-5
+FLI-3367,Air India,Bengaluru_BLR,12
+FLI-9398,Air India,Mumbai_BOM,12
+FLI-5972,Indigo,Kolkata_CCU,26
+FLI-1613,Indigo,Bengaluru_BLR,12
+FLI-8569,Indigo,delhi_DEL,12
+FLI-9674,Air India,Mumbai_BOM,12
+FLI-6316,Air India,Bengaluru_BLR,12
+FLI-5076,Indigo,Kolkata_CCU,12
+FLI-2353,Air India,Mumbai_BOM,12
+FLI-2816,Air India,Mumbai_BOM,12
+FLI-3350,Vistara,delhi_DEL,26
+FLI-1440,Indigo,Mumbai_BOM,12
+FLI-9071,Air India,Kolkata_CCU,12
+FLI-4127,Air India,Kolkata_CCU,12
+FLI-5309,Indigo,delhi_DEL,12
+FLI-4258,Vistara,Bengaluru_BLR,26
+FLI-9979,Air India,Bengaluru_BLR,12
+FLI-8476,Indigo,delhi_DEL,12
+FLI-8746,Air India,Kolkata_CCU,12
+FLI-9007,Air India,Mumbai_BOM,12
+FLI-3630,Air India,Mumbai_BOM,12
+FLI-5143,Air India,Mumbai_BOM,12
+FLI-2410,Vistara,delhi_DEL,12
+FLI-7270,Indigo,delhi_DEL,12
+FLI-7840,Indigo,Mumbai_BOM,12
+FLI-7881,Vistara,Mumbai_BOM,12
+FLI-4265,Vistara,delhi_DEL,12
+FLI-9751,Indigo,Bengaluru_BLR,26
+FLI-1245,Indigo,Mumbai_BOM,12
+FLI-6145,Akasa Air,delhi_DEL,12
+FLI-2460,Indigo,delhi_DEL,12
+FLI-9076,Akasa Air,Bengaluru_BLR,26
+FLI-1621,Indigo,delhi_DEL,26
+FLI-9320,Air India,delhi_DEL,12
+FLI-1642,Air India,Bengaluru_BLR,26
+FLI-4910,Air India,Mumbai_BOM,12
+FLI-7291,Air India,delhi_DEL,12
+FLI-5924,Indigo,delhi_DEL,12
+FLI-5852,Indigo,Kolkata_CCU,12
+FLI-6700,Air India,Bengaluru_BLR,26
+FLI-9934,Vistara,Kolkata_CCU,26
+FLI-7310,Indigo,delhi_DEL,12
+FLI-5203,Indigo,delhi_DEL,12
+FLI-5040,Indigo,Mumbai_BOM,12
+FLI-7698,Air India,Mumbai_BOM,12
+FLI-1411,Vistara,delhi_DEL,12
+FLI-4033,Air India,delhi_DEL,12
+FLI-1212,Indigo,Kolkata_CCU,12
+FLI-8063,Indigo,delhi_DEL,26
+FLI-7793,Indigo,Kolkata_CCU,12
+FLI-3177,Indigo,Kolkata_CCU,12
+FLI-3259,Indigo,Bengaluru_BLR,12
+FLI-8239,Vistara,Bengaluru_BLR,12
+FLI-5404,Akasa Air,delhi_DEL,26
+FLI-7841,Indigo,delhi_DEL,12
+FLI-1840,Vistara,Bengaluru_BLR,12
+FLI-8515,Indigo,delhi_DEL,12
+FLI-6060,Vistara,Mumbai_BOM,12
+FLI-3129,Vistara,Bengaluru_BLR,12
+FLI-3656,Indigo,Mumbai_BOM,12
+FLI-8266,Air India,delhi_DEL,12
+FLI-3623,Air India,delhi_DEL,12
+FLI-2728,Indigo,delhi_DEL,12
+FLI-2657,Air India,Bengaluru_BLR,26
+FLI-4806,Air India,delhi_DEL,12
+FLI-5618,Air India,Mumbai_BOM,12
+FLI-4675,Indigo,delhi_DEL,12
+FLI-4361,Air India,Mumbai_BOM,12
+FLI-8404,Akasa Air,delhi_DEL,26
+FLI-5305,Air India,delhi_DEL,26
+FLI-4716,Air India,Mumbai_BOM,12
+FLI-9654,Indigo,Mumbai_BOM,12
+FLI-4011,Indigo,Mumbai_BOM,12
+FLI-8134,Indigo,Mumbai_BOM,26
+FLI-3750,Indigo,Bengaluru_BLR,12
+FLI-6003,Air India,delhi_DEL,26
+FLI-6027,Air India,Mumbai_BOM,12
+FLI-4434,Indigo,delhi_DEL,12
+FLI-1928,Indigo,delhi_DEL,12
+FLI-7782,Indigo,Mumbai_BOM,26
+FLI-5125,Air India,Mumbai_BOM,12
+FLI-8847,Akasa Air,Mumbai_BOM,-5
+FLI-7346,Vistara,delhi_DEL,12
+FLI-8724,Indigo,Bengaluru_BLR,12
+FLI-7754,Indigo,Bengaluru_BLR,26
+FLI-6103,Air India,delhi_DEL,12
+FLI-3784,Air India,Kolkata_CCU,12
+FLI-6368,Air India,Kolkata_CCU,12
+FLI-3523,Air India,delhi_DEL,26
+FLI-7617,Indigo,Kolkata_CCU,12
+FLI-4957,Akasa Air,delhi_DEL,26
+FLI-9384,Vistara,Bengaluru_BLR,12
+FLI-7260,Air India,delhi_DEL,12
+FLI-8010,Indigo,delhi_DEL,12
+FLI-5755,Vistara,Bengaluru_BLR,12
+FLI-7037,Indigo,delhi_DEL,26
+FLI-1022,Air India,delhi_DEL,12
+FLI-6919,Indigo,Kolkata_CCU,12
+FLI-2818,Akasa Air,delhi_DEL,12
+FLI-8078,Air India,Mumbai_BOM,12
+FLI-8708,Indigo,Bengaluru_BLR,-5
+FLI-9770,Akasa Air,delhi_DEL,12
+FLI-4809,Akasa Air,Kolkata_CCU,26
+FLI-2870,Indigo,Bengaluru_BLR,26
+FLI-4359,Indigo,Mumbai_BOM,12
+FLI-6574,Indigo,Kolkata_CCU,12
+FLI-4873,Indigo,Mumbai_BOM,12
+FLI-6708,Air India,delhi_DEL,12
+FLI-7377,Indigo,Mumbai_BOM,12
+FLI-2224,Indigo,Kolkata_CCU,12
+FLI-1351,Indigo,Bengaluru_BLR,26
+FLI-5847,Indigo,delhi_DEL,12
+FLI-5390,Air India,Kolkata_CCU,26
+FLI-6641,Air India,Mumbai_BOM,12
+FLI-6806,Indigo,delhi_DEL,12
+FLI-8528,Akasa Air,Bengaluru_BLR,26
+FLI-5352,Indigo,Kolkata_CCU,12
+FLI-5335,Indigo,Mumbai_BOM,26
+FLI-1554,Indigo,delhi_DEL,12
+FLI-6067,Air India,delhi_DEL,12
+FLI-3240,Air India,Kolkata_CCU,26
+FLI-3700,Indigo,Kolkata_CCU,12
+FLI-9081,Vistara,Kolkata_CCU,26
+FLI-2170,Vistara,Mumbai_BOM,26
+FLI-2616,Indigo,delhi_DEL,12
+FLI-2240,Akasa Air,delhi_DEL,26
+FLI-5617,Indigo,Kolkata_CCU,12
+FLI-9028,Indigo,Kolkata_CCU,12
+FLI-8610,Air India,Bengaluru_BLR,-5
+FLI-9193,Vistara,Mumbai_BOM,12
+FLI-1931,Indigo,Bengaluru_BLR,12
+FLI-5595,Air India,Mumbai_BOM,12
+FLI-6621,Air India,Mumbai_BOM,12
+FLI-7218,Vistara,Mumbai_BOM,12
+FLI-7841,Akasa Air,delhi_DEL,-5
+FLI-6386,Indigo,Bengaluru_BLR,12
+FLI-9402,Indigo,Bengaluru_BLR,12
+FLI-1001,Indigo,delhi_DEL,26
+FLI-8806,Air India,delhi_DEL,12
+FLI-6326,Akasa Air,delhi_DEL,26
+FLI-3025,Air India,Kolkata_CCU,12
+FLI-9583,Air India,delhi_DEL,12
+FLI-5338,Vistara,Kolkata_CCU,12
+FLI-5824,Indigo,Bengaluru_BLR,-5
+FLI-2585,Vistara,delhi_DEL,12
+FLI-1839,Air India,Bengaluru_BLR,12
+FLI-4481,Vistara,Kolkata_CCU,26
+FLI-6020,Indigo,delhi_DEL,12
+FLI-3873,Akasa Air,Bengaluru_BLR,12
+FLI-5107,Indigo,Kolkata_CCU,-5
+FLI-2176,Indigo,Bengaluru_BLR,12
+FLI-1225,Indigo,Mumbai_BOM,12
+FLI-3514,Vistara,delhi_DEL,12
+FLI-1115,Indigo,Mumbai_BOM,12
+FLI-4683,Air India,Kolkata_CCU,-5
+FLI-8537,Akasa Air,Mumbai_BOM,12
+FLI-5054,Indigo,Bengaluru_BLR,12
+FLI-8144,Vistara,Mumbai_BOM,12
+FLI-4971,Air India,Mumbai_BOM,26
+FLI-1837,Indigo,Kolkata_CCU,12
+FLI-8418,Indigo,delhi_DEL,12
+FLI-3925,Vistara,Mumbai_BOM,12
+FLI-3631,Indigo,delhi_DEL,12
+FLI-1406,Air India,Mumbai_BOM,12
+FLI-2103,Indigo,delhi_DEL,-5
+FLI-2606,Indigo,Kolkata_CCU,26
+FLI-8266,Vistara,Mumbai_BOM,12
+FLI-8667,Akasa Air,delhi_DEL,12
+FLI-8595,Indigo,delhi_DEL,26
+FLI-2064,Air India,Mumbai_BOM,12
+FLI-5561,Vistara,delhi_DEL,26
+FLI-9752,Indigo,delhi_DEL,12
+FLI-8169,Indigo,Mumbai_BOM,-5
+FLI-8462,Vistara,Bengaluru_BLR,26
+FLI-6988,Akasa Air,Kolkata_CCU,12
+FLI-7948,Air India,Mumbai_BOM,12
+FLI-7700,Vistara,delhi_DEL,26
+FLI-1121,Indigo,delhi_DEL,26
+FLI-1790,Indigo,Bengaluru_BLR,12
+FLI-9911,Air India,delhi_DEL,12
+FLI-2365,Vistara,Bengaluru_BLR,12
+FLI-9038,Indigo,delhi_DEL,12
+FLI-9375,Indigo,delhi_DEL,26
+FLI-4448,Vistara,Kolkata_CCU,12
+FLI-7402,Indigo,delhi_DEL,26
+FLI-3296,Indigo,delhi_DEL,12
+FLI-7926,Indigo,Mumbai_BOM,26
+FLI-1837,Indigo,delhi_DEL,12
+FLI-7611,Akasa Air,Kolkata_CCU,26
+FLI-9588,Indigo,Mumbai_BOM,-5
+FLI-4140,Indigo,Bengaluru_BLR,12
+FLI-6317,Air India,Mumbai_BOM,26
+FLI-4046,Indigo,Mumbai_BOM,12
+FLI-7767,Indigo,delhi_DEL,12
+FLI-6571,Indigo,delhi_DEL,12
+FLI-9002,Indigo,Mumbai_BOM,12
+FLI-7199,Air India,Mumbai_BOM,-5
+FLI-3763,Vistara,Kolkata_CCU,12
+FLI-6486,Vistara,Mumbai_BOM,12
+FLI-3522,Akasa Air,Mumbai_BOM,26
+FLI-9066,Air India,Kolkata_CCU,26
+FLI-2607,Air India,delhi_DEL,12
+FLI-6127,Akasa Air,Mumbai_BOM,12
+FLI-3505,Indigo,Mumbai_BOM,12
+FLI-6894,Indigo,Bengaluru_BLR,12
+FLI-5288,Indigo,Mumbai_BOM,12
+FLI-8858,Vistara,Mumbai_BOM,26
+FLI-9053,Air India,delhi_DEL,12
+FLI-6758,Akasa Air,Mumbai_BOM,12
+FLI-4982,Indigo,Mumbai_BOM,12
+FLI-5207,Vistara,Bengaluru_BLR,12
+FLI-9351,Indigo,Mumbai_BOM,12
+FLI-6667,Vistara,Bengaluru_BLR,12
+FLI-3316,Indigo,Mumbai_BOM,26
+FLI-5304,Indigo,Mumbai_BOM,12
+FLI-1628,Indigo,Mumbai_BOM,26
+FLI-8172,Indigo,delhi_DEL,-5
+FLI-4009,Indigo,delhi_DEL,26
+FLI-2852,Indigo,Bengaluru_BLR,26
+FLI-2979,Akasa Air,Kolkata_CCU,12
+FLI-7004,Indigo,Bengaluru_BLR,12
+FLI-9573,Indigo,Bengaluru_BLR,12
+FLI-2532,Indigo,delhi_DEL,12
+FLI-4425,Indigo,Kolkata_CCU,12
+FLI-9665,Indigo,delhi_DEL,-5
+FLI-2203,Air India,delhi_DEL,12
+FLI-1243,Indigo,Bengaluru_BLR,12
+FLI-4765,Air India,Bengaluru_BLR,12
+FLI-1101,Air India,Mumbai_BOM,26
+FLI-9613,Vistara,Kolkata_CCU,12
+FLI-8457,Vistara,Bengaluru_BLR,12
+FLI-5129,Air India,Kolkata_CCU,12
+FLI-7170,Vistara,delhi_DEL,26
+FLI-2485,Air India,Bengaluru_BLR,12
+FLI-7225,Air India,Kolkata_CCU,26
+FLI-2689,Air India,Bengaluru_BLR,12
+FLI-6761,Indigo,Mumbai_BOM,12
+FLI-6730,Air India,Mumbai_BOM,26
+FLI-1654,Akasa Air,Bengaluru_BLR,12
+FLI-7066,Vistara,Kolkata_CCU,12
+FLI-4851,Air India,delhi_DEL,12
+FLI-1969,Indigo,Mumbai_BOM,12
+FLI-6832,Indigo,Mumbai_BOM,12
+FLI-9825,Vistara,delhi_DEL,12
+FLI-4902,Air India,delhi_DEL,12
+FLI-1608,Indigo,delhi_DEL,12
+FLI-4262,Akasa Air,Mumbai_BOM,26
+FLI-7113,Air India,Mumbai_BOM,12
+FLI-8764,Air India,Mumbai_BOM,26
+FLI-6341,Air India,delhi_DEL,12
+FLI-9713,Indigo,delhi_DEL,12
+FLI-1520,Akasa Air,Mumbai_BOM,12
+FLI-5925,Indigo,delhi_DEL,12
+FLI-3195,Vistara,Mumbai_BOM,12
+FLI-6669,Air India,delhi_DEL,12
+FLI-7508,Indigo,Mumbai_BOM,12
+FLI-3627,Air India,Mumbai_BOM,12
+FLI-9747,Indigo,Mumbai_BOM,12
+FLI-2038,Indigo,Mumbai_BOM,12
+FLI-3289,Akasa Air,Mumbai_BOM,12
+FLI-5084,Indigo,delhi_DEL,26
+FLI-3694,Air India,Bengaluru_BLR,12
+FLI-5927,Indigo,Mumbai_BOM,12
+FLI-2127,Indigo,Bengaluru_BLR,12
+FLI-4180,Vistara,Bengaluru_BLR,12
+FLI-5146,Air India,Kolkata_CCU,12
+FLI-5640,Indigo,Bengaluru_BLR,12
+FLI-5466,Air India,delhi_DEL,12
+FLI-2597,Indigo,delhi_DEL,12
+FLI-1962,Indigo,delhi_DEL,26
+FLI-6320,Indigo,delhi_DEL,26
+FLI-5924,Akasa Air,Bengaluru_BLR,12
+FLI-3017,Indigo,delhi_DEL,12
+FLI-7622,Akasa Air,delhi_DEL,-5
+FLI-8756,Indigo,delhi_DEL,12
+FLI-3874,Air India,delhi_DEL,12
+FLI-2127,Indigo,delhi_DEL,12
+FLI-6565,Air India,Mumbai_BOM,12
+FLI-3727,Indigo,Bengaluru_BLR,12
+FLI-1547,Akasa Air,delhi_DEL,12
+FLI-5086,Air India,delhi_DEL,26
+FLI-2534,Indigo,delhi_DEL,12
+FLI-5837,Indigo,delhi_DEL,12
+FLI-5188,Indigo,delhi_DEL,12
+FLI-6194,Air India,delhi_DEL,12
+FLI-3035,Akasa Air,Mumbai_BOM,12
+FLI-4233,Air India,delhi_DEL,12
+FLI-9928,Indigo,delhi_DEL,12
+FLI-3962,Akasa Air,delhi_DEL,12
+FLI-9551,Air India,delhi_DEL,12
+FLI-9815,Indigo,Mumbai_BOM,26
+FLI-2471,Indigo,delhi_DEL,12
+FLI-3305,Air India,Mumbai_BOM,12
+FLI-2429,Indigo,delhi_DEL,12
+FLI-5806,Akasa Air,Mumbai_BOM,12
+FLI-8282,Indigo,Kolkata_CCU,12
+FLI-4190,Indigo,Mumbai_BOM,12
+FLI-6124,Air India,Bengaluru_BLR,12
+FLI-3554,Air India,Mumbai_BOM,12
+FLI-8149,Indigo,Bengaluru_BLR,12
+FLI-7219,Vistara,Mumbai_BOM,12
+FLI-4428,Air India,Mumbai_BOM,12
+FLI-5533,Indigo,delhi_DEL,26
+FLI-7810,Indigo,Bengaluru_BLR,26
+FLI-4708,Indigo,Kolkata_CCU,12
+FLI-1221,Vistara,Kolkata_CCU,12
+FLI-1124,Vistara,delhi_DEL,12
+FLI-3084,Air India,Bengaluru_BLR,26
+FLI-9214,Vistara,Mumbai_BOM,12
+FLI-2341,Indigo,Kolkata_CCU,12
+FLI-3707,Air India,delhi_DEL,12
+FLI-7532,Vistara,delhi_DEL,12
+FLI-9096,Indigo,Bengaluru_BLR,26
+FLI-1188,Akasa Air,Bengaluru_BLR,12
+FLI-8839,Air India,Kolkata_CCU,26
+FLI-1851,Air India,delhi_DEL,12
+FLI-7085,Vistara,delhi_DEL,12
+FLI-4230,Indigo,delhi_DEL,12
+FLI-9044,Vistara,Bengaluru_BLR,12
+FLI-5285,Indigo,delhi_DEL,12
+FLI-2592,Akasa Air,Bengaluru_BLR,26
+FLI-7683,Vistara,delhi_DEL,12
+FLI-4768,Akasa Air,Bengaluru_BLR,26
+FLI-4281,Air India,Kolkata_CCU,-5
+FLI-6722,Air India,delhi_DEL,26
+FLI-3230,Vistara,Mumbai_BOM,12
+FLI-5930,Indigo,delhi_DEL,26
+FLI-2605,Air India,delhi_DEL,12
+FLI-2710,Air India,Bengaluru_BLR,12
+FLI-9542,Air India,Mumbai_BOM,12
+FLI-7709,Air India,delhi_DEL,26
+FLI-6668,Indigo,Kolkata_CCU,12
+FLI-8302,Akasa Air,Mumbai_BOM,12
+FLI-4665,Vistara,Kolkata_CCU,12
+FLI-9373,Air India,Mumbai_BOM,12
+FLI-5118,Air India,Mumbai_BOM,12
+FLI-8482,Indigo,Kolkata_CCU,12
+FLI-6105,Vistara,Bengaluru_BLR,12
+FLI-4438,Indigo,Bengaluru_BLR,26
+FLI-9482,Akasa Air,Bengaluru_BLR,26
+FLI-8762,Vistara,delhi_DEL,26
+FLI-3974,Air India,delhi_DEL,12
+FLI-4022,Indigo,Bengaluru_BLR,12
+FLI-8483,Vistara,delhi_DEL,12
+FLI-3396,Air India,Mumbai_BOM,12
+FLI-9478,Air India,Kolkata_CCU,12
+FLI-8724,Air India,Mumbai_BOM,12
+FLI-8691,Air India,Bengaluru_BLR,12
+FLI-3972,Vistara,Bengaluru_BLR,12
+FLI-8445,Akasa Air,Mumbai_BOM,12
+FLI-1047,Air India,Mumbai_BOM,12
+FLI-8895,Air India,Mumbai_BOM,26
+FLI-3155,Vistara,delhi_DEL,26
+FLI-2983,Air India,Mumbai_BOM,12
+FLI-4310,Akasa Air,delhi_DEL,12
+FLI-5383,Indigo,Kolkata_CCU,12
+FLI-3624,Indigo,Bengaluru_BLR,12
+FLI-1982,Indigo,Mumbai_BOM,12
+FLI-8892,Indigo,Bengaluru_BLR,12
+FLI-3364,Indigo,Mumbai_BOM,-5
+FLI-2562,Indigo,Bengaluru_BLR,12
+FLI-9847,Air India,Kolkata_CCU,-5
+FLI-2103,Vistara,Bengaluru_BLR,12
+FLI-4676,Indigo,delhi_DEL,12
+FLI-4193,Vistara,delhi_DEL,12
+FLI-5352,Vistara,Mumbai_BOM,12
+FLI-9749,Indigo,delhi_DEL,26
+FLI-8445,Indigo,Bengaluru_BLR,12
+FLI-3115,Air India,Mumbai_BOM,12
+FLI-6814,Indigo,delhi_DEL,12
+FLI-4048,Vistara,Bengaluru_BLR,12
+FLI-9441,Indigo,Mumbai_BOM,12
+FLI-2671,Air India,delhi_DEL,12
+FLI-2582,Indigo,Kolkata_CCU,12
+FLI-9455,Air India,Mumbai_BOM,12
+FLI-6662,Indigo,Bengaluru_BLR,12
+FLI-9357,Indigo,Kolkata_CCU,12
+FLI-2862,Indigo,delhi_DEL,12
+FLI-5398,Air India,Kolkata_CCU,26
+FLI-9133,Indigo,Mumbai_BOM,12
+FLI-3584,Vistara,Bengaluru_BLR,12
+FLI-1484,Indigo,Mumbai_BOM,26
+FLI-3927,Air India,delhi_DEL,26
+FLI-7311,Air India,delhi_DEL,12
+FLI-9300,Air India,Kolkata_CCU,12
+FLI-3162,Air India,Kolkata_CCU,12
+FLI-1747,Indigo,delhi_DEL,12
+FLI-9321,Vistara,Mumbai_BOM,12
+FLI-3519,Vistara,delhi_DEL,12
+FLI-2020,Air India,delhi_DEL,12
+FLI-5393,Indigo,Bengaluru_BLR,26
+FLI-6312,Indigo,delhi_DEL,12
+FLI-9649,Vistara,delhi_DEL,12
+FLI-7608,Indigo,delhi_DEL,12
+FLI-3691,Akasa Air,Kolkata_CCU,26
+FLI-8879,Indigo,Kolkata_CCU,26
+FLI-9837,Vistara,Kolkata_CCU,12
+FLI-6924,Indigo,Kolkata_CCU,12
+FLI-1882,Akasa Air,Kolkata_CCU,12
+FLI-1863,Air India,Bengaluru_BLR,12
+FLI-3172,Indigo,delhi_DEL,12
+FLI-9116,Indigo,delhi_DEL,12
+FLI-3797,Air India,delhi_DEL,12
+FLI-7778,Vistara,Bengaluru_BLR,-5
+FLI-9901,Vistara,Bengaluru_BLR,26
+FLI-7018,Indigo,delhi_DEL,26
+FLI-7674,Indigo,Mumbai_BOM,12
+FLI-4747,Indigo,Mumbai_BOM,12
+FLI-8978,Vistara,Mumbai_BOM,12
+FLI-4619,Indigo,delhi_DEL,26
+FLI-3626,Indigo,Bengaluru_BLR,12
+FLI-7866,Vistara,Mumbai_BOM,12
+FLI-7831,Indigo,Mumbai_BOM,26
+FLI-1887,Air India,Mumbai_BOM,12
+FLI-8463,Indigo,delhi_DEL,12
+FLI-7832,Vistara,Kolkata_CCU,12
+FLI-9655,Indigo,Bengaluru_BLR,12
+FLI-6593,Air India,Kolkata_CCU,12
+FLI-6013,Air India,Mumbai_BOM,12
+FLI-4654,Akasa Air,Kolkata_CCU,12
+FLI-8180,Vistara,delhi_DEL,26
+FLI-1354,Akasa Air,Kolkata_CCU,12
+FLI-7298,Vistara,delhi_DEL,12
+FLI-9299,Indigo,Mumbai_BOM,26
+FLI-3609,Akasa Air,Bengaluru_BLR,26
+FLI-4772,Indigo,delhi_DEL,12
+FLI-4632,Indigo,delhi_DEL,26
+FLI-1242,Air India,delhi_DEL,12
+FLI-6990,Vistara,Mumbai_BOM,26
+FLI-1902,Vistara,Mumbai_BOM,12
+FLI-3186,Air India,Bengaluru_BLR,12
+FLI-8025,Indigo,Bengaluru_BLR,12
+FLI-9299,Akasa Air,Mumbai_BOM,12
+FLI-7487,Indigo,Bengaluru_BLR,12
+FLI-4564,Vistara,Kolkata_CCU,12
+FLI-8161,Vistara,Bengaluru_BLR,12
+FLI-5458,Indigo,Mumbai_BOM,26
+FLI-9109,Air India,Mumbai_BOM,26
+FLI-7439,Vistara,Kolkata_CCU,26
+FLI-9070,Indigo,Bengaluru_BLR,26
+FLI-1602,Vistara,Mumbai_BOM,12
+FLI-8860,Indigo,Bengaluru_BLR,12
+FLI-1618,Vistara,delhi_DEL,26
+FLI-3112,Vistara,Mumbai_BOM,12
+FLI-8838,Indigo,delhi_DEL,12
+FLI-5078,Air India,delhi_DEL,12
+FLI-2399,Indigo,Kolkata_CCU,12
+FLI-5148,Indigo,Kolkata_CCU,12
+FLI-7680,Indigo,Bengaluru_BLR,26
+FLI-6808,Vistara,delhi_DEL,12
+FLI-9834,Akasa Air,delhi_DEL,-5
+FLI-9695,Indigo,Mumbai_BOM,12
+FLI-3728,Vistara,Kolkata_CCU,12
+FLI-4928,Air India,Mumbai_BOM,26
+FLI-6038,Indigo,delhi_DEL,12
+FLI-2667,Air India,Mumbai_BOM,12
+FLI-9719,Akasa Air,Mumbai_BOM,12
+FLI-6889,Indigo,delhi_DEL,26
+FLI-7731,Air India,Mumbai_BOM,12
+FLI-2043,Indigo,Bengaluru_BLR,12
+FLI-2153,Indigo,Kolkata_CCU,12
+FLI-7146,Air India,Bengaluru_BLR,12
+FLI-5854,Indigo,Bengaluru_BLR,12
+FLI-5209,Indigo,delhi_DEL,12
+FLI-1013,Air India,delhi_DEL,26
+FLI-4712,Akasa Air,delhi_DEL,12
+FLI-2472,Indigo,Kolkata_CCU,12
+FLI-6762,Indigo,Mumbai_BOM,12
+FLI-5631,Indigo,delhi_DEL,26
+FLI-4460,Indigo,Bengaluru_BLR,12
+FLI-6413,Indigo,Mumbai_BOM,12
+FLI-1536,Indigo,Mumbai_BOM,12
+FLI-3561,Akasa Air,Mumbai_BOM,26
+FLI-9341,Indigo,delhi_DEL,12
+FLI-1778,Indigo,Mumbai_BOM,12
+FLI-9060,Akasa Air,Mumbai_BOM,26
+FLI-2030,Air India,Mumbai_BOM,26
+FLI-3768,Akasa Air,Mumbai_BOM,12
+FLI-1440,Indigo,Mumbai_BOM,12
+FLI-6116,Air India,delhi_DEL,26
+FLI-9289,Indigo,Mumbai_BOM,12
+FLI-5153,Air India,delhi_DEL,26
+FLI-2101,Indigo,delhi_DEL,12
+FLI-3576,Indigo,delhi_DEL,26
+FLI-4102,Air India,Mumbai_BOM,12
+FLI-4706,Indigo,delhi_DEL,26
+FLI-6162,Indigo,Mumbai_BOM,26
+FLI-6131,Indigo,delhi_DEL,12
+FLI-5750,Indigo,delhi_DEL,12
+FLI-8080,Indigo,Mumbai_BOM,12
+FLI-7272,Indigo,delhi_DEL,12
+FLI-4393,Indigo,Mumbai_BOM,26
+FLI-2874,Air India,delhi_DEL,26
+FLI-6798,Air India,Mumbai_BOM,12
+FLI-2943,Akasa Air,delhi_DEL,12
+FLI-2442,Air India,Bengaluru_BLR,26
+FLI-8597,Air India,Bengaluru_BLR,12
+FLI-5792,Akasa Air,Bengaluru_BLR,12
+FLI-3223,Indigo,Mumbai_BOM,26
+FLI-1094,Indigo,Mumbai_BOM,12
+FLI-4151,Akasa Air,Mumbai_BOM,12
+FLI-5194,Vistara,delhi_DEL,12
+FLI-1395,Indigo,delhi_DEL,-5
+FLI-4925,Indigo,Mumbai_BOM,26
+FLI-4179,Air India,Kolkata_CCU,26
+FLI-4672,Vistara,Mumbai_BOM,12
+FLI-1052,Indigo,delhi_DEL,12
+FLI-9805,Air India,Bengaluru_BLR,26
+FLI-4276,Air India,Mumbai_BOM,12
+FLI-7128,Air India,Mumbai_BOM,26
+FLI-1418,Indigo,Mumbai_BOM,12
+FLI-4982,Indigo,Bengaluru_BLR,26
+FLI-7894,Indigo,Bengaluru_BLR,12
+FLI-2237,Indigo,Bengaluru_BLR,12
+FLI-9803,Vistara,delhi_DEL,12
+FLI-8845,Indigo,Mumbai_BOM,12
+FLI-7126,Indigo,Bengaluru_BLR,12
+FLI-7850,Vistara,Kolkata_CCU,12
+FLI-7432,Indigo,Bengaluru_BLR,26
+FLI-2312,Indigo,Mumbai_BOM,12
+FLI-8189,Indigo,Kolkata_CCU,26
+FLI-9516,Vistara,Mumbai_BOM,12
+FLI-2297,Vistara,Mumbai_BOM,12
+FLI-1824,Air India,Kolkata_CCU,26
+FLI-3353,Indigo,Mumbai_BOM,12
+FLI-1231,Air India,delhi_DEL,12
+FLI-1652,Indigo,Kolkata_CCU,12
+FLI-2946,Indigo,Mumbai_BOM,12
+FLI-2417,Indigo,Bengaluru_BLR,12
+FLI-4742,Akasa Air,Bengaluru_BLR,12
+FLI-7084,Vistara,delhi_DEL,12
+FLI-2252,Indigo,Mumbai_BOM,12
+FLI-4506,Air India,delhi_DEL,12
+FLI-2613,Indigo,Kolkata_CCU,12
+FLI-1728,Air India,delhi_DEL,12
+FLI-2423,Air India,Bengaluru_BLR,12
+FLI-9338,Indigo,Bengaluru_BLR,12
+FLI-1908,Vistara,Kolkata_CCU,12
+FLI-3463,Air India,Bengaluru_BLR,12
+FLI-3732,Akasa Air,Kolkata_CCU,26
+FLI-9094,Vistara,Mumbai_BOM,26
+FLI-9987,Vistara,Mumbai_BOM,26
+FLI-1053,Air India,Mumbai_BOM,26
+FLI-7963,Indigo,delhi_DEL,12
+FLI-8953,Indigo,Kolkata_CCU,12
+FLI-5666,Indigo,delhi_DEL,12
+FLI-4758,Indigo,Bengaluru_BLR,12
+FLI-3685,Air India,Mumbai_BOM,26
+FLI-7668,Vistara,delhi_DEL,12
+FLI-6952,Indigo,delhi_DEL,12
+FLI-7582,Vistara,Kolkata_CCU,12
+FLI-9623,Vistara,delhi_DEL,12
+FLI-3895,Indigo,delhi_DEL,12
+FLI-3231,Indigo,Mumbai_BOM,12
+FLI-9980,Indigo,Bengaluru_BLR,12
+FLI-5325,Indigo,Kolkata_CCU,26
+FLI-8670,Akasa Air,delhi_DEL,12
+FLI-8435,Vistara,Kolkata_CCU,12
+FLI-6362,Vistara,Bengaluru_BLR,26
+FLI-9202,Indigo,delhi_DEL,12
+FLI-5551,Indigo,delhi_DEL,12
+FLI-7821,Indigo,Bengaluru_BLR,12
+FLI-3829,Air India,Kolkata_CCU,26
+FLI-7063,Indigo,Kolkata_CCU,12
+FLI-6859,Indigo,Kolkata_CCU,12
+FLI-7083,Air India,Bengaluru_BLR,12
+FLI-8439,Air India,Mumbai_BOM,12
+FLI-7724,Vistara,delhi_DEL,12
+FLI-8496,Air India,Mumbai_BOM,12
+FLI-9697,Indigo,delhi_DEL,12
+FLI-1495,Air India,delhi_DEL,12
+FLI-3442,Vistara,Mumbai_BOM,12
+FLI-1664,Indigo,delhi_DEL,12
+FLI-7806,Air India,Mumbai_BOM,12
+FLI-8099,Air India,delhi_DEL,12
+FLI-2883,Air India,Mumbai_BOM,12
+FLI-9087,Indigo,Kolkata_CCU,-5
+FLI-9676,Indigo,Kolkata_CCU,12
+FLI-3868,Indigo,delhi_DEL,26
+FLI-1643,Air India,delhi_DEL,12
+FLI-6309,Indigo,Mumbai_BOM,12
+FLI-9132,Air India,Mumbai_BOM,12
+FLI-1175,Akasa Air,delhi_DEL,26
+FLI-7828,Vistara,Mumbai_BOM,-5
+FLI-1282,Indigo,Mumbai_BOM,12
+FLI-4358,Indigo,Mumbai_BOM,26
+FLI-3969,Indigo,Kolkata_CCU,12
+FLI-9500,Air India,Kolkata_CCU,26
+FLI-5840,Air India,Bengaluru_BLR,26
+FLI-4834,Vistara,Bengaluru_BLR,26
+FLI-1872,Indigo,delhi_DEL,12
+FLI-2556,Vistara,Bengaluru_BLR,26
+FLI-1920,Indigo,delhi_DEL,12
+FLI-8627,Vistara,Kolkata_CCU,12
+FLI-7221,Air India,Bengaluru_BLR,26
+FLI-6943,Air India,delhi_DEL,12
+FLI-5935,Air India,delhi_DEL,12
+FLI-2955,Air India,delhi_DEL,12
+FLI-9810,Indigo,delhi_DEL,26
+FLI-7948,Indigo,delhi_DEL,12
+FLI-6874,Vistara,Kolkata_CCU,12
+FLI-2603,Akasa Air,Mumbai_BOM,26
+FLI-4524,Vistara,Mumbai_BOM,12
+FLI-9909,Indigo,delhi_DEL,12
+FLI-7530,Air India,Mumbai_BOM,12
+FLI-3960,Akasa Air,delhi_DEL,12
+FLI-7905,Vistara,Mumbai_BOM,26
+FLI-3833,Vistara,Mumbai_BOM,-5
+FLI-8712,Indigo,delhi_DEL,-5
+FLI-9526,Indigo,Bengaluru_BLR,26
+FLI-7601,Indigo,Bengaluru_BLR,12
+FLI-4122,Air India,Mumbai_BOM,12
+FLI-1440,Air India,Mumbai_BOM,12
+FLI-2488,Indigo,Bengaluru_BLR,26
+FLI-5745,Indigo,delhi_DEL,26
+FLI-9791,Air India,Kolkata_CCU,12
+FLI-5228,Vistara,delhi_DEL,12
+FLI-8784,Air India,Kolkata_CCU,12
+FLI-2922,Indigo,delhi_DEL,12
+FLI-9879,Indigo,Mumbai_BOM,26
+FLI-3759,Indigo,Mumbai_BOM,12
+FLI-8149,Vistara,Mumbai_BOM,12
+FLI-1437,Air India,Mumbai_BOM,12
+FLI-3957,Indigo,Mumbai_BOM,12
+FLI-5001,Indigo,Mumbai_BOM,26
+FLI-6106,Indigo,Mumbai_BOM,12
+FLI-3926,Indigo,Mumbai_BOM,12
+FLI-2296,Indigo,Mumbai_BOM,12
+FLI-2479,Indigo,Kolkata_CCU,12
+FLI-4385,Indigo,delhi_DEL,26
+FLI-6332,Indigo,Mumbai_BOM,-5
+FLI-6839,Indigo,delhi_DEL,12
+FLI-2682,Indigo,delhi_DEL,-5
+FLI-4497,Indigo,Kolkata_CCU,12
+FLI-3935,Indigo,delhi_DEL,12
+FLI-1209,Vistara,Kolkata_CCU,12
+FLI-7568,Vistara,Kolkata_CCU,12
+FLI-4330,Indigo,Bengaluru_BLR,12
+FLI-7676,Vistara,delhi_DEL,12
+FLI-2941,Indigo,Kolkata_CCU,12
+FLI-1135,Indigo,Mumbai_BOM,12
+FLI-7973,Air India,delhi_DEL,12
+FLI-8983,Indigo,Mumbai_BOM,12
+FLI-6936,Indigo,Bengaluru_BLR,12
+FLI-5374,Indigo,Kolkata_CCU,12
+FLI-2951,Air India,Bengaluru_BLR,12
+FLI-3040,Akasa Air,Kolkata_CCU,12
+FLI-4387,Air India,Mumbai_BOM,12
+FLI-5655,Vistara,delhi_DEL,12
+FLI-3876,Indigo,Mumbai_BOM,26
+FLI-6189,Indigo,Mumbai_BOM,12
+FLI-7028,Indigo,delhi_DEL,12
+FLI-8458,Indigo,Kolkata_CCU,26
+FLI-4669,Indigo,Bengaluru_BLR,26
+FLI-6582,Vistara,delhi_DEL,12
+FLI-7395,Indigo,Bengaluru_BLR,12
+FLI-7772,Akasa Air,Bengaluru_BLR,12
+FLI-6265,Vistara,delhi_DEL,12
+FLI-9701,Air India,Kolkata_CCU,12
+FLI-4544,Vistara,Kolkata_CCU,12
+FLI-1309,Indigo,delhi_DEL,12
+FLI-2153,Akasa Air,Bengaluru_BLR,12
+FLI-1114,Indigo,delhi_DEL,12
+FLI-6193,Vistara,Bengaluru_BLR,26
+FLI-6260,Akasa Air,delhi_DEL,26
+FLI-5781,Indigo,delhi_DEL,12
+FLI-5468,Air India,delhi_DEL,26
+FLI-9788,Akasa Air,Bengaluru_BLR,12
+FLI-2293,Akasa Air,Bengaluru_BLR,26
+FLI-5057,Air India,delhi_DEL,12
+FLI-5245,Air India,Bengaluru_BLR,12
+FLI-3806,Vistara,Bengaluru_BLR,12
+FLI-4042,Indigo,Mumbai_BOM,12
+FLI-1570,Indigo,Mumbai_BOM,12
+FLI-6706,Indigo,delhi_DEL,12
+FLI-2418,Indigo,delhi_DEL,12
+FLI-1314,Vistara,Kolkata_CCU,12
+FLI-9195,Indigo,delhi_DEL,26
+FLI-9197,Vistara,Kolkata_CCU,26
+FLI-6371,Indigo,Kolkata_CCU,12
+FLI-3875,Vistara,Bengaluru_BLR,12
+FLI-6479,Indigo,delhi_DEL,26
+FLI-8616,Air India,Mumbai_BOM,12
+FLI-1473,Air India,delhi_DEL,12
+FLI-1145,Air India,Bengaluru_BLR,-5
+FLI-7832,Akasa Air,Bengaluru_BLR,12
+FLI-4723,Indigo,Mumbai_BOM,12
+FLI-2544,Indigo,Kolkata_CCU,12
+FLI-9651,Air India,Mumbai_BOM,26
+FLI-4476,Akasa Air,Mumbai_BOM,12
+FLI-5572,Indigo,Bengaluru_BLR,12
+FLI-6877,Indigo,delhi_DEL,12
+FLI-7196,Vistara,Bengaluru_BLR,12
+FLI-8750,Air India,Mumbai_BOM,12
+FLI-6853,Akasa Air,Bengaluru_BLR,12
+FLI-7288,Akasa Air,Bengaluru_BLR,12
+FLI-9630,Indigo,Kolkata_CCU,12
+FLI-1715,Air India,delhi_DEL,12
+FLI-8606,Indigo,Bengaluru_BLR,26
+FLI-3237,Air India,delhi_DEL,12
+FLI-6074,Vistara,Kolkata_CCU,12
+FLI-2671,Vistara,Kolkata_CCU,12
+FLI-7908,Air India,Kolkata_CCU,12
+FLI-6162,Vistara,delhi_DEL,26
+FLI-8470,Air India,Mumbai_BOM,26
+FLI-5476,Vistara,Kolkata_CCU,12
+FLI-6038,Air India,Kolkata_CCU,-5
+FLI-7191,Air India,Mumbai_BOM,26
+FLI-8275,Vistara,Kolkata_CCU,12
+FLI-2435,Indigo,Bengaluru_BLR,12
+FLI-3091,Air India,Bengaluru_BLR,12
+FLI-9031,Indigo,Mumbai_BOM,12
+FLI-3069,Indigo,delhi_DEL,12
+FLI-3069,Indigo,Kolkata_CCU,12
+FLI-4719,Indigo,delhi_DEL,12
+FLI-4480,Indigo,Bengaluru_BLR,12
+FLI-6786,Air India,delhi_DEL,12
+FLI-4540,Indigo,Mumbai_BOM,12
+FLI-5584,Indigo,Bengaluru_BLR,12
+FLI-6889,Air India,Mumbai_BOM,12
+FLI-1396,Indigo,Mumbai_BOM,12
+FLI-5376,Indigo,Kolkata_CCU,26
+FLI-8324,Akasa Air,Mumbai_BOM,12
+FLI-6922,Vistara,Mumbai_BOM,12
+FLI-5864,Air India,delhi_DEL,12
+FLI-6848,Indigo,Mumbai_BOM,12
+FLI-4650,Vistara,Bengaluru_BLR,12
+FLI-6135,Air India,Kolkata_CCU,12
+FLI-5837,Indigo,Mumbai_BOM,12
+FLI-1205,Air India,Bengaluru_BLR,26
+FLI-1504,Vistara,Bengaluru_BLR,26
+FLI-5836,Air India,delhi_DEL,12
+FLI-3024,Indigo,delhi_DEL,12
+FLI-4229,Indigo,Mumbai_BOM,12
+FLI-9545,Vistara,Mumbai_BOM,12
+FLI-5623,Indigo,delhi_DEL,12
+FLI-4642,Indigo,delhi_DEL,12
+FLI-2402,Indigo,Kolkata_CCU,12
+FLI-9369,Air India,Mumbai_BOM,12
+FLI-9487,Indigo,delhi_DEL,12
+FLI-8778,Akasa Air,Bengaluru_BLR,12
+FLI-2525,Indigo,Kolkata_CCU,12
+FLI-3879,Air India,Kolkata_CCU,26
+FLI-2148,Akasa Air,Bengaluru_BLR,12
+FLI-5460,Akasa Air,delhi_DEL,12
+FLI-5795,Vistara,delhi_DEL,26
+FLI-9022,Indigo,Mumbai_BOM,12
+FLI-3862,Vistara,Kolkata_CCU,12
+FLI-3547,Akasa Air,Bengaluru_BLR,12
+FLI-5284,Akasa Air,Bengaluru_BLR,12
+FLI-3853,Air India,Kolkata_CCU,26
+FLI-6058,Vistara,delhi_DEL,12
+FLI-7795,Vistara,Bengaluru_BLR,12
+FLI-5628,Air India,Mumbai_BOM,12
+FLI-6196,Vistara,Mumbai_BOM,26
+FLI-6436,Akasa Air,delhi_DEL,26
+FLI-9949,Vistara,delhi_DEL,12
+FLI-5227,Indigo,Bengaluru_BLR,12
+FLI-8719,Indigo,Bengaluru_BLR,12
+FLI-3596,Air India,delhi_DEL,-5
+FLI-8644,Indigo,Kolkata_CCU,12
+FLI-6035,Indigo,Mumbai_BOM,12
+FLI-4352,Indigo,delhi_DEL,12
+FLI-6769,Akasa Air,Mumbai_BOM,12
+FLI-5545,Indigo,delhi_DEL,12
+FLI-8998,Indigo,Kolkata_CCU,-5
+FLI-6889,Indigo,delhi_DEL,12
+FLI-9723,Air India,Bengaluru_BLR,12
+FLI-8409,Akasa Air,Bengaluru_BLR,12
+FLI-2547,Vistara,Bengaluru_BLR,12
+FLI-6239,Akasa Air,Kolkata_CCU,12
+FLI-5303,Air India,Kolkata_CCU,26
+FLI-5761,Vistara,delhi_DEL,12
+FLI-5223,Akasa Air,Mumbai_BOM,12
+FLI-7164,Indigo,Mumbai_BOM,12
+FLI-3724,Vistara,Bengaluru_BLR,12
+FLI-4966,Vistara,Bengaluru_BLR,12
+FLI-2197,Indigo,Bengaluru_BLR,12
+FLI-2199,Air India,delhi_DEL,12
+FLI-9310,Air India,Mumbai_BOM,12
+FLI-7745,Indigo,Bengaluru_BLR,26
+FLI-7326,Air India,Bengaluru_BLR,12
+FLI-4781,Air India,Kolkata_CCU,12
+FLI-6132,Air India,delhi_DEL,12
+FLI-9598,Indigo,delhi_DEL,12
+FLI-1143,Indigo,delhi_DEL,12
+FLI-2995,Air India,Mumbai_BOM,12
+FLI-7482,Indigo,Bengaluru_BLR,12
+FLI-6055,Vistara,Bengaluru_BLR,12
+FLI-7708,Indigo,delhi_DEL,26
+FLI-6525,Vistara,delhi_DEL,12
+FLI-3768,Air India,delhi_DEL,12
+FLI-8389,Indigo,delhi_DEL,12
+FLI-7139,Vistara,Mumbai_BOM,26
+FLI-6712,Air India,Mumbai_BOM,12
+FLI-5473,Indigo,delhi_DEL,12
+FLI-8006,Vistara,Bengaluru_BLR,26
+FLI-2284,Air India,delhi_DEL,12
+FLI-2717,Indigo,delhi_DEL,12
+FLI-6786,Indigo,Mumbai_BOM,26
+FLI-5088,Air India,Kolkata_CCU,26
+FLI-6107,Vistara,Bengaluru_BLR,12
+FLI-3798,Akasa Air,delhi_DEL,12
+FLI-1924,Indigo,Bengaluru_BLR,26
+FLI-2519,Indigo,Mumbai_BOM,12
+FLI-5315,Akasa Air,Mumbai_BOM,12
+FLI-7135,Indigo,Bengaluru_BLR,12
+FLI-6343,Indigo,delhi_DEL,12
+FLI-8694,Indigo,delhi_DEL,12
+FLI-6330,Indigo,Bengaluru_BLR,12
+FLI-1107,Akasa Air,Mumbai_BOM,-5
+FLI-5932,Indigo,Mumbai_BOM,12
+FLI-2132,Vistara,delhi_DEL,12
+FLI-5334,Air India,delhi_DEL,26
+FLI-1388,Akasa Air,Bengaluru_BLR,12
+FLI-6866,Indigo,Bengaluru_BLR,26
+FLI-8467,Air India,Mumbai_BOM,12
+FLI-5463,Air India,Bengaluru_BLR,12
+FLI-2833,Indigo,delhi_DEL,12
+FLI-5348,Indigo,delhi_DEL,12
+FLI-1109,Air India,Mumbai_BOM,12
+FLI-9221,Air India,Bengaluru_BLR,26
+FLI-9823,Vistara,delhi_DEL,12
+FLI-7850,Vistara,Kolkata_CCU,26
+FLI-4046,Air India,delhi_DEL,12
+FLI-2240,Indigo,Bengaluru_BLR,26
+FLI-5628,Indigo,Bengaluru_BLR,12
+FLI-1423,Indigo,Kolkata_CCU,12
+FLI-8170,Indigo,delhi_DEL,12
+FLI-4591,Vistara,Kolkata_CCU,12
+FLI-7064,Indigo,Kolkata_CCU,12
+FLI-1789,Indigo,delhi_DEL,12
+FLI-1742,Vistara,Kolkata_CCU,12
+FLI-4048,Air India,Bengaluru_BLR,12
+FLI-1262,Indigo,Bengaluru_BLR,12
+FLI-2423,Indigo,delhi_DEL,26
+FLI-7148,Akasa Air,Bengaluru_BLR,12
+FLI-3584,Indigo,Kolkata_CCU,12
+FLI-5933,Indigo,Mumbai_BOM,12
+FLI-2264,Air India,Mumbai_BOM,12
+FLI-3765,Indigo,delhi_DEL,12
+FLI-4067,Air India,delhi_DEL,12
+FLI-6694,Indigo,Mumbai_BOM,12
+FLI-2593,Indigo,Mumbai_BOM,12
+FLI-4277,Air India,Kolkata_CCU,12
+FLI-6666,Indigo,Mumbai_BOM,26
+FLI-4312,Vistara,Kolkata_CCU,26
+FLI-8473,Air India,delhi_DEL,26
+FLI-8725,Indigo,delhi_DEL,12
+FLI-5014,Vistara,Bengaluru_BLR,26
+FLI-9562,Indigo,Mumbai_BOM,12
+FLI-9540,Air India,delhi_DEL,-5
+FLI-9137,Air India,Mumbai_BOM,12
+FLI-7035,Indigo,Mumbai_BOM,12
+FLI-3807,Indigo,Kolkata_CCU,12
+FLI-8027,Vistara,Kolkata_CCU,12
+FLI-7306,Air India,Mumbai_BOM,12
+FLI-2013,Air India,delhi_DEL,12
+FLI-8809,Air India,delhi_DEL,12
+FLI-3215,Air India,delhi_DEL,12
+FLI-6767,Indigo,Bengaluru_BLR,26
+FLI-4464,Vistara,Kolkata_CCU,26
+FLI-3780,Air India,delhi_DEL,12
+FLI-2229,Indigo,Bengaluru_BLR,12
+FLI-6695,Indigo,Mumbai_BOM,12
+FLI-3002,Air India,Bengaluru_BLR,26
+FLI-6524,Indigo,delhi_DEL,26
+FLI-8756,Indigo,Kolkata_CCU,12
+FLI-9175,Air India,Mumbai_BOM,12
+FLI-3235,Air India,Kolkata_CCU,26
+FLI-1213,Indigo,Kolkata_CCU,26
+FLI-9400,Air India,delhi_DEL,12
+FLI-2998,Indigo,delhi_DEL,12
+FLI-1430,Indigo,delhi_DEL,26
+FLI-8561,Indigo,Bengaluru_BLR,12
+FLI-1586,Akasa Air,Mumbai_BOM,-5
+FLI-1546,Indigo,delhi_DEL,12
+FLI-9175,Akasa Air,delhi_DEL,12
+FLI-8594,Vistara,delhi_DEL,12
+FLI-9217,Indigo,Mumbai_BOM,12
+FLI-9310,Indigo,Bengaluru_BLR,12
+FLI-6879,Vistara,Bengaluru_BLR,12
+FLI-9287,Air India,delhi_DEL,12
+FLI-9130,Indigo,delhi_DEL,12
+FLI-2537,Akasa Air,delhi_DEL,12
+FLI-6615,Air India,Mumbai_BOM,26
+FLI-1357,Indigo,Mumbai_BOM,12
+FLI-5964,Indigo,Mumbai_BOM,12
+FLI-5079,Air India,delhi_DEL,26
+FLI-4333,Indigo,Mumbai_BOM,12
+FLI-5993,Air India,Bengaluru_BLR,-5
+FLI-5584,Vistara,Kolkata_CCU,12
+FLI-6923,Vistara,Bengaluru_BLR,26
+FLI-8350,Air India,Bengaluru_BLR,12
+FLI-9918,Indigo,Bengaluru_BLR,26
+FLI-4745,Indigo,delhi_DEL,26
+FLI-3255,Vistara,Kolkata_CCU,12
+FLI-5285,Indigo,Mumbai_BOM,-5
+FLI-9751,Vistara,delhi_DEL,26
+FLI-7856,Air India,Mumbai_BOM,12
+FLI-7263,Indigo,Bengaluru_BLR,12
+FLI-3507,Air India,Bengaluru_BLR,12
+FLI-4420,Indigo,Bengaluru_BLR,12
+FLI-2196,Vistara,Mumbai_BOM,12
+FLI-7762,Indigo,Mumbai_BOM,12
+FLI-9714,Air India,delhi_DEL,12
+FLI-9484,Indigo,Mumbai_BOM,12
+FLI-7082,Indigo,Bengaluru_BLR,12
+FLI-7795,Air India,delhi_DEL,12
+FLI-3300,Indigo,delhi_DEL,12
+FLI-8301,Akasa Air,delhi_DEL,26
+FLI-3932,Akasa Air,Mumbai_BOM,26
+FLI-5822,Indigo,Mumbai_BOM,26
+FLI-1522,Akasa Air,Bengaluru_BLR,12
+FLI-1764,Vistara,delhi_DEL,26
+FLI-8782,Indigo,delhi_DEL,12
+FLI-2292,Air India,delhi_DEL,12
+FLI-9718,Air India,Mumbai_BOM,12
+FLI-6963,Vistara,Mumbai_BOM,12
+FLI-9617,Air India,Mumbai_BOM,12
+FLI-2754,Akasa Air,Mumbai_BOM,12
+FLI-2600,Indigo,Mumbai_BOM,12
+FLI-2247,Vistara,delhi_DEL,26
+FLI-7299,Indigo,Bengaluru_BLR,12
+FLI-3607,Air India,Kolkata_CCU,12
+FLI-8373,Vistara,Mumbai_BOM,26
+FLI-6022,Indigo,delhi_DEL,-5
+FLI-7388,Air India,delhi_DEL,12
+FLI-3241,Indigo,delhi_DEL,12
+FLI-9386,Indigo,delhi_DEL,12
+FLI-6209,Air India,Mumbai_BOM,-5
+FLI-7077,Indigo,delhi_DEL,12
+FLI-7168,Indigo,Mumbai_BOM,12
+FLI-6942,Indigo,delhi_DEL,12
+FLI-7118,Vistara,Mumbai_BOM,26
+FLI-6217,Vistara,Kolkata_CCU,12
+FLI-3266,Vistara,Kolkata_CCU,12
+FLI-1206,Indigo,Bengaluru_BLR,12
+FLI-2958,Air India,delhi_DEL,-5
+FLI-4385,Akasa Air,delhi_DEL,26
+FLI-5094,Indigo,delhi_DEL,-5
+FLI-9111,Vistara,delhi_DEL,26
+FLI-4565,Indigo,Bengaluru_BLR,26
+FLI-8134,Air India,delhi_DEL,12
+FLI-3045,Indigo,Kolkata_CCU,12
+FLI-6139,Vistara,delhi_DEL,12
+FLI-3032,Air India,Mumbai_BOM,12
+FLI-8267,Vistara,Mumbai_BOM,26
+FLI-7378,Indigo,Mumbai_BOM,12
+FLI-4883,Indigo,delhi_DEL,12
+FLI-1881,Indigo,delhi_DEL,12
+FLI-3678,Indigo,Bengaluru_BLR,12
+FLI-3749,Indigo,Mumbai_BOM,12
+FLI-3456,Indigo,Mumbai_BOM,12
+FLI-9630,Vistara,Kolkata_CCU,12
+FLI-5148,Indigo,Mumbai_BOM,12
+FLI-9842,Air India,Bengaluru_BLR,12
+FLI-3700,Air India,delhi_DEL,26
+FLI-9774,Indigo,Bengaluru_BLR,26
+FLI-8634,Air India,Mumbai_BOM,26
+FLI-5881,Indigo,delhi_DEL,12
+FLI-7582,Vistara,delhi_DEL,26
+FLI-8399,Air India,delhi_DEL,12
+FLI-8356,Indigo,delhi_DEL,12
+FLI-7304,Air India,delhi_DEL,26
+FLI-4498,Vistara,Kolkata_CCU,12
+FLI-2148,Vistara,Mumbai_BOM,12
+FLI-9181,Akasa Air,Bengaluru_BLR,26
+FLI-9117,Indigo,delhi_DEL,12
+FLI-2035,Indigo,Kolkata_CCU,12
+FLI-5661,Indigo,delhi_DEL,-5
+FLI-9328,Air India,Bengaluru_BLR,12
+FLI-8759,Air India,delhi_DEL,12
+FLI-1898,Indigo,Bengaluru_BLR,12
+FLI-9458,Air India,Bengaluru_BLR,-5
+FLI-6223,Vistara,Bengaluru_BLR,12
+FLI-2391,Indigo,Bengaluru_BLR,12
+FLI-8733,Indigo,Mumbai_BOM,26
+FLI-9065,Akasa Air,delhi_DEL,12
+FLI-3286,Akasa Air,Kolkata_CCU,12
+FLI-9892,Indigo,Kolkata_CCU,26
+FLI-9339,Air India,delhi_DEL,26
+FLI-3460,Indigo,Bengaluru_BLR,26
+FLI-8072,Indigo,Kolkata_CCU,26
+FLI-4048,Air India,Bengaluru_BLR,12
+FLI-8798,Air India,Mumbai_BOM,12
+FLI-6375,Akasa Air,Bengaluru_BLR,12
+FLI-1331,Vistara,delhi_DEL,12
+FLI-8406,Indigo,delhi_DEL,12
+FLI-2893,Indigo,Mumbai_BOM,12
+FLI-1922,Indigo,Bengaluru_BLR,12
+FLI-4881,Indigo,Mumbai_BOM,12
+FLI-4987,Indigo,delhi_DEL,12
+FLI-9653,Indigo,Kolkata_CCU,26
+FLI-5106,Indigo,delhi_DEL,12
+FLI-8276,Vistara,Mumbai_BOM,12
+FLI-1352,Indigo,Mumbai_BOM,12
+FLI-1842,Indigo,delhi_DEL,12
+FLI-8398,Indigo,Mumbai_BOM,26
+FLI-4252,Indigo,Mumbai_BOM,12
+FLI-8859,Akasa Air,Bengaluru_BLR,12
+FLI-5887,Vistara,Kolkata_CCU,12
+FLI-7901,Indigo,Mumbai_BOM,12
+FLI-8716,Vistara,Bengaluru_BLR,12
+FLI-2855,Air India,Kolkata_CCU,12
+FLI-7713,Indigo,Mumbai_BOM,12
+FLI-1214,Indigo,Mumbai_BOM,26
+FLI-1677,Indigo,delhi_DEL,12
+FLI-2626,Indigo,Mumbai_BOM,26
+FLI-8484,Air India,delhi_DEL,12
+FLI-2858,Indigo,Bengaluru_BLR,26
+FLI-4092,Air India,Bengaluru_BLR,12
+FLI-6959,Air India,delhi_DEL,26
+FLI-1917,Indigo,Mumbai_BOM,12
+FLI-1327,Indigo,Bengaluru_BLR,12
+FLI-3742,Indigo,delhi_DEL,12
+FLI-7053,Indigo,delhi_DEL,12
+FLI-4104,Air India,Kolkata_CCU,12
+FLI-5841,Indigo,Mumbai_BOM,12
+FLI-4001,Vistara,Bengaluru_BLR,12
+FLI-4393,Indigo,Kolkata_CCU,26
+FLI-9044,Air India,Bengaluru_BLR,26
+FLI-6076,Air India,delhi_DEL,12
+FLI-3944,Air India,Mumbai_BOM,12
+FLI-3480,Akasa Air,Bengaluru_BLR,12
+FLI-3554,Indigo,Kolkata_CCU,12
+FLI-4492,Vistara,Bengaluru_BLR,-5
+FLI-9886,Vistara,delhi_DEL,26
+FLI-7420,Indigo,Mumbai_BOM,12
+FLI-1018,Vistara,Mumbai_BOM,26
+FLI-8010,Akasa Air,Kolkata_CCU,12
+FLI-7443,Indigo,Kolkata_CCU,12
+FLI-2159,Air India,delhi_DEL,12
+FLI-9694,Indigo,Kolkata_CCU,12
+FLI-8465,Vistara,Mumbai_BOM,12
+FLI-8693,Vistara,delhi_DEL,12
+FLI-3037,Indigo,delhi_DEL,12
+FLI-2726,Indigo,Mumbai_BOM,12
+FLI-8244,Air India,delhi_DEL,12
+FLI-3568,Indigo,Mumbai_BOM,12
+FLI-4091,Akasa Air,Mumbai_BOM,26
+FLI-2449,Air India,delhi_DEL,12
+FLI-6121,Indigo,delhi_DEL,26
+FLI-7068,Indigo,Kolkata_CCU,26
+FLI-6989,Indigo,Mumbai_BOM,12
+FLI-3122,Vistara,delhi_DEL,26
+FLI-9440,Vistara,delhi_DEL,26
+FLI-4518,Vistara,delhi_DEL,12
+FLI-6723,Indigo,Mumbai_BOM,12
+FLI-9788,Akasa Air,Kolkata_CCU,12
+FLI-2286,Indigo,Mumbai_BOM,12
+FLI-3323,Air India,Mumbai_BOM,26
+FLI-3464,Indigo,delhi_DEL,12
+FLI-6003,Indigo,Bengaluru_BLR,12
+FLI-3446,Air India,delhi_DEL,12
+FLI-9262,Indigo,delhi_DEL,26
+FLI-9487,Indigo,Bengaluru_BLR,26
+FLI-9932,Vistara,Mumbai_BOM,12
+FLI-3184,Indigo,delhi_DEL,26
+FLI-3938,Vistara,delhi_DEL,12
+FLI-8537,Indigo,Mumbai_BOM,12
+FLI-7882,Vistara,Kolkata_CCU,12
+FLI-5377,Indigo,delhi_DEL,12
+FLI-4001,Indigo,Mumbai_BOM,12
+FLI-3020,Air India,Bengaluru_BLR,12
+FLI-3434,Indigo,delhi_DEL,26
+FLI-5120,Indigo,Bengaluru_BLR,12
+FLI-4768,Akasa Air,Mumbai_BOM,12
+FLI-6142,Air India,delhi_DEL,12
+FLI-2860,Vistara,delhi_DEL,12
+FLI-6078,Vistara,Kolkata_CCU,12
+FLI-7100,Indigo,delhi_DEL,26
+FLI-7954,Air India,delhi_DEL,12
+FLI-4241,Indigo,delhi_DEL,12
+FLI-4090,Indigo,delhi_DEL,12
+FLI-4823,Indigo,delhi_DEL,26
+FLI-8979,Vistara,delhi_DEL,12
+FLI-7913,Indigo,Mumbai_BOM,12
+FLI-1738,Indigo,delhi_DEL,12
+FLI-9453,Air India,Mumbai_BOM,-5
+FLI-8821,Indigo,Kolkata_CCU,12
+FLI-2743,Air India,Mumbai_BOM,26
+FLI-5586,Vistara,delhi_DEL,12
+FLI-5414,Indigo,Kolkata_CCU,26
+FLI-2655,Vistara,Mumbai_BOM,12
+FLI-2748,Vistara,Mumbai_BOM,26
+FLI-6597,Indigo,delhi_DEL,12
+FLI-9232,Indigo,Mumbai_BOM,26
+FLI-9177,Vistara,Bengaluru_BLR,12
+FLI-3891,Air India,delhi_DEL,12
+FLI-9119,Air India,delhi_DEL,12
+FLI-3225,Vistara,delhi_DEL,12
+FLI-3718,Indigo,Kolkata_CCU,26
+FLI-9570,Vistara,Kolkata_CCU,26
+FLI-2583,Indigo,Mumbai_BOM,12
+FLI-1203,Indigo,delhi_DEL,12
+FLI-8847,Vistara,Mumbai_BOM,12
+FLI-2710,Indigo,Mumbai_BOM,12
+FLI-2987,Indigo,Mumbai_BOM,12
+FLI-8664,Vistara,delhi_DEL,26
+FLI-2230,Indigo,Mumbai_BOM,12
+FLI-2866,Indigo,Mumbai_BOM,12
+FLI-1698,Indigo,delhi_DEL,12
+FLI-9012,Vistara,delhi_DEL,12
+FLI-9107,Akasa Air,Mumbai_BOM,12
+FLI-6937,Air India,delhi_DEL,12
+FLI-4725,Indigo,Bengaluru_BLR,-5
+FLI-5749,Akasa Air,Mumbai_BOM,26
+FLI-9083,Indigo,Bengaluru_BLR,12
+FLI-4661,Air India,Bengaluru_BLR,12
+FLI-8304,Vistara,delhi_DEL,12
+FLI-1943,Air India,delhi_DEL,12
+FLI-3863,Akasa Air,Kolkata_CCU,26
+FLI-2073,Air India,delhi_DEL,12
+FLI-9216,Indigo,Mumbai_BOM,12
+FLI-4599,Indigo,Bengaluru_BLR,12
+FLI-9216,Indigo,Mumbai_BOM,26
+FLI-6201,Air India,delhi_DEL,26
+FLI-2656,Air India,delhi_DEL,12
+FLI-6958,Air India,delhi_DEL,12
+FLI-4613,Vistara,delhi_DEL,12
+FLI-4700,Air India,delhi_DEL,12
+FLI-4178,Indigo,Bengaluru_BLR,26
+FLI-8472,Air India,delhi_DEL,12
+FLI-9430,Vistara,Mumbai_BOM,26
+FLI-6270,Indigo,delhi_DEL,26
+FLI-4010,Air India,Bengaluru_BLR,26
+FLI-4009,Vistara,Kolkata_CCU,26
+FLI-8972,Indigo,Mumbai_BOM,12
+FLI-3109,Air India,Mumbai_BOM,12
+FLI-9308,Indigo,Kolkata_CCU,12
+FLI-1175,Air India,Mumbai_BOM,26
+FLI-6132,Indigo,Mumbai_BOM,26
+FLI-1005,Indigo,Mumbai_BOM,-5
+FLI-1452,Indigo,delhi_DEL,26
+FLI-8933,Indigo,Bengaluru_BLR,12
+FLI-1762,Vistara,delhi_DEL,12
+FLI-4319,Vistara,delhi_DEL,12
+FLI-8948,Vistara,Mumbai_BOM,12
+FLI-9990,Indigo,Bengaluru_BLR,26
+FLI-7621,Indigo,delhi_DEL,26
+FLI-1412,Indigo,Mumbai_BOM,12
+FLI-4962,Air India,Bengaluru_BLR,26
+FLI-7378,Indigo,Mumbai_BOM,12
+FLI-9306,Air India,Mumbai_BOM,26
+FLI-3537,Vistara,delhi_DEL,26
+FLI-2412,Akasa Air,delhi_DEL,12
+FLI-7228,Indigo,Bengaluru_BLR,12
+FLI-7244,Air India,Mumbai_BOM,-5
+FLI-6572,Air India,Bengaluru_BLR,26
+FLI-4415,Indigo,Bengaluru_BLR,12
+FLI-4148,Air India,delhi_DEL,12
+FLI-8086,Indigo,delhi_DEL,12
+FLI-9228,Vistara,delhi_DEL,12
+FLI-3651,Air India,Bengaluru_BLR,12
+FLI-2114,Air India,delhi_DEL,26
+FLI-1492,Air India,delhi_DEL,12
+FLI-1522,Vistara,Mumbai_BOM,12
+FLI-5477,Air India,delhi_DEL,-5
+FLI-1281,Air India,delhi_DEL,12
+FLI-1371,Indigo,delhi_DEL,12
+FLI-8466,Indigo,delhi_DEL,26
+FLI-8449,Vistara,delhi_DEL,12
+FLI-7318,Indigo,Bengaluru_BLR,12
+FLI-6598,Indigo,Bengaluru_BLR,26
+FLI-6962,Indigo,delhi_DEL,26
+FLI-9771,Vistara,Kolkata_CCU,12
+FLI-5213,Akasa Air,Mumbai_BOM,12
+FLI-2217,Air India,delhi_DEL,12
+FLI-1704,Indigo,delhi_DEL,12
+FLI-6748,Air India,Bengaluru_BLR,12
+FLI-7268,Indigo,Mumbai_BOM,12
+FLI-5775,Akasa Air,Bengaluru_BLR,26
+FLI-2376,Indigo,Bengaluru_BLR,26
+FLI-4584,Indigo,delhi_DEL,26
+FLI-4932,Air India,delhi_DEL,12
+FLI-1279,Indigo,Bengaluru_BLR,12
+FLI-8437,Air India,Bengaluru_BLR,12
+FLI-7608,Akasa Air,delhi_DEL,26
+FLI-9669,Air India,Bengaluru_BLR,26
+FLI-7747,Indigo,Mumbai_BOM,-5
+FLI-2243,Indigo,delhi_DEL,12
+FLI-7553,Air India,Mumbai_BOM,-5
+FLI-2772,Indigo,delhi_DEL,12
+FLI-1198,Indigo,delhi_DEL,26
+FLI-9399,Air India,Kolkata_CCU,12
+FLI-2514,Air India,delhi_DEL,26
+FLI-3188,Indigo,Bengaluru_BLR,12
+FLI-3084,Indigo,delhi_DEL,12
+FLI-6632,Indigo,delhi_DEL,12
+FLI-6324,Akasa Air,delhi_DEL,12
+FLI-1079,Indigo,Bengaluru_BLR,12
+FLI-6176,Indigo,Kolkata_CCU,12
+FLI-8574,Indigo,Bengaluru_BLR,12
+FLI-5866,Air India,Mumbai_BOM,12
+FLI-5505,Akasa Air,Mumbai_BOM,12
+FLI-6853,Indigo,delhi_DEL,26
+FLI-5684,Air India,delhi_DEL,12
+FLI-6578,Air India,Bengaluru_BLR,12
+FLI-2315,Vistara,Bengaluru_BLR,12
+FLI-4472,Air India,Mumbai_BOM,26
+FLI-7480,Air India,Bengaluru_BLR,-5
+FLI-9455,Vistara,delhi_DEL,26
+FLI-5384,Air India,delhi_DEL,-5
+FLI-9680,Air India,Kolkata_CCU,12
+FLI-3773,Vistara,Mumbai_BOM,26
+FLI-8013,Air India,delhi_DEL,12
+FLI-8459,Vistara,Mumbai_BOM,12
+FLI-1571,Indigo,Mumbai_BOM,12
+FLI-4521,Indigo,Mumbai_BOM,12
+FLI-6107,Vistara,Bengaluru_BLR,26
+FLI-8912,Indigo,Kolkata_CCU,12
+FLI-4034,Vistara,Mumbai_BOM,12
+FLI-9021,Vistara,delhi_DEL,12
+FLI-3316,Indigo,Bengaluru_BLR,12
+FLI-4725,Air India,delhi_DEL,12
+FLI-7654,Indigo,Kolkata_CCU,12
+FLI-4383,Indigo,Mumbai_BOM,12
+FLI-2277,Indigo,Mumbai_BOM,12
+FLI-8261,Indigo,delhi_DEL,12
+FLI-4616,Indigo,Mumbai_BOM,12
+FLI-6981,Air India,Mumbai_BOM,12
+FLI-4576,Air India,Kolkata_CCU,12
+FLI-5441,Indigo,delhi_DEL,26
+FLI-5573,Vistara,delhi_DEL,12
+FLI-9964,Indigo,Bengaluru_BLR,26
+FLI-9509,Air India,delhi_DEL,12
+FLI-5932,Indigo,Bengaluru_BLR,26
+FLI-3722,Vistara,delhi_DEL,12
+FLI-4083,Air India,Kolkata_CCU,12
+FLI-2394,Indigo,delhi_DEL,12
+FLI-3231,Indigo,Bengaluru_BLR,12
+FLI-5118,Indigo,Mumbai_BOM,12
+FLI-3816,Air India,delhi_DEL,12
+FLI-3603,Air India,delhi_DEL,12
+FLI-6829,Indigo,Mumbai_BOM,12
+FLI-2219,Akasa Air,Mumbai_BOM,26
+FLI-3618,Indigo,delhi_DEL,12
+FLI-7764,Indigo,Mumbai_BOM,12
+FLI-9801,Vistara,delhi_DEL,12
+FLI-3278,Indigo,Kolkata_CCU,12
+FLI-7484,Air India,Mumbai_BOM,12
+FLI-6886,Air India,delhi_DEL,12
+FLI-3865,Vistara,Kolkata_CCU,26
+FLI-1266,Vistara,delhi_DEL,12
+FLI-4882,Indigo,Mumbai_BOM,12
+FLI-4985,Air India,delhi_DEL,26
+FLI-1074,Indigo,delhi_DEL,12
+FLI-5571,Indigo,Mumbai_BOM,26
+FLI-9873,Air India,delhi_DEL,12
+FLI-6499,Indigo,delhi_DEL,-5
+FLI-8972,Indigo,Mumbai_BOM,26
+FLI-8534,Indigo,Bengaluru_BLR,12
+FLI-4327,Indigo,Mumbai_BOM,12
+FLI-3480,Indigo,Mumbai_BOM,12
+FLI-3562,Indigo,Mumbai_BOM,12
+FLI-1623,Indigo,Kolkata_CCU,26
+FLI-1628,Indigo,Kolkata_CCU,12
+FLI-6690,Indigo,Mumbai_BOM,12
+FLI-7537,Indigo,delhi_DEL,12
+FLI-3065,Vistara,delhi_DEL,-5
+FLI-4619,Akasa Air,Mumbai_BOM,12
+FLI-4457,Air India,Mumbai_BOM,26
+FLI-8885,Air India,Mumbai_BOM,12
+FLI-9444,Indigo,Kolkata_CCU,12
+FLI-7182,Air India,Mumbai_BOM,26
+FLI-8634,Air India,Mumbai_BOM,12
+FLI-8008,Indigo,Mumbai_BOM,12
+FLI-2445,Indigo,Kolkata_CCU,-5
+FLI-3167,Vistara,delhi_DEL,12
+FLI-5644,Air India,Mumbai_BOM,12
+FLI-8831,Indigo,Kolkata_CCU,-5
+FLI-7563,Akasa Air,Mumbai_BOM,26
+FLI-1562,Indigo,delhi_DEL,12
+FLI-4644,Air India,Mumbai_BOM,-5
+FLI-9932,Indigo,Kolkata_CCU,12
+FLI-1430,Air India,Bengaluru_BLR,12
+FLI-4466,Air India,Kolkata_CCU,-5
+FLI-5272,Indigo,Mumbai_BOM,12
+FLI-6024,Akasa Air,delhi_DEL,12
+FLI-4574,Air India,delhi_DEL,12
+FLI-3892,Vistara,Mumbai_BOM,26
+FLI-3709,Indigo,delhi_DEL,26
+FLI-4337,Vistara,delhi_DEL,12
+FLI-8514,Air India,Mumbai_BOM,12
+FLI-4583,Indigo,delhi_DEL,12
+FLI-4124,Indigo,Kolkata_CCU,12
+FLI-9477,Vistara,Mumbai_BOM,12
+FLI-4079,Vistara,Mumbai_BOM,26
+FLI-5391,Indigo,delhi_DEL,12
+FLI-5945,Vistara,Mumbai_BOM,12
+FLI-5553,Indigo,delhi_DEL,12
+FLI-7518,Air India,Bengaluru_BLR,12
+FLI-3652,Indigo,delhi_DEL,12
+FLI-5823,Vistara,Kolkata_CCU,12
+FLI-9795,Akasa Air,Bengaluru_BLR,26
+FLI-4505,Vistara,delhi_DEL,12
+FLI-3806,Air India,delhi_DEL,26
+FLI-8468,Air India,Mumbai_BOM,26
+FLI-8760,Indigo,Mumbai_BOM,-5
+FLI-5653,Akasa Air,Mumbai_BOM,12
+FLI-5885,Vistara,delhi_DEL,12
+FLI-9314,Vistara,delhi_DEL,12
+FLI-3194,Indigo,Mumbai_BOM,26
+FLI-6914,Air India,Bengaluru_BLR,12
+FLI-5442,Air India,delhi_DEL,12
+FLI-2753,Air India,Kolkata_CCU,12
+FLI-4867,Indigo,Bengaluru_BLR,12
+FLI-5994,Akasa Air,Mumbai_BOM,12
+FLI-2733,Indigo,Kolkata_CCU,12
+FLI-1664,Indigo,Kolkata_CCU,12
+FLI-5527,Indigo,Bengaluru_BLR,26
+FLI-7844,Indigo,Mumbai_BOM,12
+FLI-4015,Indigo,delhi_DEL,12
+FLI-8417,Vistara,Bengaluru_BLR,12
+FLI-6158,Indigo,Bengaluru_BLR,12
+FLI-1845,Air India,Bengaluru_BLR,12
+FLI-7647,Indigo,Kolkata_CCU,26
+FLI-1818,Air India,delhi_DEL,26
+FLI-9618,Air India,delhi_DEL,12
+FLI-9678,Akasa Air,Mumbai_BOM,12
+FLI-5190,Air India,Mumbai_BOM,26
+FLI-9032,Vistara,delhi_DEL,12
+FLI-7439,Air India,delhi_DEL,26
+FLI-9771,Indigo,delhi_DEL,12
+FLI-2568,Indigo,delhi_DEL,12
+FLI-7876,Air India,Bengaluru_BLR,12
+FLI-1655,Air India,Mumbai_BOM,12
+FLI-3936,Air India,Bengaluru_BLR,12
+FLI-7198,Indigo,Kolkata_CCU,26
+FLI-8430,Vistara,Bengaluru_BLR,12
+FLI-1502,Air India,Mumbai_BOM,12
+FLI-1180,Indigo,Mumbai_BOM,-5
+FLI-2120,Air India,delhi_DEL,26
+FLI-7241,Air India,Bengaluru_BLR,12
+FLI-9011,Akasa Air,Mumbai_BOM,12
+FLI-2998,Vistara,Mumbai_BOM,26
+FLI-4572,Akasa Air,delhi_DEL,12
+FLI-8085,Indigo,Mumbai_BOM,12
+FLI-7087,Air India,Bengaluru_BLR,12
+FLI-9542,Air India,Kolkata_CCU,12
+FLI-2148,Indigo,delhi_DEL,12
+FLI-9254,Vistara,Kolkata_CCU,12
+FLI-8222,Indigo,Mumbai_BOM,26
+FLI-1592,Indigo,Kolkata_CCU,12
+FLI-7750,Indigo,Bengaluru_BLR,12
+FLI-7342,Vistara,delhi_DEL,26
+FLI-6582,Air India,delhi_DEL,12
+FLI-3637,Air India,Mumbai_BOM,12
+FLI-8322,Indigo,Mumbai_BOM,26
+FLI-9520,Indigo,Bengaluru_BLR,12
+FLI-3908,Vistara,delhi_DEL,12
+FLI-5123,Indigo,Bengaluru_BLR,12
+FLI-7200,Air India,delhi_DEL,-5
+FLI-6368,Vistara,delhi_DEL,26
+FLI-2717,Akasa Air,Mumbai_BOM,12
+FLI-6806,Vistara,Bengaluru_BLR,12
+FLI-9366,Indigo,Mumbai_BOM,26
+FLI-2434,Vistara,Mumbai_BOM,12
+FLI-2297,Indigo,Mumbai_BOM,26
+FLI-2032,Akasa Air,delhi_DEL,26
+FLI-9268,Air India,Bengaluru_BLR,-5
+FLI-6938,Indigo,Mumbai_BOM,26
+FLI-6661,Vistara,delhi_DEL,12
+FLI-6099,Indigo,Bengaluru_BLR,12
+FLI-7615,Vistara,Mumbai_BOM,12
+FLI-6543,Indigo,Mumbai_BOM,12
+FLI-1662,Akasa Air,Mumbai_BOM,26
+FLI-1184,Indigo,Kolkata_CCU,12
+FLI-7426,Indigo,Mumbai_BOM,12
+FLI-8211,Indigo,Mumbai_BOM,12
+FLI-5496,Vistara,Mumbai_BOM,12
+FLI-3974,Air India,delhi_DEL,26
+FLI-3745,Indigo,Mumbai_BOM,12
+FLI-5653,Indigo,Bengaluru_BLR,12
+FLI-3736,Indigo,Bengaluru_BLR,12
+FLI-4993,Akasa Air,delhi_DEL,12
+FLI-4108,Indigo,delhi_DEL,12
+FLI-4541,Indigo,Mumbai_BOM,26
+FLI-6062,Air India,Mumbai_BOM,12
+FLI-6588,Indigo,delhi_DEL,12
+FLI-5163,Indigo,delhi_DEL,26
+FLI-3940,Akasa Air,Mumbai_BOM,26
+FLI-2424,Indigo,Bengaluru_BLR,12
+FLI-2304,Vistara,delhi_DEL,-5
+FLI-5958,Indigo,Kolkata_CCU,26
+FLI-6012,Indigo,Mumbai_BOM,12
+FLI-8007,Vistara,Bengaluru_BLR,26
+FLI-3471,Indigo,Bengaluru_BLR,12
+FLI-8326,Vistara,Mumbai_BOM,12
+FLI-6204,Indigo,delhi_DEL,12
+FLI-4070,Indigo,delhi_DEL,26
+FLI-5662,Air India,Mumbai_BOM,26
+FLI-9836,Air India,Kolkata_CCU,12
+FLI-6547,Indigo,Mumbai_BOM,12
+FLI-8448,Vistara,Bengaluru_BLR,26
+FLI-5662,Indigo,delhi_DEL,12
+FLI-7897,Indigo,Mumbai_BOM,12
+FLI-9141,Air India,Mumbai_BOM,12
+FLI-8339,Indigo,delhi_DEL,26
+FLI-6758,Vistara,Mumbai_BOM,12
+FLI-6522,Indigo,Mumbai_BOM,12
+FLI-2858,Indigo,Bengaluru_BLR,12
+FLI-9456,Air India,Kolkata_CCU,12
+FLI-5920,Indigo,delhi_DEL,26
+FLI-9702,Indigo,Bengaluru_BLR,12
+FLI-8156,Akasa Air,delhi_DEL,12
+FLI-3990,Air India,Mumbai_BOM,12
+FLI-8667,Air India,Mumbai_BOM,26
+FLI-2481,Indigo,Mumbai_BOM,26
+FLI-7084,Indigo,Bengaluru_BLR,12
+FLI-5073,Indigo,Kolkata_CCU,26
+FLI-8230,Akasa Air,Kolkata_CCU,12
+FLI-5963,Akasa Air,Mumbai_BOM,12
+FLI-5266,Indigo,delhi_DEL,12
+FLI-2321,Indigo,Kolkata_CCU,12
+FLI-6505,Indigo,Mumbai_BOM,12
+FLI-6348,Vistara,Mumbai_BOM,12
+FLI-7986,Indigo,Mumbai_BOM,26
+FLI-8573,Indigo,delhi_DEL,12
+FLI-7448,Indigo,delhi_DEL,12
+FLI-7444,Air India,Mumbai_BOM,12
+FLI-2111,Vistara,delhi_DEL,12
+FLI-3206,Air India,Mumbai_BOM,26
+FLI-6381,Indigo,Kolkata_CCU,26
+FLI-4508,Indigo,Mumbai_BOM,12
+FLI-2127,Akasa Air,Mumbai_BOM,12
+FLI-7672,Air India,Kolkata_CCU,26
+FLI-7379,Vistara,Kolkata_CCU,12
+FLI-4291,Vistara,Bengaluru_BLR,12
+FLI-1477,Air India,Bengaluru_BLR,12
+FLI-6385,Indigo,Bengaluru_BLR,26
+FLI-7540,Air India,Kolkata_CCU,12
+FLI-2544,Indigo,Bengaluru_BLR,26
+FLI-1141,Indigo,Kolkata_CCU,12
+FLI-7752,Air India,Kolkata_CCU,12
+FLI-2637,Vistara,Mumbai_BOM,12
+FLI-9039,Vistara,Mumbai_BOM,26
+FLI-4043,Air India,Kolkata_CCU,26
+FLI-8120,Air India,Mumbai_BOM,26
+FLI-4190,Indigo,delhi_DEL,12
+FLI-1439,Akasa Air,Kolkata_CCU,12
+FLI-8595,Indigo,Kolkata_CCU,26
+FLI-1572,Vistara,Mumbai_BOM,12
+FLI-6991,Indigo,delhi_DEL,12
+FLI-3744,Air India,delhi_DEL,12
+FLI-8236,Air India,delhi_DEL,26
+FLI-5850,Indigo,Bengaluru_BLR,12
+FLI-3212,Vistara,Mumbai_BOM,12
+FLI-2208,Indigo,delhi_DEL,12
+FLI-8990,Indigo,delhi_DEL,12
+FLI-2690,Vistara,delhi_DEL,12
+FLI-2184,Vistara,delhi_DEL,12
+FLI-1233,Indigo,Bengaluru_BLR,26
+FLI-4219,Indigo,delhi_DEL,12
+FLI-7687,Akasa Air,Kolkata_CCU,12
+FLI-6988,Vistara,delhi_DEL,26
+FLI-9444,Akasa Air,Kolkata_CCU,12
+FLI-8948,Indigo,delhi_DEL,26
+FLI-2915,Air India,Kolkata_CCU,12
+FLI-6093,Indigo,delhi_DEL,12
+FLI-3934,Vistara,delhi_DEL,12
+FLI-9946,Indigo,Mumbai_BOM,26
+FLI-9346,Akasa Air,delhi_DEL,12
+FLI-6775,Air India,Kolkata_CCU,12
+FLI-5911,Indigo,Mumbai_BOM,12
+FLI-8251,Vistara,Bengaluru_BLR,12
+FLI-9588,Air India,Bengaluru_BLR,12
+FLI-9525,Vistara,delhi_DEL,26
+FLI-7608,Indigo,Mumbai_BOM,12
+FLI-1735,Indigo,delhi_DEL,12
+FLI-4714,Akasa Air,Kolkata_CCU,12
+FLI-2995,Akasa Air,delhi_DEL,-5
+FLI-9551,Air India,Mumbai_BOM,12
+FLI-2841,Indigo,delhi_DEL,12
+FLI-8916,Air India,Kolkata_CCU,12
+FLI-4621,Indigo,Bengaluru_BLR,26
+FLI-9337,Indigo,Bengaluru_BLR,12
+FLI-4705,Vistara,Mumbai_BOM,26
+FLI-6929,Indigo,delhi_DEL,-5
+FLI-2557,Indigo,delhi_DEL,12
+FLI-8171,Indigo,Kolkata_CCU,12
+FLI-6976,Air India,Bengaluru_BLR,12
+FLI-9222,Indigo,Mumbai_BOM,26
+FLI-6757,Air India,Mumbai_BOM,12
+FLI-7457,Air India,Bengaluru_BLR,12
+FLI-6061,Indigo,Kolkata_CCU,-5
+FLI-3593,Indigo,delhi_DEL,12
+FLI-3799,Indigo,Bengaluru_BLR,12
+FLI-7304,Indigo,Mumbai_BOM,12
+FLI-1506,Indigo,delhi_DEL,12
+FLI-4610,Indigo,Mumbai_BOM,12
+FLI-6024,Indigo,delhi_DEL,26
+FLI-7106,Air India,delhi_DEL,12
+FLI-3557,Indigo,delhi_DEL,12
+FLI-5561,Akasa Air,Bengaluru_BLR,12
+FLI-9838,Akasa Air,delhi_DEL,12
+FLI-3003,Indigo,Mumbai_BOM,12
+FLI-3398,Vistara,Kolkata_CCU,12
+FLI-2472,Indigo,delhi_DEL,12
+FLI-3557,Air India,Bengaluru_BLR,12
+FLI-7929,Air India,Kolkata_CCU,12
+FLI-1471,Indigo,delhi_DEL,12
+FLI-4092,Indigo,Kolkata_CCU,12
+FLI-8367,Indigo,Kolkata_CCU,12
+FLI-7885,Air India,delhi_DEL,-5
+FLI-6328,Indigo,delhi_DEL,12
+FLI-1054,Air India,Mumbai_BOM,12
+FLI-3781,Indigo,Mumbai_BOM,26
+FLI-6271,Indigo,Mumbai_BOM,12
+FLI-8853,Air India,delhi_DEL,26
+FLI-5098,Air India,Bengaluru_BLR,12
+FLI-2292,Indigo,Bengaluru_BLR,12
+FLI-1247,Air India,Bengaluru_BLR,12
+FLI-1630,Air India,delhi_DEL,12
+FLI-8986,Indigo,Bengaluru_BLR,12
+FLI-9913,Air India,Bengaluru_BLR,12
+FLI-5582,Air India,Bengaluru_BLR,12
+FLI-7112,Vistara,Mumbai_BOM,12
+FLI-2127,Indigo,Bengaluru_BLR,12
+FLI-5322,Air India,Bengaluru_BLR,26
+FLI-9390,Vistara,Mumbai_BOM,-5
+FLI-3502,Indigo,delhi_DEL,12
+FLI-7493,Air India,Bengaluru_BLR,12
+FLI-7909,Akasa Air,Bengaluru_BLR,12
+FLI-1505,Vistara,Mumbai_BOM,12
+FLI-5078,Indigo,Kolkata_CCU,12
+FLI-7858,Vistara,delhi_DEL,12
+FLI-2464,Indigo,Bengaluru_BLR,26
+FLI-4344,Akasa Air,Bengaluru_BLR,12
+FLI-2315,Akasa Air,delhi_DEL,26
+FLI-9631,Vistara,Bengaluru_BLR,12
+FLI-9193,Akasa Air,Mumbai_BOM,12
+FLI-6161,Air India,delhi_DEL,26
+FLI-4725,Vistara,Kolkata_CCU,12
+FLI-6046,Vistara,Bengaluru_BLR,-5
+FLI-9078,Air India,delhi_DEL,26
+FLI-1392,Air India,Kolkata_CCU,12
+FLI-3529,Indigo,Mumbai_BOM,26
+FLI-8336,Indigo,delhi_DEL,12
+FLI-1379,Air India,Mumbai_BOM,12
+FLI-2538,Indigo,Bengaluru_BLR,26
+FLI-5168,Indigo,Kolkata_CCU,12
+FLI-5532,Indigo,Kolkata_CCU,12
+FLI-1435,Vistara,delhi_DEL,12
+FLI-7236,Air India,delhi_DEL,12
+FLI-5740,Indigo,Kolkata_CCU,-5
+FLI-7535,Indigo,Bengaluru_BLR,26
+FLI-5943,Vistara,Bengaluru_BLR,12
+FLI-2252,Indigo,Mumbai_BOM,12
+FLI-1619,Indigo,delhi_DEL,12
+FLI-3758,Indigo,Mumbai_BOM,12
+FLI-9724,Indigo,delhi_DEL,-5
+FLI-6342,Vistara,Mumbai_BOM,-5
+FLI-5968,Vistara,Bengaluru_BLR,12
+FLI-4324,Vistara,delhi_DEL,12
+FLI-1653,Indigo,delhi_DEL,12
+FLI-4937,Air India,delhi_DEL,12
+FLI-8825,Vistara,delhi_DEL,12
+FLI-7516,Air India,delhi_DEL,12
+FLI-6652,Vistara,Mumbai_BOM,12
+FLI-5629,Air India,Kolkata_CCU,-5
+FLI-2904,Air India,Mumbai_BOM,12
+FLI-3737,Air India,delhi_DEL,26
+FLI-8803,Indigo,Mumbai_BOM,12
+FLI-5833,Air India,Mumbai_BOM,26
+FLI-7881,Indigo,Mumbai_BOM,12
+FLI-7654,Indigo,Kolkata_CCU,26
+FLI-6250,Air India,Kolkata_CCU,12
+FLI-7827,Indigo,delhi_DEL,12
+FLI-2391,Indigo,Bengaluru_BLR,26
+FLI-4273,Indigo,Mumbai_BOM,12
+FLI-2293,Vistara,Bengaluru_BLR,26
+FLI-8382,Air India,Mumbai_BOM,12
+FLI-7477,Indigo,Mumbai_BOM,26
+FLI-9286,Air India,Mumbai_BOM,26
+FLI-6394,Akasa Air,Mumbai_BOM,12
+FLI-3463,Vistara,Mumbai_BOM,12
+FLI-1603,Akasa Air,delhi_DEL,12
+FLI-9667,Indigo,Bengaluru_BLR,12
+FLI-7328,Vistara,Bengaluru_BLR,26
+FLI-3413,Vistara,Mumbai_BOM,12
+FLI-4285,Vistara,delhi_DEL,26
+FLI-9889,Indigo,delhi_DEL,12
+FLI-1859,Air India,delhi_DEL,12
+FLI-8702,Indigo,delhi_DEL,26
+FLI-6841,Indigo,Mumbai_BOM,12
+FLI-4743,Indigo,Mumbai_BOM,12
+FLI-4802,Indigo,Bengaluru_BLR,26
+FLI-8413,Indigo,Kolkata_CCU,26
+FLI-5643,Akasa Air,Mumbai_BOM,12
+FLI-4966,Indigo,Kolkata_CCU,12
+FLI-5953,Indigo,delhi_DEL,12
+FLI-1094,Air India,Bengaluru_BLR,12
+FLI-2162,Indigo,Kolkata_CCU,26
+FLI-7336,Vistara,Mumbai_BOM,12
+FLI-1035,Indigo,Bengaluru_BLR,12
+FLI-2783,Indigo,Mumbai_BOM,26
+FLI-9607,Air India,Mumbai_BOM,12
+FLI-1678,Akasa Air,Kolkata_CCU,12
+FLI-7487,Indigo,Mumbai_BOM,12
+FLI-3154,Indigo,Mumbai_BOM,12
+FLI-5734,Air India,Mumbai_BOM,12
+FLI-8461,Indigo,delhi_DEL,12
+FLI-9513,Indigo,delhi_DEL,12
+FLI-2642,Air India,delhi_DEL,12
+FLI-3793,Air India,delhi_DEL,12
+FLI-3934,Indigo,Kolkata_CCU,12
+FLI-6292,Indigo,Mumbai_BOM,12
+FLI-3453,Vistara,Mumbai_BOM,12
+FLI-3147,Indigo,Bengaluru_BLR,12
+FLI-2332,Indigo,delhi_DEL,12
+FLI-7609,Air India,Mumbai_BOM,12
+FLI-4624,Indigo,Mumbai_BOM,12
+FLI-9277,Vistara,Kolkata_CCU,-5
+FLI-5661,Vistara,Mumbai_BOM,12
+FLI-5476,Indigo,Kolkata_CCU,12
+FLI-4374,Air India,Mumbai_BOM,12
+FLI-7552,Air India,Mumbai_BOM,12
+FLI-8395,Vistara,Bengaluru_BLR,26
+FLI-1082,Akasa Air,Kolkata_CCU,26
+FLI-3611,Indigo,Mumbai_BOM,12
+FLI-8245,Vistara,Bengaluru_BLR,12
+FLI-2504,Air India,Kolkata_CCU,12
+FLI-8539,Vistara,delhi_DEL,12
+FLI-4382,Vistara,delhi_DEL,12
+FLI-3391,Indigo,Bengaluru_BLR,12
+FLI-5527,Indigo,delhi_DEL,12
+FLI-8735,Akasa Air,delhi_DEL,12
+FLI-5455,Akasa Air,Kolkata_CCU,26
+FLI-7823,Indigo,Mumbai_BOM,12
+FLI-4370,Indigo,delhi_DEL,12
+FLI-5770,Air India,delhi_DEL,12
+FLI-3188,Vistara,Mumbai_BOM,12
+FLI-5320,Indigo,Kolkata_CCU,-5
+FLI-9664,Indigo,Mumbai_BOM,12
+FLI-5292,Air India,delhi_DEL,12
+FLI-1649,Vistara,Mumbai_BOM,26
+FLI-9338,Air India,Mumbai_BOM,12
+FLI-2716,Vistara,Bengaluru_BLR,12
+FLI-8586,Vistara,delhi_DEL,12
+FLI-3341,Indigo,delhi_DEL,12
+FLI-3944,Indigo,Bengaluru_BLR,12
+FLI-7789,Indigo,Bengaluru_BLR,26
+FLI-8883,Akasa Air,delhi_DEL,12
+FLI-1930,Akasa Air,delhi_DEL,12
+FLI-7550,Air India,Mumbai_BOM,12
+FLI-4932,Indigo,Bengaluru_BLR,26
+FLI-8193,Vistara,Bengaluru_BLR,26
+FLI-2793,Air India,Bengaluru_BLR,12
+FLI-9586,Air India,Mumbai_BOM,12
+FLI-9530,Air India,delhi_DEL,-5
+FLI-9786,Akasa Air,Mumbai_BOM,12
+FLI-6979,Vistara,delhi_DEL,12
+FLI-3374,Akasa Air,delhi_DEL,12
+FLI-5514,Indigo,Bengaluru_BLR,12
+FLI-3613,Indigo,delhi_DEL,12
+FLI-8689,Indigo,Kolkata_CCU,12
+FLI-3434,Indigo,delhi_DEL,12
+FLI-8569,Indigo,Bengaluru_BLR,12
+FLI-5917,Vistara,delhi_DEL,12
+FLI-9213,Indigo,Bengaluru_BLR,12
+FLI-9767,Air India,delhi_DEL,12
+FLI-8098,Indigo,delhi_DEL,26
+FLI-4098,Indigo,delhi_DEL,12
+FLI-5602,Vistara,Mumbai_BOM,12
+FLI-4656,Indigo,delhi_DEL,26
+FLI-2852,Indigo,Mumbai_BOM,12
+FLI-1898,Air India,Kolkata_CCU,12
+FLI-8974,Akasa Air,Bengaluru_BLR,12
+FLI-5513,Vistara,Mumbai_BOM,12
+FLI-2211,Vistara,delhi_DEL,12
+FLI-4030,Indigo,delhi_DEL,26
+FLI-5589,Indigo,Kolkata_CCU,26
+FLI-1222,Air India,Kolkata_CCU,12
+FLI-1852,Air India,Mumbai_BOM,-5
+FLI-5271,Vistara,Mumbai_BOM,12
+FLI-2829,Indigo,Mumbai_BOM,12
+FLI-4333,Vistara,delhi_DEL,12
+FLI-8832,Indigo,Mumbai_BOM,12
+FLI-6451,Indigo,delhi_DEL,26
+FLI-6140,Indigo,Mumbai_BOM,12
+FLI-4398,Air India,Bengaluru_BLR,12
+FLI-5768,Air India,delhi_DEL,26
+FLI-4631,Vistara,delhi_DEL,26
+FLI-9441,Indigo,Mumbai_BOM,26
+FLI-3046,Vistara,Kolkata_CCU,12
+FLI-9522,Akasa Air,delhi_DEL,12
+FLI-1219,Air India,delhi_DEL,12
+FLI-6917,Indigo,delhi_DEL,12
+FLI-8130,Indigo,delhi_DEL,12
+FLI-3927,Indigo,delhi_DEL,12
+FLI-8146,Air India,delhi_DEL,26
+FLI-7933,Indigo,Kolkata_CCU,12
+FLI-2164,Indigo,delhi_DEL,26
+FLI-2788,Indigo,delhi_DEL,-5
+FLI-9619,Indigo,Bengaluru_BLR,26
+FLI-1416,Indigo,Kolkata_CCU,12
+FLI-5793,Vistara,delhi_DEL,12
+FLI-7881,Vistara,Kolkata_CCU,26
+FLI-9944,Vistara,delhi_DEL,12
+FLI-4123,Indigo,delhi_DEL,12
+FLI-3060,Air India,Kolkata_CCU,12
+FLI-8152,Indigo,Mumbai_BOM,12
+FLI-6769,Air India,delhi_DEL,12
+FLI-6228,Indigo,Mumbai_BOM,12
+FLI-2603,Air India,Mumbai_BOM,12
+FLI-2369,Vistara,Kolkata_CCU,12
+FLI-6948,Indigo,delhi_DEL,12
+FLI-9342,Akasa Air,Mumbai_BOM,12
+FLI-5355,Air India,delhi_DEL,26
+FLI-8849,Indigo,Kolkata_CCU,-5
+FLI-5959,Air India,delhi_DEL,26
+FLI-6163,Indigo,delhi_DEL,-5
+FLI-6986,Akasa Air,Bengaluru_BLR,12
+FLI-6777,Akasa Air,Bengaluru_BLR,12
+FLI-5683,Air India,Mumbai_BOM,12
+FLI-8555,Vistara,Bengaluru_BLR,26
+FLI-5807,Indigo,delhi_DEL,12
+FLI-2119,Indigo,Bengaluru_BLR,12
+FLI-4712,Indigo,Mumbai_BOM,26
+FLI-5277,Air India,Kolkata_CCU,12
+FLI-8687,Indigo,delhi_DEL,26
+FLI-2757,Air India,Kolkata_CCU,12
+FLI-8647,Indigo,delhi_DEL,26
+FLI-5809,Vistara,delhi_DEL,26
+FLI-2488,Air India,delhi_DEL,12
+FLI-6400,Indigo,Kolkata_CCU,12
+FLI-8136,Indigo,delhi_DEL,12
+FLI-7633,Indigo,Bengaluru_BLR,26
+FLI-9891,Air India,Kolkata_CCU,12
+FLI-9578,Vistara,Bengaluru_BLR,12
+FLI-9197,Air India,Mumbai_BOM,-5
+FLI-5911,Vistara,Bengaluru_BLR,12
+FLI-8018,Indigo,delhi_DEL,12
+FLI-6998,Air India,Kolkata_CCU,-5
+FLI-5358,Indigo,Bengaluru_BLR,12
+FLI-6810,Air India,delhi_DEL,12
+FLI-6297,Air India,Mumbai_BOM,12
+FLI-5133,Air India,Kolkata_CCU,26
+FLI-9476,Vistara,delhi_DEL,26
+FLI-6884,Indigo,delhi_DEL,12
+FLI-5609,Akasa Air,delhi_DEL,12
+FLI-9922,Indigo,Kolkata_CCU,12
+FLI-6234,Indigo,delhi_DEL,12
+FLI-7185,Air India,delhi_DEL,12
+FLI-3329,Akasa Air,Kolkata_CCU,12
+FLI-9414,Indigo,Mumbai_BOM,12
+FLI-1074,Indigo,Mumbai_BOM,12
+FLI-9722,Vistara,Kolkata_CCU,12
+FLI-8101,Air India,delhi_DEL,26
+FLI-9390,Indigo,delhi_DEL,12
+FLI-9649,Vistara,delhi_DEL,12
+FLI-9127,Indigo,Kolkata_CCU,12
+FLI-1539,Indigo,Mumbai_BOM,12
+FLI-5873,Indigo,Mumbai_BOM,26
+FLI-9899,Indigo,Mumbai_BOM,12
+FLI-8399,Indigo,Bengaluru_BLR,26
+FLI-6691,Vistara,Bengaluru_BLR,-5
+FLI-3049,Akasa Air,Mumbai_BOM,12
+FLI-2759,Akasa Air,Mumbai_BOM,26
+FLI-8307,Akasa Air,Mumbai_BOM,12
+FLI-3229,Vistara,Mumbai_BOM,12
+FLI-1878,Indigo,Mumbai_BOM,12
+FLI-7241,Air India,Mumbai_BOM,26
+FLI-2647,Indigo,Bengaluru_BLR,12
+FLI-2755,Indigo,delhi_DEL,12
+FLI-6722,Indigo,Mumbai_BOM,26
+FLI-4828,Vistara,delhi_DEL,12
+FLI-8331,Indigo,Mumbai_BOM,26
+FLI-8990,Air India,delhi_DEL,12
+FLI-5685,Indigo,Bengaluru_BLR,12
+FLI-1703,Indigo,Bengaluru_BLR,-5
+FLI-6835,Indigo,Kolkata_CCU,26
+FLI-1715,Indigo,Mumbai_BOM,12
+FLI-4516,Air India,delhi_DEL,26
+FLI-5597,Air India,Bengaluru_BLR,26
+FLI-1804,Air India,Mumbai_BOM,12
+FLI-2295,Vistara,delhi_DEL,26
+FLI-2242,Air India,Bengaluru_BLR,12
+FLI-7336,Indigo,delhi_DEL,12
+FLI-2467,Indigo,Kolkata_CCU,26
+FLI-9781,Air India,Mumbai_BOM,12
+FLI-8682,Akasa Air,Mumbai_BOM,12
+FLI-3655,Indigo,delhi_DEL,12
+FLI-7664,Indigo,Bengaluru_BLR,26
+FLI-6172,Indigo,Bengaluru_BLR,12
+FLI-4942,Air India,Mumbai_BOM,12
+FLI-1440,Indigo,delhi_DEL,12
+FLI-9293,Indigo,Bengaluru_BLR,26
+FLI-9512,Indigo,Kolkata_CCU,12
+FLI-5116,Indigo,Bengaluru_BLR,26
+FLI-8446,Indigo,Bengaluru_BLR,26
+FLI-7998,Air India,delhi_DEL,26
+FLI-4669,Air India,delhi_DEL,12
+FLI-2369,Akasa Air,delhi_DEL,26
+FLI-4413,Indigo,delhi_DEL,12
+FLI-4396,Indigo,Kolkata_CCU,26
+FLI-3538,Indigo,delhi_DEL,12
+FLI-1939,Air India,Mumbai_BOM,12
+FLI-3016,Air India,delhi_DEL,12
+FLI-9974,Indigo,delhi_DEL,12
+FLI-9406,Air India,delhi_DEL,12
+FLI-3778,Indigo,delhi_DEL,26
+FLI-5524,Vistara,Bengaluru_BLR,12
+FLI-4680,Indigo,Kolkata_CCU,26
+FLI-2658,Akasa Air,Mumbai_BOM,12
+FLI-5110,Akasa Air,Mumbai_BOM,12
+FLI-6176,Vistara,Bengaluru_BLR,12
+FLI-6961,Indigo,delhi_DEL,26
+FLI-4339,Air India,Mumbai_BOM,12
+FLI-4724,Air India,delhi_DEL,12
+FLI-7925,Indigo,Bengaluru_BLR,26
+FLI-8545,Indigo,Kolkata_CCU,12
+FLI-2398,Indigo,delhi_DEL,12
+FLI-5479,Vistara,Bengaluru_BLR,12
+FLI-1113,Vistara,Kolkata_CCU,12
+FLI-5489,Indigo,Bengaluru_BLR,12
+FLI-7879,Akasa Air,delhi_DEL,12
+FLI-1483,Indigo,Mumbai_BOM,12
+FLI-7940,Air India,delhi_DEL,26
+FLI-8466,Indigo,Mumbai_BOM,12
+FLI-6110,Air India,Kolkata_CCU,26
+FLI-5940,Air India,Bengaluru_BLR,12
+FLI-9543,Indigo,Mumbai_BOM,26
+FLI-1091,Air India,delhi_DEL,12
+FLI-3316,Air India,delhi_DEL,12
+FLI-4109,Vistara,delhi_DEL,12
+FLI-1023,Indigo,Kolkata_CCU,12
+FLI-4929,Indigo,Mumbai_BOM,12
+FLI-5228,Air India,Mumbai_BOM,26
+FLI-6372,Indigo,Mumbai_BOM,26
+FLI-8722,Indigo,delhi_DEL,26
+FLI-3221,Vistara,delhi_DEL,12
+FLI-4490,Air India,delhi_DEL,12
+FLI-4558,Vistara,Bengaluru_BLR,12
+FLI-5665,Indigo,Bengaluru_BLR,12
+FLI-9694,Air India,Bengaluru_BLR,26
+FLI-3037,Akasa Air,Kolkata_CCU,12
+FLI-2218,Akasa Air,Mumbai_BOM,12
+FLI-5586,Indigo,Mumbai_BOM,12
+FLI-1663,Vistara,Mumbai_BOM,12
+FLI-3573,Vistara,delhi_DEL,12
+FLI-7164,Akasa Air,Bengaluru_BLR,26
+FLI-9518,Vistara,delhi_DEL,12
+FLI-8340,Air India,Kolkata_CCU,26
+FLI-9542,Air India,Mumbai_BOM,12
+FLI-9314,Akasa Air,delhi_DEL,12
+FLI-4332,Indigo,Mumbai_BOM,12
+FLI-9918,Indigo,Bengaluru_BLR,12
+FLI-2123,Air India,Mumbai_BOM,26
+FLI-5336,Vistara,Bengaluru_BLR,12
+FLI-5879,Akasa Air,Mumbai_BOM,12
+FLI-7993,Indigo,delhi_DEL,12
+FLI-9623,Air India,Bengaluru_BLR,26
+FLI-9411,Indigo,Bengaluru_BLR,26
+FLI-5707,Vistara,Kolkata_CCU,12
+FLI-6640,Indigo,Bengaluru_BLR,26
+FLI-4619,Akasa Air,delhi_DEL,-5
+FLI-5165,Vistara,Mumbai_BOM,12
+FLI-6523,Indigo,Bengaluru_BLR,12
+FLI-3012,Indigo,delhi_DEL,12
+FLI-9276,Indigo,Kolkata_CCU,12
+FLI-6741,Indigo,Mumbai_BOM,12
+FLI-8795,Vistara,Kolkata_CCU,12
+FLI-8582,Indigo,delhi_DEL,12
+FLI-7603,Indigo,Mumbai_BOM,12
+FLI-9011,Air India,Mumbai_BOM,12
+FLI-4488,Air India,Bengaluru_BLR,12
+FLI-6046,Air India,Mumbai_BOM,26
+FLI-9825,Indigo,delhi_DEL,12
+FLI-6070,Vistara,Kolkata_CCU,12
+FLI-5660,Air India,Kolkata_CCU,26
+FLI-5687,Indigo,Kolkata_CCU,26
+FLI-1592,Vistara,Kolkata_CCU,12
+FLI-6984,Indigo,delhi_DEL,12
+FLI-8383,Air India,Mumbai_BOM,12
+FLI-2964,Indigo,delhi_DEL,12
+FLI-6050,Indigo,delhi_DEL,12
+FLI-6184,Indigo,delhi_DEL,12
+FLI-3306,Indigo,delhi_DEL,26
+FLI-6276,Indigo,Mumbai_BOM,12
+FLI-6507,Indigo,Mumbai_BOM,12
+FLI-8240,Akasa Air,Mumbai_BOM,12
+FLI-1913,Akasa Air,Mumbai_BOM,12
+FLI-8731,Air India,delhi_DEL,26
+FLI-9926,Air India,Bengaluru_BLR,26
+FLI-4707,Indigo,Bengaluru_BLR,12
+FLI-2149,Akasa Air,Mumbai_BOM,12
+FLI-8459,Akasa Air,delhi_DEL,-5
+FLI-6704,Vistara,Mumbai_BOM,12
+FLI-9463,Indigo,Bengaluru_BLR,12
+FLI-5167,Vistara,delhi_DEL,12
+FLI-2744,Indigo,Kolkata_CCU,26
+FLI-1717,Indigo,delhi_DEL,12
+FLI-4780,Air India,Mumbai_BOM,12
+FLI-9897,Vistara,Kolkata_CCU,26
+FLI-8054,Vistara,delhi_DEL,26
+FLI-7219,Indigo,delhi_DEL,12
+FLI-7259,Vistara,Bengaluru_BLR,12
+FLI-8286,Akasa Air,Mumbai_BOM,12
+FLI-4342,Indigo,Bengaluru_BLR,12
+FLI-3610,Akasa Air,Mumbai_BOM,26
+FLI-9466,Air India,Kolkata_CCU,26
+FLI-7571,Akasa Air,delhi_DEL,12
+FLI-2670,Vistara,Kolkata_CCU,12
+FLI-6963,Indigo,Bengaluru_BLR,12
+FLI-7006,Indigo,delhi_DEL,26
+FLI-9731,Indigo,delhi_DEL,12
+FLI-9224,Indigo,Bengaluru_BLR,12
+FLI-7276,Akasa Air,Mumbai_BOM,12
+FLI-2453,Air India,delhi_DEL,26
+FLI-4854,Indigo,delhi_DEL,12
+FLI-9194,Vistara,Mumbai_BOM,26
+FLI-5902,Indigo,delhi_DEL,12
+FLI-4270,Air India,Mumbai_BOM,12
+FLI-6553,Air India,Kolkata_CCU,26
+FLI-5998,Vistara,delhi_DEL,26
+FLI-3270,Vistara,Mumbai_BOM,12
+FLI-8437,Indigo,delhi_DEL,12
+FLI-9650,Indigo,Mumbai_BOM,12
+FLI-9504,Indigo,Mumbai_BOM,12
+FLI-6198,Air India,delhi_DEL,26
+FLI-1687,Indigo,Bengaluru_BLR,12
+FLI-7892,Air India,Mumbai_BOM,12
+FLI-9968,Indigo,Bengaluru_BLR,12
+FLI-5800,Indigo,Mumbai_BOM,12
+FLI-6251,Vistara,delhi_DEL,12
+FLI-7996,Indigo,delhi_DEL,26
+FLI-8288,Indigo,Mumbai_BOM,12
+FLI-7186,Air India,Bengaluru_BLR,-5
+FLI-1968,Indigo,Kolkata_CCU,12
+FLI-1063,Indigo,Mumbai_BOM,12
+FLI-8079,Vistara,Mumbai_BOM,12
+FLI-7877,Indigo,delhi_DEL,12
+FLI-6328,Indigo,Mumbai_BOM,12
+FLI-1667,Air India,delhi_DEL,12
+FLI-3115,Vistara,delhi_DEL,12
+FLI-9939,Indigo,Kolkata_CCU,26
+FLI-1820,Indigo,Bengaluru_BLR,26
+FLI-2313,Air India,Kolkata_CCU,12
+FLI-2653,Air India,Mumbai_BOM,12
+FLI-4336,Akasa Air,Bengaluru_BLR,12
+FLI-6520,Air India,Mumbai_BOM,12
+FLI-6303,Air India,Kolkata_CCU,12
+FLI-7428,Indigo,delhi_DEL,12
+FLI-1301,Indigo,Bengaluru_BLR,12
+FLI-5244,Vistara,delhi_DEL,12
+FLI-7298,Vistara,delhi_DEL,12
+FLI-3738,Vistara,delhi_DEL,12
+FLI-1128,Vistara,Mumbai_BOM,12
+FLI-1346,Air India,Bengaluru_BLR,12
+FLI-3482,Vistara,Mumbai_BOM,12
+FLI-9843,Vistara,delhi_DEL,12
+FLI-6991,Vistara,delhi_DEL,12
+FLI-1060,Indigo,delhi_DEL,26
+FLI-9281,Air India,Mumbai_BOM,12
+FLI-8026,Vistara,Kolkata_CCU,12
+FLI-2625,Air India,delhi_DEL,12
+FLI-8084,Vistara,Mumbai_BOM,12
+FLI-4537,Air India,Mumbai_BOM,12
+FLI-2074,Indigo,Mumbai_BOM,12
+FLI-6612,Akasa Air,Mumbai_BOM,26
+FLI-2724,Indigo,delhi_DEL,12
+FLI-6764,Vistara,delhi_DEL,12
+FLI-8442,Air India,Mumbai_BOM,12
+FLI-4137,Indigo,delhi_DEL,26
+FLI-8859,Air India,Kolkata_CCU,26
+FLI-3496,Indigo,Kolkata_CCU,-5
+FLI-3971,Indigo,Mumbai_BOM,12
+FLI-5156,Air India,delhi_DEL,12
+FLI-8481,Air India,Kolkata_CCU,12
+FLI-1188,Indigo,Bengaluru_BLR,12
+FLI-6431,Indigo,Mumbai_BOM,12
+FLI-8380,Indigo,Mumbai_BOM,26
+FLI-6110,Indigo,Mumbai_BOM,12
+FLI-9263,Indigo,delhi_DEL,12
+FLI-7219,Vistara,delhi_DEL,-5
+FLI-1230,Air India,Mumbai_BOM,12
+FLI-8763,Air India,Mumbai_BOM,12
+FLI-6526,Air India,delhi_DEL,26
+FLI-5108,Indigo,delhi_DEL,12
+FLI-8163,Vistara,delhi_DEL,26
+FLI-7805,Indigo,delhi_DEL,12
+FLI-6920,Indigo,delhi_DEL,12
+FLI-7400,Indigo,Bengaluru_BLR,-5
+FLI-7613,Vistara,delhi_DEL,12
+FLI-8826,Air India,Mumbai_BOM,26
+FLI-1522,Vistara,Mumbai_BOM,12
+FLI-5360,Air India,Mumbai_BOM,-5
+FLI-2936,Air India,Mumbai_BOM,12
+FLI-4913,Indigo,Mumbai_BOM,12
+FLI-2591,Vistara,Kolkata_CCU,12
+FLI-7834,Indigo,Mumbai_BOM,26
+FLI-9739,Indigo,Mumbai_BOM,12
+FLI-7319,Indigo,delhi_DEL,12
+FLI-4231,Indigo,Bengaluru_BLR,12
+FLI-6080,Indigo,delhi_DEL,26
+FLI-4587,Air India,Kolkata_CCU,12
+FLI-3645,Akasa Air,Mumbai_BOM,12
+FLI-2988,Akasa Air,Bengaluru_BLR,12
+FLI-6897,Air India,Mumbai_BOM,26
+FLI-8242,Indigo,delhi_DEL,26
+FLI-6475,Indigo,Kolkata_CCU,12
+FLI-3356,Vistara,delhi_DEL,12
+FLI-6715,Vistara,delhi_DEL,12
+FLI-8378,Air India,Mumbai_BOM,12
+FLI-3313,Air India,Kolkata_CCU,12
+FLI-7393,Vistara,delhi_DEL,26
+FLI-5339,Air India,delhi_DEL,26
+FLI-4261,Air India,Bengaluru_BLR,12
+FLI-8756,Indigo,Mumbai_BOM,12
+FLI-5760,Vistara,delhi_DEL,12
+FLI-6638,Indigo,delhi_DEL,12
+FLI-6317,Air India,delhi_DEL,12
+FLI-5857,Air India,Mumbai_BOM,12
+FLI-8730,Air India,delhi_DEL,26
+FLI-2853,Air India,delhi_DEL,26
+FLI-4071,Akasa Air,Bengaluru_BLR,-5
+FLI-4878,Air India,delhi_DEL,12
+FLI-1452,Vistara,Mumbai_BOM,12
+FLI-4051,Indigo,delhi_DEL,12
+FLI-3725,Vistara,Mumbai_BOM,12
+FLI-4863,Akasa Air,delhi_DEL,12
+FLI-7480,Akasa Air,Kolkata_CCU,12
+FLI-4057,Indigo,Mumbai_BOM,12
+FLI-7079,Indigo,delhi_DEL,12
+FLI-2754,Indigo,Bengaluru_BLR,26
+FLI-8678,Indigo,Bengaluru_BLR,26
+FLI-7912,Air India,Mumbai_BOM,12
+FLI-5036,Indigo,delhi_DEL,12
+FLI-9501,Air India,delhi_DEL,12
+FLI-4390,Air India,Bengaluru_BLR,12
+FLI-5181,Vistara,Bengaluru_BLR,12
+FLI-1319,Indigo,Mumbai_BOM,12
+FLI-1246,Indigo,Bengaluru_BLR,12
+FLI-9268,Vistara,delhi_DEL,26
+FLI-5299,Vistara,Mumbai_BOM,12
+FLI-6045,Air India,delhi_DEL,12
+FLI-9073,Indigo,delhi_DEL,12
+FLI-7722,Indigo,Mumbai_BOM,26
+FLI-7046,Air India,Bengaluru_BLR,12
+FLI-2466,Air India,delhi_DEL,12
+FLI-9866,Indigo,Bengaluru_BLR,12
+FLI-4677,Indigo,Mumbai_BOM,12
+FLI-3289,Indigo,Kolkata_CCU,26
+FLI-7096,Air India,Mumbai_BOM,12
+FLI-8905,Indigo,Mumbai_BOM,-5
+FLI-1385,Indigo,delhi_DEL,12
+FLI-3052,Vistara,delhi_DEL,12
+FLI-6347,Air India,Mumbai_BOM,12
+FLI-9053,Akasa Air,Mumbai_BOM,12
+FLI-8187,Indigo,delhi_DEL,12
+FLI-3678,Vistara,Kolkata_CCU,12
+FLI-1681,Indigo,delhi_DEL,12
+FLI-4765,Air India,Mumbai_BOM,12
+FLI-8703,Indigo,Kolkata_CCU,12
+FLI-8292,Vistara,delhi_DEL,26
+FLI-2762,Air India,delhi_DEL,12
+FLI-5686,Indigo,Bengaluru_BLR,-5
+FLI-9618,Air India,Bengaluru_BLR,12
+FLI-4170,Indigo,Kolkata_CCU,12
+FLI-9762,Indigo,delhi_DEL,12
+FLI-1586,Vistara,Mumbai_BOM,12
+FLI-1804,Vistara,Bengaluru_BLR,26
+FLI-8697,Indigo,delhi_DEL,12
+FLI-5025,Vistara,Kolkata_CCU,12
+FLI-8572,Indigo,delhi_DEL,12
+FLI-9574,Air India,delhi_DEL,26
+FLI-5338,Indigo,delhi_DEL,26
+FLI-6588,Akasa Air,Bengaluru_BLR,12
+FLI-1016,Indigo,delhi_DEL,12
+FLI-1980,Indigo,delhi_DEL,12
+FLI-3632,Air India,Kolkata_CCU,12
+FLI-6346,Air India,delhi_DEL,12
+FLI-1502,Indigo,Kolkata_CCU,12
+FLI-5965,Air India,delhi_DEL,26
+FLI-7119,Air India,Kolkata_CCU,12
+FLI-6770,Air India,delhi_DEL,26
+FLI-9209,Indigo,delhi_DEL,12
+FLI-5734,Indigo,Mumbai_BOM,26
+FLI-2094,Indigo,delhi_DEL,12
+FLI-5915,Indigo,Mumbai_BOM,26
+FLI-9054,Indigo,Bengaluru_BLR,12
+FLI-2146,Indigo,Bengaluru_BLR,12
+FLI-1019,Vistara,delhi_DEL,12
+FLI-6596,Indigo,delhi_DEL,26
+FLI-4973,Akasa Air,Bengaluru_BLR,26
+FLI-5886,Indigo,delhi_DEL,26
+FLI-2818,Indigo,Mumbai_BOM,12
+FLI-4165,Indigo,Bengaluru_BLR,26
+FLI-1327,Vistara,Mumbai_BOM,26
+FLI-9393,Air India,delhi_DEL,12
+FLI-9739,Air India,Bengaluru_BLR,12
+FLI-7249,Indigo,Mumbai_BOM,26
+FLI-4758,Indigo,delhi_DEL,12
+FLI-7343,Air India,Bengaluru_BLR,12
+FLI-1005,Indigo,Mumbai_BOM,-5
+FLI-7454,Air India,Mumbai_BOM,26
+FLI-8729,Indigo,Bengaluru_BLR,26
+FLI-2787,Vistara,delhi_DEL,12
+FLI-5833,Indigo,Kolkata_CCU,12
+FLI-8287,Indigo,delhi_DEL,26
+FLI-6618,Air India,delhi_DEL,12
+FLI-8207,Akasa Air,Mumbai_BOM,12
+FLI-8557,Vistara,delhi_DEL,12
+FLI-6690,Indigo,delhi_DEL,26
+FLI-7936,Air India,delhi_DEL,12
+FLI-5428,Indigo,delhi_DEL,12
+FLI-3143,Indigo,Mumbai_BOM,26
+FLI-6811,Air India,Mumbai_BOM,12
+FLI-8321,Indigo,delhi_DEL,12
+FLI-9210,Indigo,delhi_DEL,12
+FLI-1503,Vistara,Kolkata_CCU,12
+FLI-7580,Vistara,delhi_DEL,12
+FLI-3904,Air India,Mumbai_BOM,12
+FLI-3559,Indigo,Bengaluru_BLR,26
+FLI-9476,Akasa Air,Bengaluru_BLR,-5
+FLI-3907,Vistara,Bengaluru_BLR,12
+FLI-6531,Air India,Kolkata_CCU,26
+FLI-7592,Air India,delhi_DEL,-5
+FLI-3444,Air India,delhi_DEL,12
+FLI-7518,Akasa Air,Bengaluru_BLR,12
+FLI-6411,Akasa Air,Mumbai_BOM,12
+FLI-4998,Indigo,delhi_DEL,12
+FLI-9630,Indigo,delhi_DEL,12
+FLI-4773,Indigo,Kolkata_CCU,12
+FLI-8595,Vistara,delhi_DEL,-5
+FLI-2232,Air India,Kolkata_CCU,26
+FLI-4716,Vistara,delhi_DEL,12
+FLI-6382,Indigo,Kolkata_CCU,26
+FLI-1769,Air India,Mumbai_BOM,12
+FLI-7426,Indigo,delhi_DEL,-5
+FLI-8460,Vistara,delhi_DEL,12
+FLI-3294,Vistara,Mumbai_BOM,12
+FLI-3973,Indigo,delhi_DEL,12
+FLI-1821,Indigo,delhi_DEL,12
+FLI-7097,Indigo,Mumbai_BOM,12
+FLI-1620,Air India,Bengaluru_BLR,12
+FLI-2791,Air India,Mumbai_BOM,26
+FLI-3102,Air India,Mumbai_BOM,12
+FLI-2155,Indigo,Bengaluru_BLR,12
+FLI-1148,Indigo,Bengaluru_BLR,26
+FLI-4028,Indigo,Bengaluru_BLR,12
+FLI-6542,Air India,Mumbai_BOM,12
+FLI-5266,Indigo,delhi_DEL,26
+FLI-4968,Indigo,delhi_DEL,12
+FLI-2974,Indigo,Mumbai_BOM,26
+FLI-3048,Vistara,Kolkata_CCU,12
+FLI-4247,Vistara,Kolkata_CCU,26
+FLI-2359,Akasa Air,delhi_DEL,12
+FLI-2748,Air India,Mumbai_BOM,12
+FLI-3458,Indigo,delhi_DEL,26
+FLI-8923,Indigo,delhi_DEL,12
+FLI-3783,Indigo,Bengaluru_BLR,12
+FLI-6607,Vistara,delhi_DEL,12
+FLI-5238,Vistara,Mumbai_BOM,12
+FLI-1239,Indigo,Mumbai_BOM,12
+FLI-5758,Indigo,delhi_DEL,12
+FLI-1928,Indigo,delhi_DEL,12
+FLI-6053,Indigo,delhi_DEL,12
+FLI-8545,Air India,delhi_DEL,12
+FLI-5668,Indigo,delhi_DEL,12
+FLI-8540,Indigo,Mumbai_BOM,12
+FLI-8045,Air India,Mumbai_BOM,26
+FLI-2793,Vistara,Kolkata_CCU,-5
+FLI-4662,Air India,Mumbai_BOM,26
+FLI-3388,Air India,delhi_DEL,12
+FLI-7185,Air India,Bengaluru_BLR,12
+FLI-2270,Indigo,Kolkata_CCU,26
+FLI-4455,Air India,Mumbai_BOM,26
+FLI-3582,Vistara,Mumbai_BOM,12
+FLI-6986,Indigo,delhi_DEL,12
+FLI-7476,Indigo,Bengaluru_BLR,12
+FLI-5717,Indigo,Mumbai_BOM,12
+FLI-3712,Air India,delhi_DEL,26
+FLI-9814,Indigo,Mumbai_BOM,12
+FLI-6474,Indigo,Bengaluru_BLR,12
+FLI-8590,Indigo,delhi_DEL,12
+FLI-3385,Air India,Mumbai_BOM,26
+FLI-5649,Indigo,Mumbai_BOM,12
+FLI-5128,Indigo,Mumbai_BOM,12
+FLI-6162,Indigo,Bengaluru_BLR,12
+FLI-4083,Air India,Kolkata_CCU,12
+FLI-2384,Indigo,Bengaluru_BLR,12
+FLI-6770,Vistara,delhi_DEL,26
+FLI-7381,Air India,Kolkata_CCU,12
+FLI-7877,Indigo,Bengaluru_BLR,12
+FLI-9873,Air India,delhi_DEL,12
+FLI-5758,Air India,Mumbai_BOM,12
+FLI-4375,Vistara,delhi_DEL,26
+FLI-2750,Air India,Bengaluru_BLR,26
+FLI-1160,Vistara,Kolkata_CCU,12
+FLI-6312,Akasa Air,delhi_DEL,26
+FLI-3714,Air India,Mumbai_BOM,26
+FLI-2220,Indigo,delhi_DEL,12
+FLI-8182,Air India,Bengaluru_BLR,26
+FLI-9173,Indigo,Mumbai_BOM,12
+FLI-3120,Vistara,Mumbai_BOM,12
+FLI-5127,Vistara,delhi_DEL,-5
+FLI-1740,Indigo,Bengaluru_BLR,12
+FLI-6386,Air India,Mumbai_BOM,26
+FLI-1770,Air India,delhi_DEL,12
+FLI-2519,Indigo,Bengaluru_BLR,-5
+FLI-2281,Indigo,Mumbai_BOM,12
+FLI-3677,Indigo,Kolkata_CCU,12
+FLI-1103,Indigo,Bengaluru_BLR,12
+FLI-9907,Air India,delhi_DEL,12
+FLI-1895,Indigo,delhi_DEL,12
+FLI-5676,Indigo,Mumbai_BOM,26
+FLI-7886,Indigo,delhi_DEL,12
+FLI-5955,Indigo,Bengaluru_BLR,26
+FLI-5864,Vistara,Bengaluru_BLR,12
+FLI-8639,Vistara,Mumbai_BOM,-5
+FLI-6260,Indigo,Bengaluru_BLR,12
+FLI-1424,Indigo,delhi_DEL,-5
+FLI-8791,Air India,Kolkata_CCU,26
+FLI-5061,Vistara,Kolkata_CCU,26
+FLI-3809,Indigo,delhi_DEL,12
+FLI-5795,Air India,delhi_DEL,12
+FLI-1453,Air India,Bengaluru_BLR,26
+FLI-2181,Air India,Kolkata_CCU,12
+FLI-7991,Air India,Mumbai_BOM,12
+FLI-8779,Indigo,Bengaluru_BLR,12
+FLI-4260,Air India,Bengaluru_BLR,12
+FLI-3671,Indigo,Mumbai_BOM,26
+FLI-7079,Indigo,Mumbai_BOM,12
+FLI-2427,Indigo,Kolkata_CCU,-5
+FLI-1479,Vistara,Mumbai_BOM,12
+FLI-9251,Indigo,Kolkata_CCU,12
+FLI-1454,Vistara,Mumbai_BOM,12
+FLI-4555,Indigo,Kolkata_CCU,12
+FLI-5389,Indigo,Kolkata_CCU,12
+FLI-1759,Indigo,Mumbai_BOM,26
+FLI-8513,Indigo,Mumbai_BOM,-5
+FLI-6155,Indigo,delhi_DEL,12
+FLI-2432,Vistara,Bengaluru_BLR,12
+FLI-6637,Air India,Bengaluru_BLR,12
+FLI-9432,Vistara,delhi_DEL,26
+FLI-5464,Indigo,Mumbai_BOM,26
+FLI-1212,Vistara,delhi_DEL,12
+FLI-5369,Vistara,Kolkata_CCU,12
+FLI-7965,Air India,delhi_DEL,12
+FLI-3023,Vistara,Bengaluru_BLR,12
+FLI-4137,Vistara,Bengaluru_BLR,12
+FLI-1819,Air India,Kolkata_CCU,12
+FLI-6239,Indigo,delhi_DEL,26
+FLI-2927,Vistara,Mumbai_BOM,12
+FLI-7908,Vistara,Mumbai_BOM,12
+FLI-7022,Air India,delhi_DEL,26
+FLI-3019,Indigo,delhi_DEL,12
+FLI-5001,Indigo,Mumbai_BOM,26
+FLI-9348,Air India,delhi_DEL,12
+FLI-3681,Indigo,Bengaluru_BLR,26
+FLI-5795,Air India,Bengaluru_BLR,26
+FLI-4233,Indigo,Bengaluru_BLR,12
+FLI-2014,Vistara,Kolkata_CCU,12
+FLI-2143,Indigo,delhi_DEL,12
+FLI-9022,Akasa Air,Kolkata_CCU,12
+FLI-6676,Air India,Mumbai_BOM,12
+FLI-7467,Indigo,Bengaluru_BLR,12
+FLI-8948,Akasa Air,Kolkata_CCU,12
+FLI-2878,Vistara,Bengaluru_BLR,26
+FLI-9658,Air India,Bengaluru_BLR,26
+FLI-7084,Indigo,Mumbai_BOM,12
+FLI-2337,Vistara,Bengaluru_BLR,26
+FLI-4650,Indigo,Kolkata_CCU,-5
+FLI-5796,Indigo,Kolkata_CCU,26
+FLI-1430,Akasa Air,delhi_DEL,12
+FLI-4573,Vistara,Kolkata_CCU,26
+FLI-2878,Indigo,delhi_DEL,26
+FLI-6488,Indigo,Kolkata_CCU,12
+FLI-8118,Indigo,Mumbai_BOM,12
+FLI-6461,Indigo,Mumbai_BOM,12
+FLI-3788,Akasa Air,delhi_DEL,26
+FLI-9933,Air India,Mumbai_BOM,26
+FLI-9917,Indigo,Bengaluru_BLR,12
+FLI-8352,Air India,delhi_DEL,26
+FLI-7457,Indigo,delhi_DEL,26
+FLI-8873,Air India,Mumbai_BOM,12
+FLI-2196,Air India,delhi_DEL,12
+FLI-4316,Vistara,Bengaluru_BLR,-5
+FLI-6582,Indigo,Kolkata_CCU,12
+FLI-5228,Air India,Kolkata_CCU,12
+FLI-6804,Indigo,delhi_DEL,12
+FLI-1104,Air India,delhi_DEL,12
+FLI-5763,Vistara,Mumbai_BOM,26
+FLI-1664,Indigo,Bengaluru_BLR,-5
+FLI-5195,Indigo,delhi_DEL,12
+FLI-6315,Akasa Air,Mumbai_BOM,12
+FLI-4003,Akasa Air,delhi_DEL,12
+FLI-3152,Akasa Air,Mumbai_BOM,12
+FLI-1471,Indigo,delhi_DEL,12
+FLI-1345,Air India,Bengaluru_BLR,26
+FLI-6774,Indigo,Mumbai_BOM,12
+FLI-8359,Air India,Bengaluru_BLR,12
+FLI-5613,Akasa Air,Mumbai_BOM,12
+FLI-9626,Air India,Bengaluru_BLR,12
+FLI-2617,Air India,delhi_DEL,26
+FLI-4921,Vistara,delhi_DEL,12
+FLI-6350,Indigo,Mumbai_BOM,12
+FLI-2892,Air India,delhi_DEL,26
+FLI-4280,Air India,Mumbai_BOM,12
+FLI-3235,Indigo,Mumbai_BOM,12
+FLI-3697,Air India,Mumbai_BOM,12
+FLI-2488,Vistara,Mumbai_BOM,12
+FLI-8872,Air India,delhi_DEL,12
+FLI-2742,Air India,delhi_DEL,12
+FLI-1885,Indigo,Bengaluru_BLR,26
+FLI-3010,Air India,Bengaluru_BLR,26
+FLI-6368,Vistara,Mumbai_BOM,12
+FLI-8022,Indigo,Mumbai_BOM,26
+FLI-3534,Indigo,Bengaluru_BLR,12
+FLI-5610,Indigo,delhi_DEL,26
+FLI-1785,Indigo,delhi_DEL,-5
+FLI-5400,Vistara,Kolkata_CCU,12
+FLI-6233,Akasa Air,Bengaluru_BLR,12
+FLI-4781,Vistara,delhi_DEL,12
+FLI-7688,Indigo,delhi_DEL,26
+FLI-8545,Akasa Air,Kolkata_CCU,12
+FLI-1132,Indigo,Kolkata_CCU,12
+FLI-5303,Indigo,delhi_DEL,26
+FLI-6472,Indigo,Kolkata_CCU,12
+FLI-4381,Akasa Air,Mumbai_BOM,12
+FLI-6546,Air India,delhi_DEL,26
+FLI-6190,Vistara,Mumbai_BOM,12
+FLI-2808,Air India,Bengaluru_BLR,12
+FLI-8414,Indigo,delhi_DEL,12
+FLI-7742,Indigo,Mumbai_BOM,26
+FLI-5894,Air India,Kolkata_CCU,26
+FLI-2100,Vistara,Kolkata_CCU,-5
+FLI-7461,Indigo,Bengaluru_BLR,12
+FLI-9386,Air India,Mumbai_BOM,26
+FLI-7316,Indigo,delhi_DEL,-5
+FLI-3721,Indigo,Mumbai_BOM,12
+FLI-3078,Vistara,delhi_DEL,26
+FLI-1928,Akasa Air,delhi_DEL,26
+FLI-6227,Akasa Air,Mumbai_BOM,12
+FLI-5738,Air India,Bengaluru_BLR,12
+FLI-2022,Indigo,delhi_DEL,12
+FLI-1211,Vistara,delhi_DEL,12
+FLI-9837,Air India,delhi_DEL,26
+FLI-1494,Indigo,delhi_DEL,12
+FLI-1740,Indigo,delhi_DEL,12
+FLI-8244,Air India,Mumbai_BOM,26
+FLI-4617,Air India,Mumbai_BOM,12
+FLI-5689,Vistara,Bengaluru_BLR,26
+FLI-5019,Akasa Air,Bengaluru_BLR,12
+FLI-7499,Vistara,delhi_DEL,12
+FLI-7300,Air India,Mumbai_BOM,12
+FLI-7631,Indigo,Bengaluru_BLR,12
+FLI-2815,Akasa Air,Kolkata_CCU,26
+FLI-8499,Air India,Bengaluru_BLR,26
+FLI-2560,Indigo,Mumbai_BOM,12
+FLI-5858,Air India,Bengaluru_BLR,12
+FLI-8280,Vistara,delhi_DEL,26
+FLI-4750,Vistara,delhi_DEL,12
+FLI-2611,Air India,Mumbai_BOM,12
+FLI-4628,Air India,Mumbai_BOM,26
+FLI-7642,Indigo,delhi_DEL,12
+FLI-1268,Indigo,Bengaluru_BLR,12
+FLI-9592,Akasa Air,delhi_DEL,26
+FLI-8793,Air India,Bengaluru_BLR,26
+FLI-8176,Indigo,Mumbai_BOM,12
+FLI-1770,Akasa Air,Mumbai_BOM,26
+FLI-7585,Vistara,delhi_DEL,12
+FLI-7992,Air India,Bengaluru_BLR,12
+FLI-7547,Vistara,Mumbai_BOM,26
+FLI-7667,Indigo,Mumbai_BOM,12
+FLI-1371,Akasa Air,delhi_DEL,12
+FLI-3894,Vistara,Bengaluru_BLR,12
+FLI-5357,Air India,Mumbai_BOM,12
+FLI-9090,Indigo,Kolkata_CCU,12
+FLI-9840,Indigo,delhi_DEL,12
+FLI-4248,Air India,delhi_DEL,12
+FLI-1790,Indigo,Bengaluru_BLR,12
+FLI-3713,Indigo,Kolkata_CCU,12
+FLI-5772,Indigo,Kolkata_CCU,12
+FLI-6805,Vistara,delhi_DEL,12
+FLI-4964,Indigo,Mumbai_BOM,12
+FLI-4002,Indigo,delhi_DEL,12
+FLI-4052,Akasa Air,delhi_DEL,12
+FLI-9630,Indigo,Mumbai_BOM,12
+FLI-1805,Indigo,Kolkata_CCU,12
+FLI-4424,Indigo,delhi_DEL,26
+FLI-6458,Indigo,Kolkata_CCU,26
+FLI-2134,Indigo,Mumbai_BOM,12
+FLI-1093,Indigo,delhi_DEL,12
+FLI-9177,Akasa Air,delhi_DEL,12
+FLI-9000,Vistara,Bengaluru_BLR,12
+FLI-5790,Indigo,Bengaluru_BLR,26
+FLI-9618,Vistara,Mumbai_BOM,26
+FLI-1785,Vistara,Kolkata_CCU,12
+FLI-6607,Vistara,delhi_DEL,12
+FLI-4896,Indigo,Kolkata_CCU,12
+FLI-9987,Indigo,Bengaluru_BLR,26
+FLI-7021,Indigo,Mumbai_BOM,26
+FLI-8700,Vistara,Mumbai_BOM,12
+FLI-5389,Vistara,Kolkata_CCU,12
+FLI-4267,Indigo,delhi_DEL,12
+FLI-5740,Vistara,delhi_DEL,12
+FLI-3307,Indigo,delhi_DEL,12
+FLI-7831,Indigo,Mumbai_BOM,12
+FLI-1442,Akasa Air,Bengaluru_BLR,12
+FLI-1540,Vistara,Kolkata_CCU,12
+FLI-8198,Akasa Air,delhi_DEL,12
+FLI-7974,Air India,Bengaluru_BLR,12
+FLI-3566,Indigo,Kolkata_CCU,12
+FLI-1837,Indigo,delhi_DEL,12
+FLI-8754,Indigo,Mumbai_BOM,12
+FLI-4061,Vistara,Kolkata_CCU,26
+FLI-8916,Akasa Air,Mumbai_BOM,12
+FLI-9784,Indigo,delhi_DEL,12
+FLI-2012,Indigo,delhi_DEL,26
+FLI-1252,Indigo,Mumbai_BOM,12
+FLI-1320,Air India,Mumbai_BOM,26
+FLI-8952,Indigo,delhi_DEL,12
+FLI-6880,Vistara,delhi_DEL,26
+FLI-4679,Air India,delhi_DEL,12
+FLI-2353,Indigo,Mumbai_BOM,26
+FLI-3174,Air India,Mumbai_BOM,12
+FLI-9468,Indigo,Bengaluru_BLR,12
+FLI-5041,Indigo,Mumbai_BOM,12
+FLI-5084,Indigo,delhi_DEL,12
+FLI-1053,Indigo,Bengaluru_BLR,26
+FLI-4499,Indigo,Bengaluru_BLR,12
+FLI-5976,Indigo,delhi_DEL,12
+FLI-5487,Air India,Mumbai_BOM,26
+FLI-9648,Indigo,Bengaluru_BLR,12
+FLI-6104,Air India,Kolkata_CCU,12
+FLI-5022,Indigo,delhi_DEL,12
+FLI-4444,Indigo,Bengaluru_BLR,12
+FLI-9356,Air India,delhi_DEL,26
+FLI-2586,Vistara,Bengaluru_BLR,-5
+FLI-2559,Vistara,delhi_DEL,12
+FLI-4931,Indigo,delhi_DEL,26
+FLI-6119,Indigo,delhi_DEL,12
+FLI-3989,Air India,Bengaluru_BLR,12
+FLI-5376,Indigo,Mumbai_BOM,26
+FLI-7060,Vistara,Mumbai_BOM,26
+FLI-2090,Vistara,Mumbai_BOM,12
+FLI-3996,Air India,delhi_DEL,12
+FLI-8110,Indigo,delhi_DEL,12
+FLI-9954,Vistara,Kolkata_CCU,12
+FLI-4533,Indigo,Mumbai_BOM,-5
+FLI-6308,Indigo,Bengaluru_BLR,12
+FLI-4560,Indigo,delhi_DEL,12
+FLI-6510,Indigo,Mumbai_BOM,12
+FLI-8162,Air India,Mumbai_BOM,26
+FLI-4826,Indigo,Mumbai_BOM,-5
+FLI-3277,Air India,Kolkata_CCU,26
+FLI-5743,Akasa Air,delhi_DEL,26
+FLI-7914,Indigo,Kolkata_CCU,12
+FLI-9293,Indigo,Bengaluru_BLR,12
+FLI-7384,Indigo,Bengaluru_BLR,12
+FLI-9623,Indigo,Bengaluru_BLR,26
+FLI-6601,Vistara,Mumbai_BOM,12
+FLI-1030,Indigo,delhi_DEL,12
+FLI-3322,Indigo,Bengaluru_BLR,12
+FLI-8880,Indigo,Bengaluru_BLR,12
+FLI-2426,Akasa Air,Mumbai_BOM,12
+FLI-8135,Indigo,Kolkata_CCU,12
+FLI-7928,Indigo,Bengaluru_BLR,12
+FLI-9395,Vistara,Bengaluru_BLR,12
+FLI-4617,Indigo,Kolkata_CCU,26
+FLI-4523,Indigo,Kolkata_CCU,26
+FLI-7040,Air India,delhi_DEL,12
+FLI-4655,Indigo,Kolkata_CCU,12
+FLI-1300,Indigo,Mumbai_BOM,12
+FLI-7047,Indigo,Kolkata_CCU,12
+FLI-9288,Akasa Air,delhi_DEL,12
+FLI-2344,Vistara,Mumbai_BOM,12
+FLI-7548,Akasa Air,Mumbai_BOM,26
+FLI-9646,Akasa Air,Mumbai_BOM,26
+FLI-6667,Indigo,Bengaluru_BLR,26
+FLI-4355,Indigo,Kolkata_CCU,12
+FLI-5820,Air India,delhi_DEL,12
+FLI-8061,Indigo,Mumbai_BOM,12
+FLI-6478,Air India,Mumbai_BOM,12
+FLI-5023,Indigo,Bengaluru_BLR,12
+FLI-1106,Indigo,Mumbai_BOM,26
+FLI-2951,Indigo,Mumbai_BOM,12
+FLI-6555,Indigo,Kolkata_CCU,12
+FLI-5035,Indigo,Kolkata_CCU,26
+FLI-8160,Indigo,Mumbai_BOM,12
+FLI-2973,Indigo,Mumbai_BOM,12
+FLI-7111,Indigo,delhi_DEL,12
+FLI-9192,Vistara,Mumbai_BOM,26
+FLI-1017,Indigo,Mumbai_BOM,12
+FLI-6688,Indigo,Mumbai_BOM,26
+FLI-6983,Indigo,delhi_DEL,12
+FLI-7728,Air India,Bengaluru_BLR,12
+FLI-9121,Air India,Kolkata_CCU,12
+FLI-6000,Indigo,Mumbai_BOM,12
+FLI-6216,Indigo,Bengaluru_BLR,12
+FLI-9117,Indigo,delhi_DEL,26
+FLI-3878,Vistara,delhi_DEL,26
+FLI-6844,Indigo,Bengaluru_BLR,12
+FLI-1071,Air India,Mumbai_BOM,12
+FLI-5085,Air India,delhi_DEL,12
+FLI-7177,Indigo,delhi_DEL,12
+FLI-6972,Vistara,delhi_DEL,12
+FLI-4253,Air India,Mumbai_BOM,12
+FLI-8224,Indigo,Bengaluru_BLR,12
+FLI-1064,Air India,Bengaluru_BLR,12
+FLI-5482,Indigo,Kolkata_CCU,26
+FLI-5529,Indigo,Mumbai_BOM,12
+FLI-3131,Indigo,delhi_DEL,12
+FLI-5552,Air India,Mumbai_BOM,12
+FLI-2585,Air India,Kolkata_CCU,12
+FLI-8679,Vistara,Mumbai_BOM,12
+FLI-2628,Indigo,Mumbai_BOM,-5
+FLI-3999,Akasa Air,delhi_DEL,-5
+FLI-1090,Air India,Kolkata_CCU,12
+FLI-9330,Indigo,Bengaluru_BLR,12
+FLI-8044,Indigo,Mumbai_BOM,12
+FLI-1811,Indigo,delhi_DEL,26
+FLI-8390,Akasa Air,Bengaluru_BLR,26
+FLI-1727,Akasa Air,Kolkata_CCU,12
+FLI-9556,Vistara,delhi_DEL,12
+FLI-5142,Akasa Air,delhi_DEL,12
+FLI-3155,Indigo,Kolkata_CCU,12
+FLI-1392,Air India,Kolkata_CCU,26
+FLI-3192,Indigo,Kolkata_CCU,26
+FLI-5379,Indigo,Bengaluru_BLR,-5
+FLI-6886,Indigo,Mumbai_BOM,12
+FLI-7670,Indigo,delhi_DEL,12
+FLI-2087,Indigo,Mumbai_BOM,12
+FLI-6187,Indigo,Mumbai_BOM,12
+FLI-7381,Air India,Kolkata_CCU,12
+FLI-1050,Air India,delhi_DEL,12
+FLI-1350,Air India,Bengaluru_BLR,26
+FLI-8148,Air India,delhi_DEL,12
+FLI-1973,Indigo,Mumbai_BOM,12
+FLI-9873,Vistara,Bengaluru_BLR,26
+FLI-1415,Vistara,delhi_DEL,12
+FLI-2701,Air India,Bengaluru_BLR,12
+FLI-8565,Indigo,delhi_DEL,12
+FLI-7497,Akasa Air,Mumbai_BOM,12
+FLI-3493,Indigo,Mumbai_BOM,12
+FLI-2952,Akasa Air,delhi_DEL,12
+FLI-7419,Air India,Bengaluru_BLR,12
+FLI-7706,Indigo,Mumbai_BOM,12
+FLI-6944,Indigo,delhi_DEL,12
+FLI-8876,Indigo,delhi_DEL,26
+FLI-3063,Vistara,Mumbai_BOM,26
+FLI-3408,Indigo,delhi_DEL,26
+FLI-4639,Vistara,delhi_DEL,12
+FLI-7906,Indigo,delhi_DEL,12
+FLI-6433,Air India,Bengaluru_BLR,26
+FLI-2588,Indigo,Bengaluru_BLR,26
+FLI-1529,Akasa Air,Kolkata_CCU,12
+FLI-4767,Vistara,Mumbai_BOM,12
+FLI-2059,Indigo,Bengaluru_BLR,12
+FLI-6095,Vistara,Mumbai_BOM,26
+FLI-6559,Vistara,Bengaluru_BLR,26
+FLI-4561,Indigo,Bengaluru_BLR,12
+FLI-3203,Indigo,Mumbai_BOM,12
+FLI-2025,Indigo,delhi_DEL,12
+FLI-2082,Indigo,Mumbai_BOM,12
+FLI-3808,Indigo,Bengaluru_BLR,12
+FLI-3996,Air India,Kolkata_CCU,26
+FLI-6538,Vistara,Mumbai_BOM,-5
+FLI-1230,Air India,Bengaluru_BLR,26
+FLI-1831,Air India,delhi_DEL,26
+FLI-2577,Vistara,Bengaluru_BLR,26
+FLI-7519,Air India,Mumbai_BOM,12
+FLI-3552,Indigo,Bengaluru_BLR,26
+FLI-7101,Indigo,Bengaluru_BLR,12
+FLI-8745,Indigo,Mumbai_BOM,12
+FLI-4267,Vistara,delhi_DEL,12
+FLI-8812,Indigo,delhi_DEL,-5
+FLI-1014,Vistara,delhi_DEL,12
+FLI-1149,Indigo,delhi_DEL,12
+FLI-8794,Vistara,Bengaluru_BLR,26
+FLI-7990,Air India,delhi_DEL,12
+FLI-2629,Akasa Air,delhi_DEL,12
+FLI-1791,Vistara,Mumbai_BOM,12
+FLI-2098,Vistara,Mumbai_BOM,12
+FLI-4472,Indigo,delhi_DEL,12
+FLI-4770,Air India,Bengaluru_BLR,26
+FLI-5764,Air India,delhi_DEL,12
+FLI-7872,Akasa Air,delhi_DEL,12
+FLI-9218,Indigo,delhi_DEL,12
+FLI-2622,Air India,delhi_DEL,26
+FLI-5896,Air India,Bengaluru_BLR,12
+FLI-6320,Indigo,Kolkata_CCU,26
+FLI-5494,Vistara,Bengaluru_BLR,12
+FLI-7744,Indigo,Kolkata_CCU,26
+FLI-5562,Air India,delhi_DEL,12
+FLI-3590,Vistara,delhi_DEL,12
+FLI-4682,Air India,Mumbai_BOM,12
+FLI-3983,Air India,delhi_DEL,12
+FLI-9148,Indigo,Mumbai_BOM,12
+FLI-9661,Akasa Air,Kolkata_CCU,12
+FLI-2256,Vistara,Mumbai_BOM,26
+FLI-3229,Air India,delhi_DEL,12
+FLI-3106,Akasa Air,Bengaluru_BLR,12
+FLI-1399,Indigo,delhi_DEL,12
+FLI-6852,Akasa Air,Kolkata_CCU,12
+FLI-3578,Indigo,delhi_DEL,12
+FLI-2521,Indigo,Kolkata_CCU,26
+FLI-9289,Vistara,Mumbai_BOM,12
+FLI-4014,Indigo,delhi_DEL,26
+FLI-3180,Indigo,Mumbai_BOM,12
+FLI-7569,Indigo,Bengaluru_BLR,26
+FLI-5439,Indigo,Kolkata_CCU,26
+FLI-1815,Air India,delhi_DEL,26
+FLI-5992,Air India,delhi_DEL,12
+FLI-4463,Vistara,Bengaluru_BLR,12
+FLI-9977,Air India,Mumbai_BOM,26
+FLI-4331,Indigo,Bengaluru_BLR,12
+FLI-1989,Indigo,delhi_DEL,-5
+FLI-2847,Akasa Air,delhi_DEL,12
+FLI-5866,Indigo,Bengaluru_BLR,26
+FLI-7010,Indigo,delhi_DEL,12
+FLI-6672,Indigo,Bengaluru_BLR,12
+FLI-3445,Indigo,Bengaluru_BLR,-5
+FLI-1578,Air India,Mumbai_BOM,12
+FLI-4584,Akasa Air,Mumbai_BOM,12
+FLI-6447,Air India,Mumbai_BOM,12
+FLI-2450,Akasa Air,Kolkata_CCU,12
+FLI-2775,Air India,delhi_DEL,12
+FLI-7293,Akasa Air,delhi_DEL,12
+FLI-7184,Air India,delhi_DEL,12
+FLI-9941,Air India,Mumbai_BOM,12
+FLI-4650,Air India,delhi_DEL,12
+FLI-8301,Vistara,Mumbai_BOM,12
+FLI-1768,Vistara,delhi_DEL,12
+FLI-1630,Indigo,delhi_DEL,12
+FLI-3860,Indigo,Bengaluru_BLR,12
+FLI-2845,Vistara,Bengaluru_BLR,26
+FLI-7135,Vistara,Mumbai_BOM,12
+FLI-7683,Vistara,Mumbai_BOM,12
+FLI-8662,Air India,delhi_DEL,26
+FLI-3743,Indigo,Bengaluru_BLR,12
+FLI-5627,Indigo,delhi_DEL,26
+FLI-4162,Vistara,Bengaluru_BLR,12
+FLI-2590,Indigo,delhi_DEL,12
+FLI-3552,Air India,delhi_DEL,26
+FLI-8311,Air India,Bengaluru_BLR,12
+FLI-8025,Indigo,Bengaluru_BLR,12
+FLI-9167,Indigo,Mumbai_BOM,26
+FLI-8151,Indigo,Mumbai_BOM,12
+FLI-5238,Air India,Mumbai_BOM,12
+FLI-4398,Vistara,delhi_DEL,12
+FLI-3898,Indigo,Mumbai_BOM,-5
+FLI-2609,Indigo,Bengaluru_BLR,12
+FLI-7938,Indigo,delhi_DEL,12
+FLI-8946,Indigo,Mumbai_BOM,26
+FLI-3368,Indigo,delhi_DEL,12
+FLI-3035,Air India,Kolkata_CCU,12
+FLI-1120,Air India,Mumbai_BOM,12
+FLI-3722,Indigo,Bengaluru_BLR,-5
+FLI-3970,Indigo,delhi_DEL,12
+FLI-5746,Indigo,Mumbai_BOM,12
+FLI-3799,Air India,Kolkata_CCU,26
+FLI-4389,Air India,delhi_DEL,12
+FLI-8045,Air India,Kolkata_CCU,26
+FLI-2637,Indigo,delhi_DEL,26
+FLI-7093,Vistara,Bengaluru_BLR,12
+FLI-9522,Akasa Air,delhi_DEL,12
+FLI-9598,Indigo,Mumbai_BOM,12
+FLI-4545,Akasa Air,Mumbai_BOM,12
+FLI-1151,Indigo,Mumbai_BOM,12
+FLI-8084,Indigo,delhi_DEL,12
+FLI-8180,Indigo,Bengaluru_BLR,12
+FLI-2662,Vistara,Mumbai_BOM,12
+FLI-3188,Air India,Mumbai_BOM,12
+FLI-5137,Akasa Air,Kolkata_CCU,12
+FLI-3605,Indigo,Mumbai_BOM,26
+FLI-5631,Vistara,delhi_DEL,12
+FLI-8010,Indigo,Mumbai_BOM,12
+FLI-1584,Air India,Mumbai_BOM,12
+FLI-7736,Indigo,delhi_DEL,26
+FLI-5177,Air India,Kolkata_CCU,12
+FLI-4697,Indigo,Kolkata_CCU,12
+FLI-2527,Indigo,delhi_DEL,26
+FLI-3766,Air India,Mumbai_BOM,12
+FLI-9039,Air India,Mumbai_BOM,26
+FLI-7893,Indigo,Mumbai_BOM,12
+FLI-5623,Air India,Kolkata_CCU,26
+FLI-3064,Air India,Bengaluru_BLR,12
+FLI-6379,Vistara,delhi_DEL,12
+FLI-6958,Indigo,delhi_DEL,26
+FLI-5745,Indigo,delhi_DEL,12
+FLI-3670,Indigo,delhi_DEL,26
+FLI-1078,Air India,Mumbai_BOM,12
+FLI-4655,Air India,Bengaluru_BLR,-5
+FLI-6931,Indigo,delhi_DEL,12
+FLI-8449,Vistara,Bengaluru_BLR,26
+FLI-4003,Vistara,delhi_DEL,26
+FLI-3134,Air India,Mumbai_BOM,26
+FLI-3156,Indigo,Mumbai_BOM,12
+FLI-6852,Indigo,delhi_DEL,12
+FLI-2910,Air India,delhi_DEL,26
+FLI-1544,Vistara,delhi_DEL,12
+FLI-2470,Indigo,Mumbai_BOM,12
+FLI-5607,Indigo,Mumbai_BOM,12
+FLI-9153,Indigo,Mumbai_BOM,12
+FLI-6977,Indigo,delhi_DEL,26
+FLI-3482,Vistara,Bengaluru_BLR,12
+FLI-6023,Akasa Air,Kolkata_CCU,12
+FLI-5841,Air India,Bengaluru_BLR,26
+FLI-1551,Air India,Bengaluru_BLR,12
+FLI-5948,Air India,delhi_DEL,12
+FLI-6049,Indigo,Bengaluru_BLR,26
+FLI-8005,Akasa Air,Mumbai_BOM,12
+FLI-6358,Indigo,Mumbai_BOM,26
+FLI-1843,Air India,Mumbai_BOM,12
+FLI-9614,Air India,delhi_DEL,12
+FLI-3153,Air India,Mumbai_BOM,12
+FLI-9018,Air India,Mumbai_BOM,12
+FLI-1096,Indigo,Mumbai_BOM,-5
+FLI-9730,Vistara,Kolkata_CCU,12
+FLI-2529,Indigo,Kolkata_CCU,12
+FLI-5757,Indigo,delhi_DEL,12
+FLI-1106,Air India,delhi_DEL,26
+FLI-6640,Air India,Bengaluru_BLR,12
+FLI-9734,Air India,Kolkata_CCU,12
+FLI-5880,Indigo,Mumbai_BOM,12
+FLI-4984,Akasa Air,delhi_DEL,12
+FLI-9971,Indigo,Bengaluru_BLR,12
+FLI-2672,Indigo,Mumbai_BOM,12
+FLI-8060,Indigo,Mumbai_BOM,12
+FLI-5284,Vistara,delhi_DEL,26
+FLI-7705,Indigo,Bengaluru_BLR,12
+FLI-2176,Indigo,Mumbai_BOM,12
+FLI-7000,Indigo,Mumbai_BOM,12
+FLI-2951,Akasa Air,delhi_DEL,26
+FLI-4889,Indigo,Mumbai_BOM,12
+FLI-9454,Indigo,delhi_DEL,12
+FLI-7220,Vistara,delhi_DEL,26
+FLI-5222,Indigo,Mumbai_BOM,12
+FLI-7912,Indigo,Kolkata_CCU,26
+FLI-5322,Air India,Bengaluru_BLR,12
+FLI-2620,Indigo,delhi_DEL,12
+FLI-1909,Akasa Air,Mumbai_BOM,12
+FLI-8080,Akasa Air,delhi_DEL,26
+FLI-4993,Akasa Air,Kolkata_CCU,12
+FLI-2569,Indigo,Bengaluru_BLR,12
+FLI-8619,Vistara,delhi_DEL,26
+FLI-8273,Indigo,delhi_DEL,12
+FLI-1742,Indigo,Mumbai_BOM,12
+FLI-1641,Air India,delhi_DEL,12
+FLI-7673,Air India,delhi_DEL,12
+FLI-7713,Air India,Kolkata_CCU,12
+FLI-4149,Indigo,delhi_DEL,12
+FLI-5189,Akasa Air,Bengaluru_BLR,12
+FLI-8047,Indigo,delhi_DEL,12
+FLI-7336,Indigo,delhi_DEL,12
+FLI-5383,Indigo,Mumbai_BOM,12
+FLI-4052,Indigo,Kolkata_CCU,12
+FLI-2444,Air India,delhi_DEL,12
+FLI-7472,Indigo,Mumbai_BOM,12
+FLI-6068,Indigo,Mumbai_BOM,12
+FLI-7387,Air India,Mumbai_BOM,12
+FLI-8557,Air India,Bengaluru_BLR,12
+FLI-2736,Akasa Air,delhi_DEL,26
+FLI-3531,Indigo,Mumbai_BOM,12
+FLI-9831,Indigo,Bengaluru_BLR,12
+FLI-5362,Indigo,Mumbai_BOM,12
+FLI-8701,Indigo,Bengaluru_BLR,26
+FLI-6108,Indigo,Bengaluru_BLR,12
+FLI-9542,Air India,delhi_DEL,26
+FLI-2436,Akasa Air,Bengaluru_BLR,12
+FLI-3368,Air India,Kolkata_CCU,12
+FLI-7264,Indigo,Bengaluru_BLR,12
+FLI-4767,Indigo,Kolkata_CCU,26
+FLI-6818,Air India,Bengaluru_BLR,12
+FLI-1827,Indigo,Bengaluru_BLR,12
+FLI-5655,Vistara,Kolkata_CCU,12
+FLI-2315,Indigo,Kolkata_CCU,12
+FLI-3249,Akasa Air,delhi_DEL,12
+FLI-1067,Vistara,Mumbai_BOM,12
+FLI-5805,Indigo,Mumbai_BOM,26
+FLI-3923,Air India,delhi_DEL,26
+FLI-2675,Indigo,Bengaluru_BLR,26
+FLI-3536,Vistara,delhi_DEL,26
+FLI-9537,Air India,Bengaluru_BLR,12
+FLI-7407,Air India,delhi_DEL,12
+FLI-3830,Indigo,Mumbai_BOM,12
+FLI-1686,Indigo,delhi_DEL,26
+FLI-1350,Air India,Kolkata_CCU,12
+FLI-7174,Indigo,Mumbai_BOM,12
+FLI-4076,Indigo,Kolkata_CCU,26
+FLI-1135,Air India,Bengaluru_BLR,12
+FLI-3201,Vistara,Bengaluru_BLR,26
+FLI-8290,Indigo,delhi_DEL,12
+FLI-9062,Vistara,delhi_DEL,26
+FLI-8521,Vistara,delhi_DEL,26
+FLI-8733,Akasa Air,Bengaluru_BLR,26
+FLI-4618,Indigo,delhi_DEL,12
+FLI-3095,Vistara,Mumbai_BOM,12
+FLI-6699,Indigo,delhi_DEL,-5
+FLI-4752,Air India,delhi_DEL,26
+FLI-1905,Air India,Bengaluru_BLR,12
+FLI-7960,Vistara,Mumbai_BOM,12
+FLI-2876,Vistara,Mumbai_BOM,26
+FLI-7196,Indigo,Bengaluru_BLR,12
+FLI-1663,Air India,Bengaluru_BLR,12
+FLI-7431,Akasa Air,delhi_DEL,12
+FLI-8075,Air India,Bengaluru_BLR,12
+FLI-3951,Air India,Bengaluru_BLR,12
+FLI-9181,Air India,Bengaluru_BLR,12
+FLI-6440,Indigo,Mumbai_BOM,12
+FLI-8896,Vistara,Mumbai_BOM,26
+FLI-6737,Vistara,Bengaluru_BLR,12
+FLI-5849,Indigo,delhi_DEL,12
+FLI-7559,Air India,Kolkata_CCU,12
+FLI-7500,Indigo,Bengaluru_BLR,12
+FLI-4891,Air India,delhi_DEL,26
+FLI-6190,Air India,Bengaluru_BLR,26
+FLI-4859,Vistara,Bengaluru_BLR,12
+FLI-8996,Indigo,Mumbai_BOM,26
+FLI-3458,Akasa Air,delhi_DEL,12
+FLI-8428,Indigo,Mumbai_BOM,26
+FLI-2819,Indigo,Kolkata_CCU,12
+FLI-4501,Akasa Air,Kolkata_CCU,26
+FLI-1322,Akasa Air,delhi_DEL,12
+FLI-2808,Indigo,Mumbai_BOM,26
+FLI-4726,Vistara,Kolkata_CCU,12
+FLI-1510,Vistara,delhi_DEL,12
+FLI-5515,Vistara,Mumbai_BOM,12
+FLI-4798,Vistara,Bengaluru_BLR,12
+FLI-2647,Vistara,Kolkata_CCU,26
+FLI-8734,Indigo,Mumbai_BOM,26
+FLI-2816,Air India,Mumbai_BOM,12
+FLI-7548,Indigo,delhi_DEL,12
+FLI-8615,Indigo,Kolkata_CCU,12
+FLI-6922,Indigo,delhi_DEL,12
+FLI-4579,Indigo,Bengaluru_BLR,26
+FLI-4739,Indigo,Bengaluru_BLR,12
+FLI-5102,Indigo,Mumbai_BOM,26
+FLI-6940,Air India,delhi_DEL,12
+FLI-2678,Indigo,Bengaluru_BLR,12
+FLI-3215,Air India,Bengaluru_BLR,12
+FLI-7687,Akasa Air,Mumbai_BOM,12
+FLI-4816,Air India,delhi_DEL,12
+FLI-9176,Air India,delhi_DEL,12
+FLI-6877,Indigo,delhi_DEL,12
+FLI-9165,Indigo,delhi_DEL,12
+FLI-4162,Vistara,delhi_DEL,12
+FLI-8566,Indigo,Mumbai_BOM,26
+FLI-9719,Indigo,Mumbai_BOM,12
+FLI-6237,Indigo,Mumbai_BOM,12
+FLI-5429,Indigo,delhi_DEL,12
+FLI-7919,Akasa Air,Bengaluru_BLR,26
+FLI-1080,Air India,delhi_DEL,12
+FLI-9404,Indigo,Kolkata_CCU,12
+FLI-3531,Akasa Air,Kolkata_CCU,12
+FLI-4478,Indigo,Mumbai_BOM,12
+FLI-6528,Indigo,Bengaluru_BLR,12
+FLI-7058,Air India,delhi_DEL,12
+FLI-9197,Indigo,delhi_DEL,12
+FLI-5445,Air India,Kolkata_CCU,26
+FLI-5749,Air India,Mumbai_BOM,12
+FLI-9704,Vistara,Mumbai_BOM,-5
+FLI-1317,Air India,delhi_DEL,-5
+FLI-1552,Indigo,Mumbai_BOM,12
+FLI-4915,Indigo,Bengaluru_BLR,26
+FLI-8730,Air India,Kolkata_CCU,26
+FLI-4743,Vistara,delhi_DEL,12
+FLI-4646,Air India,delhi_DEL,12
+FLI-1544,Air India,Kolkata_CCU,12
+FLI-6522,Akasa Air,Bengaluru_BLR,12
+FLI-8652,Indigo,Mumbai_BOM,26
+FLI-2705,Air India,Kolkata_CCU,12
+FLI-6990,Vistara,Mumbai_BOM,12
+FLI-1495,Vistara,Mumbai_BOM,26
+FLI-2071,Indigo,Mumbai_BOM,26
+FLI-7737,Akasa Air,delhi_DEL,26
+FLI-2654,Air India,Bengaluru_BLR,12
+FLI-6004,Indigo,Mumbai_BOM,12
+FLI-2967,Vistara,delhi_DEL,12
+FLI-9429,Indigo,Mumbai_BOM,12
+FLI-1421,Indigo,Mumbai_BOM,12
+FLI-5580,Indigo,delhi_DEL,26
+FLI-2497,Air India,Bengaluru_BLR,12
+FLI-7180,Air India,Kolkata_CCU,12
+FLI-1050,Indigo,Mumbai_BOM,12
+FLI-9454,Indigo,Bengaluru_BLR,12
+FLI-4210,Vistara,delhi_DEL,26
+FLI-2781,Indigo,Mumbai_BOM,12
+FLI-3280,Indigo,delhi_DEL,26
+FLI-9006,Akasa Air,Kolkata_CCU,26
+FLI-9373,Indigo,Kolkata_CCU,12
+FLI-1628,Indigo,Mumbai_BOM,12
+FLI-5815,Air India,Bengaluru_BLR,-5
+FLI-1250,Akasa Air,Mumbai_BOM,12
+FLI-3951,Vistara,Kolkata_CCU,26
+FLI-1305,Air India,Bengaluru_BLR,26
+FLI-7477,Air India,delhi_DEL,12
+FLI-9662,Indigo,Mumbai_BOM,12
+FLI-9565,Air India,delhi_DEL,12
+FLI-7446,Indigo,Kolkata_CCU,12
+FLI-1840,Air India,Bengaluru_BLR,-5
+FLI-6257,Vistara,Mumbai_BOM,12
+FLI-1380,Akasa Air,Mumbai_BOM,12
+FLI-8689,Air India,Mumbai_BOM,26
+FLI-1966,Akasa Air,Mumbai_BOM,12
+FLI-2834,Indigo,Bengaluru_BLR,12
+FLI-5902,Indigo,delhi_DEL,12
+FLI-2623,Akasa Air,delhi_DEL,26
+FLI-8304,Akasa Air,delhi_DEL,12
+FLI-3285,Vistara,Bengaluru_BLR,12
+FLI-9865,Vistara,Mumbai_BOM,12
+FLI-6494,Indigo,Kolkata_CCU,12
+FLI-5397,Vistara,delhi_DEL,26
+FLI-5458,Indigo,Kolkata_CCU,12
+FLI-6655,Vistara,Kolkata_CCU,12
+FLI-1589,Akasa Air,Kolkata_CCU,12
+FLI-6735,Indigo,Kolkata_CCU,12
+FLI-5272,Indigo,Kolkata_CCU,-5
+FLI-7867,Air India,delhi_DEL,12
+FLI-2789,Akasa Air,delhi_DEL,12
+FLI-7719,Vistara,delhi_DEL,12
+FLI-3374,Indigo,delhi_DEL,12
+FLI-8226,Akasa Air,delhi_DEL,12
+FLI-3389,Air India,Kolkata_CCU,12
+FLI-6248,Vistara,Mumbai_BOM,12
+FLI-6616,Indigo,Mumbai_BOM,12
+FLI-6721,Air India,delhi_DEL,12
+FLI-1061,Vistara,delhi_DEL,12
+FLI-7200,Akasa Air,Mumbai_BOM,26
+FLI-4841,Indigo,delhi_DEL,12
+FLI-2617,Air India,delhi_DEL,12
+FLI-6158,Air India,delhi_DEL,12
+FLI-4684,Vistara,Mumbai_BOM,26
+FLI-3123,Indigo,Kolkata_CCU,12
+FLI-8776,Vistara,delhi_DEL,12
+FLI-7962,Akasa Air,Mumbai_BOM,12
+FLI-4336,Air India,Mumbai_BOM,12
+FLI-3453,Air India,delhi_DEL,12
+FLI-7180,Indigo,Mumbai_BOM,12
+FLI-1463,Indigo,delhi_DEL,12
+FLI-1454,Indigo,Mumbai_BOM,12
+FLI-6012,Indigo,Kolkata_CCU,12
+FLI-2635,Akasa Air,delhi_DEL,26
+FLI-9289,Indigo,Mumbai_BOM,-5
+FLI-7235,Akasa Air,Mumbai_BOM,12
+FLI-1615,Vistara,delhi_DEL,26
+FLI-1477,Akasa Air,delhi_DEL,26
+FLI-9467,Indigo,Mumbai_BOM,26
+FLI-5726,Air India,Bengaluru_BLR,12
+FLI-2944,Indigo,Bengaluru_BLR,12
+FLI-4857,Indigo,delhi_DEL,26
+FLI-1063,Indigo,delhi_DEL,12
+FLI-9780,Indigo,delhi_DEL,26
+FLI-4823,Indigo,Mumbai_BOM,26
+FLI-5072,Vistara,delhi_DEL,12
+FLI-7373,Vistara,Mumbai_BOM,12
+FLI-9263,Air India,Bengaluru_BLR,12
+FLI-4469,Akasa Air,Kolkata_CCU,12
+FLI-5902,Indigo,delhi_DEL,26
+FLI-8081,Indigo,Mumbai_BOM,12
+FLI-1486,Vistara,Kolkata_CCU,12
+FLI-7635,Air India,Mumbai_BOM,-5
+FLI-7802,Vistara,Bengaluru_BLR,12
+FLI-4166,Akasa Air,Mumbai_BOM,12
+FLI-4116,Indigo,Bengaluru_BLR,12
+FLI-6551,Vistara,delhi_DEL,26
+FLI-6265,Vistara,Bengaluru_BLR,12
+FLI-4955,Indigo,delhi_DEL,26
+FLI-6178,Air India,Mumbai_BOM,12
+FLI-4648,Air India,delhi_DEL,12
+FLI-7625,Air India,delhi_DEL,-5
+FLI-1494,Air India,Mumbai_BOM,12
+FLI-7954,Indigo,Mumbai_BOM,26
+FLI-3987,Vistara,delhi_DEL,12
+FLI-1198,Akasa Air,Mumbai_BOM,12
+FLI-2500,Air India,Kolkata_CCU,12
+FLI-3724,Indigo,Mumbai_BOM,26
+FLI-3487,Indigo,delhi_DEL,26
+FLI-9674,Air India,delhi_DEL,26
+FLI-6241,Air India,Kolkata_CCU,26
+FLI-8831,Indigo,Bengaluru_BLR,12
+FLI-9090,Akasa Air,delhi_DEL,12
+FLI-1212,Indigo,Bengaluru_BLR,12
+FLI-3158,Air India,Mumbai_BOM,12
+FLI-6769,Air India,delhi_DEL,12
+FLI-2476,Air India,delhi_DEL,12
+FLI-8443,Vistara,delhi_DEL,12
+FLI-2393,Air India,delhi_DEL,12
+FLI-1483,Air India,Kolkata_CCU,26
+FLI-9823,Indigo,Bengaluru_BLR,12
+FLI-3623,Indigo,Mumbai_BOM,12
+FLI-8335,Air India,delhi_DEL,12
+FLI-4110,Indigo,Mumbai_BOM,12
+FLI-1644,Vistara,Bengaluru_BLR,12
+FLI-7648,Indigo,Kolkata_CCU,26
+FLI-3337,Indigo,Mumbai_BOM,12
+FLI-8731,Akasa Air,Kolkata_CCU,12
+FLI-5170,Akasa Air,delhi_DEL,12
+FLI-7041,Air India,Bengaluru_BLR,12
+FLI-5891,Air India,Mumbai_BOM,26
+FLI-9249,Indigo,Mumbai_BOM,12
+FLI-1808,Vistara,Bengaluru_BLR,12
+FLI-5062,Indigo,Bengaluru_BLR,12
+FLI-1858,Indigo,delhi_DEL,12
+FLI-1165,Indigo,delhi_DEL,26
+FLI-5911,Vistara,Mumbai_BOM,12
+FLI-2313,Vistara,Bengaluru_BLR,12
+FLI-2001,Air India,delhi_DEL,26
+FLI-2686,Indigo,delhi_DEL,12
+FLI-6542,Air India,Kolkata_CCU,-5
+FLI-9345,Vistara,delhi_DEL,12
+FLI-3781,Air India,Kolkata_CCU,26
+FLI-1045,Air India,Kolkata_CCU,12
+FLI-4385,Air India,Kolkata_CCU,12
+FLI-6726,Vistara,delhi_DEL,12
+FLI-3151,Indigo,Kolkata_CCU,12
+FLI-7222,Air India,Kolkata_CCU,26
+FLI-3012,Vistara,Mumbai_BOM,12
+FLI-3478,Akasa Air,delhi_DEL,26
+FLI-5458,Indigo,Kolkata_CCU,12
+FLI-1602,Indigo,delhi_DEL,12
+FLI-1046,Vistara,Bengaluru_BLR,12
+FLI-4072,Air India,delhi_DEL,26
+FLI-8045,Air India,Bengaluru_BLR,26
+FLI-6979,Indigo,delhi_DEL,12
+FLI-6152,Indigo,Bengaluru_BLR,12
+FLI-9770,Vistara,delhi_DEL,12
+FLI-8448,Indigo,Kolkata_CCU,12
+FLI-6032,Air India,Kolkata_CCU,-5
+FLI-7366,Air India,Mumbai_BOM,12
+FLI-6887,Akasa Air,Mumbai_BOM,12
+FLI-6010,Vistara,delhi_DEL,12
+FLI-3886,Air India,delhi_DEL,12
+FLI-4099,Indigo,Mumbai_BOM,12
+FLI-8487,Air India,Mumbai_BOM,12
+FLI-8577,Indigo,delhi_DEL,12
+FLI-2206,Indigo,delhi_DEL,12
+FLI-2579,Indigo,Bengaluru_BLR,12
+FLI-7802,Air India,Bengaluru_BLR,12
+FLI-4636,Indigo,Kolkata_CCU,26
+FLI-8321,Indigo,delhi_DEL,26
+FLI-6231,Vistara,delhi_DEL,12
+FLI-4769,Indigo,Bengaluru_BLR,12
+FLI-6719,Vistara,Kolkata_CCU,12
+FLI-4311,Air India,Mumbai_BOM,12
+FLI-6563,Vistara,Kolkata_CCU,26
+FLI-8566,Air India,Mumbai_BOM,12
+FLI-1790,Indigo,delhi_DEL,12
+FLI-4318,Air India,delhi_DEL,26
+FLI-4269,Akasa Air,Kolkata_CCU,12
+FLI-4653,Indigo,Bengaluru_BLR,26
+FLI-8050,Air India,delhi_DEL,26
+FLI-4489,Indigo,Mumbai_BOM,12
+FLI-7463,Indigo,Bengaluru_BLR,12
+FLI-3598,Indigo,Mumbai_BOM,12
+FLI-7470,Indigo,delhi_DEL,12
+FLI-8338,Air India,delhi_DEL,26
+FLI-3169,Indigo,Bengaluru_BLR,12
+FLI-8750,Indigo,delhi_DEL,12
+FLI-2142,Indigo,Bengaluru_BLR,12
+FLI-2299,Air India,delhi_DEL,26
+FLI-1914,Indigo,delhi_DEL,-5
+FLI-7415,Air India,delhi_DEL,12
+FLI-8238,Air India,delhi_DEL,12
+FLI-6066,Indigo,Bengaluru_BLR,12
+FLI-7064,Vistara,delhi_DEL,12
+FLI-1653,Vistara,Mumbai_BOM,-5
+FLI-9496,Air India,delhi_DEL,12
+FLI-2087,Indigo,delhi_DEL,12
+FLI-7724,Air India,Mumbai_BOM,12
+FLI-1296,Indigo,Mumbai_BOM,12
+FLI-2036,Indigo,Kolkata_CCU,12
+FLI-3544,Air India,Kolkata_CCU,12
+FLI-5717,Indigo,Mumbai_BOM,12
+FLI-1802,Indigo,delhi_DEL,12
+FLI-6710,Indigo,Mumbai_BOM,12
+FLI-8136,Indigo,delhi_DEL,26
+FLI-8314,Indigo,Kolkata_CCU,26
+FLI-4147,Vistara,delhi_DEL,12
+FLI-1937,Indigo,Bengaluru_BLR,12
+FLI-5107,Indigo,Mumbai_BOM,12
+FLI-5648,Indigo,delhi_DEL,12
+FLI-3710,Akasa Air,delhi_DEL,26
+FLI-5082,Indigo,Mumbai_BOM,12
+FLI-1008,Indigo,Mumbai_BOM,12
+FLI-4488,Vistara,Mumbai_BOM,12
+FLI-9814,Indigo,Kolkata_CCU,-5
+FLI-1320,Akasa Air,delhi_DEL,12
+FLI-8684,Indigo,delhi_DEL,12
+FLI-6203,Vistara,Mumbai_BOM,12
+FLI-3297,Akasa Air,Bengaluru_BLR,26
+FLI-1009,Air India,Mumbai_BOM,12
+FLI-4188,Akasa Air,delhi_DEL,12
+FLI-1569,Air India,Mumbai_BOM,12
+FLI-6898,Indigo,Mumbai_BOM,26
+FLI-2086,Vistara,delhi_DEL,12
+FLI-8241,Indigo,delhi_DEL,12
+FLI-9343,Akasa Air,delhi_DEL,12
+FLI-8389,Air India,Bengaluru_BLR,12
+FLI-2559,Air India,Bengaluru_BLR,12
+FLI-5038,Indigo,delhi_DEL,12
+FLI-4853,Air India,Bengaluru_BLR,12
+FLI-1187,Vistara,Bengaluru_BLR,26
+FLI-9789,Akasa Air,Kolkata_CCU,12
+FLI-7528,Air India,Kolkata_CCU,26
+FLI-8542,Air India,Bengaluru_BLR,12
+FLI-7609,Indigo,delhi_DEL,12
+FLI-9368,Indigo,Kolkata_CCU,12
+FLI-2721,Indigo,Kolkata_CCU,12
+FLI-4193,Indigo,Mumbai_BOM,26
+FLI-8188,Air India,Mumbai_BOM,12
+FLI-9508,Vistara,Bengaluru_BLR,12
+FLI-5553,Indigo,Bengaluru_BLR,12
+FLI-1850,Vistara,delhi_DEL,12
+FLI-5549,Akasa Air,Mumbai_BOM,26
+FLI-7445,Indigo,Mumbai_BOM,-5
+FLI-6707,Vistara,delhi_DEL,12
+FLI-1257,Indigo,Mumbai_BOM,12
+FLI-6465,Akasa Air,Bengaluru_BLR,26
+FLI-1045,Air India,Kolkata_CCU,26
+FLI-6315,Air India,delhi_DEL,12
+FLI-6620,Air India,Bengaluru_BLR,12
+FLI-3837,Indigo,delhi_DEL,26
+FLI-6891,Air India,Mumbai_BOM,12
+FLI-4331,Vistara,Mumbai_BOM,12
+FLI-3295,Indigo,delhi_DEL,12
+FLI-6788,Indigo,Bengaluru_BLR,12
+FLI-8590,Indigo,Kolkata_CCU,26
+FLI-8138,Vistara,Kolkata_CCU,12
+FLI-4934,Air India,Kolkata_CCU,12
+FLI-7137,Akasa Air,Mumbai_BOM,12
+FLI-5825,Indigo,Mumbai_BOM,12
+FLI-3763,Air India,delhi_DEL,12
+FLI-7653,Air India,delhi_DEL,12
+FLI-2300,Air India,Mumbai_BOM,26
+FLI-3636,Indigo,delhi_DEL,12
+FLI-8276,Indigo,delhi_DEL,12
+FLI-7870,Indigo,delhi_DEL,12
+FLI-6458,Vistara,Mumbai_BOM,12
+FLI-8500,Indigo,delhi_DEL,26
+FLI-3384,Indigo,Bengaluru_BLR,12
+FLI-5549,Akasa Air,delhi_DEL,12
+FLI-6227,Akasa Air,delhi_DEL,26
+FLI-8349,Air India,delhi_DEL,12
+FLI-5669,Akasa Air,Mumbai_BOM,12
+FLI-2609,Indigo,delhi_DEL,-5
+FLI-8514,Indigo,Bengaluru_BLR,12
+FLI-4184,Indigo,Mumbai_BOM,-5
+FLI-8739,Vistara,delhi_DEL,26
+FLI-8825,Indigo,Mumbai_BOM,26
+FLI-6855,Akasa Air,Bengaluru_BLR,12
+FLI-7644,Air India,Kolkata_CCU,26
+FLI-6458,Air India,Mumbai_BOM,26
+FLI-5787,Akasa Air,Mumbai_BOM,26
+FLI-6861,Air India,Bengaluru_BLR,12
+FLI-1162,Indigo,Mumbai_BOM,12
+FLI-9482,Indigo,delhi_DEL,12
+FLI-2317,Air India,delhi_DEL,12
+FLI-1290,Vistara,Mumbai_BOM,26
+FLI-6640,Vistara,delhi_DEL,12
+FLI-2619,Indigo,Bengaluru_BLR,12
+FLI-7290,Vistara,Mumbai_BOM,12
+FLI-3227,Air India,Mumbai_BOM,26
+FLI-9061,Vistara,Mumbai_BOM,-5
+FLI-6539,Indigo,Bengaluru_BLR,-5
+FLI-2382,Indigo,Mumbai_BOM,12
+FLI-8753,Air India,Mumbai_BOM,12
+FLI-9751,Vistara,Mumbai_BOM,12
+FLI-8659,Akasa Air,delhi_DEL,26
+FLI-3725,Air India,Mumbai_BOM,26
+FLI-5656,Akasa Air,Kolkata_CCU,26
+FLI-7774,Air India,Mumbai_BOM,-5
+FLI-3069,Indigo,delhi_DEL,12
+FLI-6186,Indigo,Mumbai_BOM,12
+FLI-6037,Air India,delhi_DEL,26
+FLI-9270,Indigo,Kolkata_CCU,12
+FLI-9932,Akasa Air,Kolkata_CCU,26
+FLI-7227,Air India,delhi_DEL,-5
+FLI-6112,Vistara,Bengaluru_BLR,12
+FLI-1079,Vistara,Bengaluru_BLR,26
+FLI-9909,Air India,Mumbai_BOM,26
+FLI-8224,Air India,delhi_DEL,12
+FLI-3317,Vistara,delhi_DEL,12
+FLI-9744,Vistara,delhi_DEL,26
+FLI-6344,Air India,Bengaluru_BLR,12
+FLI-9311,Vistara,delhi_DEL,12
+FLI-1232,Vistara,delhi_DEL,12
+FLI-3122,Indigo,Kolkata_CCU,12
+FLI-5215,Air India,delhi_DEL,12
+FLI-5565,Indigo,Mumbai_BOM,-5
+FLI-7391,Air India,Mumbai_BOM,12
+FLI-3564,Indigo,delhi_DEL,12
+FLI-7532,Indigo,delhi_DEL,12
+FLI-5596,Indigo,Kolkata_CCU,12
+FLI-3016,Akasa Air,Mumbai_BOM,12
+FLI-7821,Air India,Kolkata_CCU,-5
+FLI-2069,Indigo,delhi_DEL,12
+FLI-5071,Air India,Bengaluru_BLR,12
+FLI-6713,Vistara,Mumbai_BOM,12
+FLI-6624,Indigo,Kolkata_CCU,26
+FLI-3251,Indigo,delhi_DEL,12
+FLI-8438,Vistara,delhi_DEL,-5
+FLI-4966,Air India,Bengaluru_BLR,12
+FLI-4355,Indigo,Bengaluru_BLR,12
+FLI-9952,Air India,Mumbai_BOM,-5
+FLI-5943,Indigo,Mumbai_BOM,12
+FLI-8548,Indigo,delhi_DEL,12
+FLI-8905,Air India,Bengaluru_BLR,12
+FLI-9564,Indigo,Mumbai_BOM,-5
+FLI-8690,Indigo,Mumbai_BOM,12
+FLI-8096,Indigo,delhi_DEL,26
+FLI-4644,Indigo,Mumbai_BOM,12
+FLI-8883,Indigo,delhi_DEL,12
+FLI-5874,Air India,Mumbai_BOM,26
+FLI-4559,Air India,Bengaluru_BLR,26
+FLI-9593,Indigo,delhi_DEL,12
+FLI-6459,Indigo,delhi_DEL,26
+FLI-1804,Indigo,Kolkata_CCU,12
+FLI-3908,Vistara,delhi_DEL,12
+FLI-6033,Air India,delhi_DEL,12
+FLI-1852,Vistara,Mumbai_BOM,12
+FLI-7269,Akasa Air,delhi_DEL,12
+FLI-4823,Indigo,Bengaluru_BLR,26
+FLI-1284,Indigo,delhi_DEL,26
+FLI-2988,Indigo,Bengaluru_BLR,26
+FLI-2697,Akasa Air,delhi_DEL,12
+FLI-4492,Indigo,Mumbai_BOM,12
+FLI-8258,Vistara,delhi_DEL,12
+FLI-2771,Vistara,delhi_DEL,12
+FLI-5713,Air India,Mumbai_BOM,12
+FLI-9884,Air India,Kolkata_CCU,26
+FLI-6760,Indigo,Bengaluru_BLR,12
+FLI-8097,Indigo,delhi_DEL,26
+FLI-1689,Indigo,Kolkata_CCU,12
+FLI-1504,Air India,Mumbai_BOM,-5
+FLI-7110,Akasa Air,Bengaluru_BLR,12
+FLI-2696,Akasa Air,Mumbai_BOM,-5
+FLI-8301,Indigo,Kolkata_CCU,26
+FLI-7746,Vistara,Bengaluru_BLR,12
+FLI-2309,Vistara,delhi_DEL,12
+FLI-5767,Indigo,Bengaluru_BLR,12
+FLI-1531,Air India,Mumbai_BOM,12
+FLI-3102,Indigo,Bengaluru_BLR,12
+FLI-6198,Akasa Air,Bengaluru_BLR,12
+FLI-1137,Indigo,Kolkata_CCU,12
+FLI-1255,Air India,Mumbai_BOM,12
+FLI-8385,Indigo,Kolkata_CCU,12
+FLI-8962,Air India,Kolkata_CCU,26
+FLI-8350,Air India,Bengaluru_BLR,12
+FLI-2148,Indigo,delhi_DEL,12
+FLI-2382,Indigo,Mumbai_BOM,12
+FLI-4469,Air India,Bengaluru_BLR,-5
+FLI-3605,Vistara,delhi_DEL,12
+FLI-5388,Vistara,Bengaluru_BLR,12
+FLI-2049,Akasa Air,Bengaluru_BLR,12
+FLI-9664,Air India,Kolkata_CCU,12
+FLI-3637,Air India,Bengaluru_BLR,12
+FLI-8764,Indigo,Mumbai_BOM,12
+FLI-1829,Air India,Mumbai_BOM,12
+FLI-1006,Indigo,delhi_DEL,-5
+FLI-3999,Vistara,delhi_DEL,12
+FLI-7134,Air India,Mumbai_BOM,12
+FLI-4785,Air India,Kolkata_CCU,26
+FLI-7230,Air India,Bengaluru_BLR,-5
+FLI-9554,Air India,delhi_DEL,26
+FLI-1593,Indigo,delhi_DEL,12
+FLI-3452,Air India,Mumbai_BOM,12
+FLI-5673,Indigo,Mumbai_BOM,12
+FLI-5758,Indigo,Mumbai_BOM,12
+FLI-3410,Indigo,Kolkata_CCU,12
+FLI-8192,Indigo,Mumbai_BOM,12
+FLI-4320,Akasa Air,Bengaluru_BLR,26
+FLI-9410,Indigo,delhi_DEL,12
+FLI-1841,Air India,delhi_DEL,12
+FLI-7983,Indigo,Kolkata_CCU,12
+FLI-5603,Indigo,Mumbai_BOM,26
+FLI-7508,Air India,Kolkata_CCU,26
+FLI-1272,Vistara,delhi_DEL,12
+FLI-6284,Indigo,delhi_DEL,12
+FLI-4242,Indigo,Bengaluru_BLR,12
+FLI-9039,Indigo,Kolkata_CCU,12
+FLI-4844,Indigo,delhi_DEL,12
+FLI-9985,Vistara,delhi_DEL,12
+FLI-2704,Indigo,delhi_DEL,12
+FLI-9721,Indigo,Mumbai_BOM,12
+FLI-9352,Vistara,Mumbai_BOM,12
+FLI-8058,Indigo,delhi_DEL,26
+FLI-7040,Indigo,delhi_DEL,12
+FLI-4527,Air India,delhi_DEL,12
+FLI-5282,Air India,delhi_DEL,12
+FLI-5186,Air India,Mumbai_BOM,12
+FLI-3639,Air India,delhi_DEL,12
+FLI-9573,Vistara,Kolkata_CCU,12
+FLI-2906,Indigo,Mumbai_BOM,12
+FLI-3327,Indigo,delhi_DEL,12
+FLI-1644,Indigo,Mumbai_BOM,12
+FLI-8416,Indigo,delhi_DEL,12
+FLI-2187,Air India,Mumbai_BOM,12
+FLI-2582,Air India,Mumbai_BOM,-5
+FLI-5107,Indigo,delhi_DEL,12
+FLI-5042,Indigo,Bengaluru_BLR,12
+FLI-5859,Indigo,delhi_DEL,26
+FLI-7976,Indigo,Mumbai_BOM,12
+FLI-3708,Vistara,Bengaluru_BLR,12
+FLI-8031,Akasa Air,Kolkata_CCU,12
+FLI-3483,Vistara,Bengaluru_BLR,26
+FLI-6823,Indigo,Kolkata_CCU,12
+FLI-9290,Air India,delhi_DEL,12
+FLI-9043,Vistara,Mumbai_BOM,12
+FLI-7622,Indigo,delhi_DEL,12
+FLI-5634,Air India,Mumbai_BOM,26
+FLI-6510,Indigo,Mumbai_BOM,12
+FLI-1403,Air India,Mumbai_BOM,12
+FLI-4752,Akasa Air,delhi_DEL,12
+FLI-7519,Indigo,delhi_DEL,12
+FLI-8909,Indigo,Kolkata_CCU,12
+FLI-6389,Akasa Air,Kolkata_CCU,12
+FLI-3568,Indigo,Mumbai_BOM,12
+FLI-6478,Akasa Air,Kolkata_CCU,12
+FLI-2214,Air India,Mumbai_BOM,12
+FLI-7456,Indigo,delhi_DEL,12
+FLI-1490,Indigo,Bengaluru_BLR,12
+FLI-8352,Vistara,Kolkata_CCU,12
+FLI-7422,Indigo,Mumbai_BOM,12
+FLI-5638,Vistara,Kolkata_CCU,12
+FLI-5964,Air India,delhi_DEL,12
+FLI-8238,Air India,Mumbai_BOM,12
+FLI-1734,Indigo,Mumbai_BOM,12
+FLI-6003,Air India,Bengaluru_BLR,12
+FLI-4296,Vistara,Bengaluru_BLR,12
+FLI-2402,Air India,Kolkata_CCU,12
+FLI-6573,Air India,delhi_DEL,12
+FLI-3762,Vistara,Mumbai_BOM,12
+FLI-5663,Air India,Mumbai_BOM,12
+FLI-3084,Indigo,Bengaluru_BLR,26
+FLI-5169,Vistara,Mumbai_BOM,26
+FLI-5071,Indigo,delhi_DEL,26
+FLI-4972,Air India,Mumbai_BOM,26
+FLI-9471,Vistara,Mumbai_BOM,26
+FLI-2778,Air India,Bengaluru_BLR,12
+FLI-3995,Vistara,delhi_DEL,26
+FLI-2011,Indigo,Kolkata_CCU,12
+FLI-8220,Vistara,delhi_DEL,-5
+FLI-7280,Indigo,Bengaluru_BLR,26
+FLI-4005,Indigo,Mumbai_BOM,26
+FLI-2107,Indigo,delhi_DEL,26
+FLI-4945,Air India,delhi_DEL,12
+FLI-8319,Air India,Mumbai_BOM,12
+FLI-5710,Vistara,Bengaluru_BLR,26
+FLI-2262,Indigo,delhi_DEL,12
+FLI-5325,Air India,delhi_DEL,12
+FLI-6738,Vistara,delhi_DEL,12
+FLI-9179,Indigo,Mumbai_BOM,12
+FLI-9739,Akasa Air,delhi_DEL,12
+FLI-5091,Air India,Bengaluru_BLR,12
+FLI-6921,Indigo,Kolkata_CCU,12
+FLI-4834,Air India,Mumbai_BOM,26
+FLI-5078,Indigo,Bengaluru_BLR,12
+FLI-9788,Akasa Air,delhi_DEL,12
+FLI-8596,Air India,Kolkata_CCU,12
+FLI-1937,Indigo,delhi_DEL,12
+FLI-2166,Indigo,Bengaluru_BLR,26
+FLI-1828,Vistara,Mumbai_BOM,12
+FLI-1615,Indigo,Kolkata_CCU,12
+FLI-3927,Indigo,Kolkata_CCU,12
+FLI-6270,Indigo,delhi_DEL,12
+FLI-9476,Akasa Air,delhi_DEL,12
+FLI-5239,Indigo,delhi_DEL,12
+FLI-3472,Indigo,Bengaluru_BLR,26
+FLI-4848,Indigo,Bengaluru_BLR,12
+FLI-1416,Indigo,delhi_DEL,12
+FLI-5072,Air India,delhi_DEL,12
+FLI-7325,Vistara,Kolkata_CCU,12
+FLI-1230,Vistara,Kolkata_CCU,12
+FLI-5838,Indigo,Bengaluru_BLR,12
+FLI-8918,Vistara,Mumbai_BOM,-5
+FLI-3247,Indigo,delhi_DEL,12
+FLI-1064,Indigo,delhi_DEL,12
+FLI-4832,Air India,Bengaluru_BLR,26
+FLI-9315,Akasa Air,Mumbai_BOM,12
+FLI-6325,Air India,delhi_DEL,12
+FLI-5670,Air India,delhi_DEL,12
+FLI-1926,Air India,delhi_DEL,12
+FLI-7806,Indigo,delhi_DEL,12
+FLI-1737,Indigo,Mumbai_BOM,12
+FLI-1416,Indigo,Mumbai_BOM,-5
+FLI-5646,Air India,delhi_DEL,12
+FLI-3273,Indigo,Mumbai_BOM,12
+FLI-4193,Indigo,delhi_DEL,12
+FLI-5295,Akasa Air,Kolkata_CCU,12
+FLI-9138,Indigo,delhi_DEL,12
+FLI-9683,Air India,Bengaluru_BLR,26
+FLI-9076,Air India,delhi_DEL,12
+FLI-1689,Indigo,Mumbai_BOM,12
+FLI-9028,Indigo,delhi_DEL,26
+FLI-5894,Vistara,Kolkata_CCU,12
+FLI-6066,Indigo,Bengaluru_BLR,26
+FLI-6305,Vistara,Mumbai_BOM,12
+FLI-7570,Vistara,delhi_DEL,12
+FLI-8353,Air India,Bengaluru_BLR,12
+FLI-6918,Air India,delhi_DEL,12
+FLI-6817,Indigo,delhi_DEL,26
+FLI-8832,Air India,Mumbai_BOM,12
+FLI-8058,Vistara,Bengaluru_BLR,12
+FLI-7515,Vistara,Bengaluru_BLR,12
+FLI-5100,Indigo,delhi_DEL,12
+FLI-2276,Indigo,Mumbai_BOM,26
+FLI-5672,Air India,Mumbai_BOM,12
+FLI-5269,Air India,Kolkata_CCU,12
+FLI-8677,Vistara,delhi_DEL,12
+FLI-3589,Indigo,delhi_DEL,26
+FLI-5117,Akasa Air,delhi_DEL,12
+FLI-5799,Indigo,Kolkata_CCU,12
+FLI-7960,Air India,delhi_DEL,12
+FLI-3585,Indigo,delhi_DEL,12
+FLI-1376,Akasa Air,Bengaluru_BLR,12
+FLI-1962,Air India,Bengaluru_BLR,26
+FLI-3848,Air India,delhi_DEL,26
+FLI-4242,Akasa Air,delhi_DEL,-5
+FLI-8246,Indigo,Bengaluru_BLR,12
+FLI-3588,Indigo,Mumbai_BOM,26
+FLI-9699,Air India,Mumbai_BOM,12
+FLI-9772,Air India,Bengaluru_BLR,26
+FLI-3241,Vistara,Kolkata_CCU,12
+FLI-9227,Indigo,delhi_DEL,12
+FLI-5753,Air India,delhi_DEL,12
+FLI-4904,Akasa Air,delhi_DEL,12
+FLI-2300,Indigo,Bengaluru_BLR,12
+FLI-4838,Indigo,Bengaluru_BLR,12
+FLI-5986,Vistara,Kolkata_CCU,12
+FLI-7426,Indigo,Kolkata_CCU,26
+FLI-3114,Air India,delhi_DEL,26
+FLI-1668,Air India,Mumbai_BOM,12
+FLI-8387,Indigo,Mumbai_BOM,12
+FLI-8405,Vistara,Kolkata_CCU,12
+FLI-3175,Indigo,Bengaluru_BLR,12
+FLI-1039,Indigo,delhi_DEL,26
+FLI-3970,Akasa Air,Kolkata_CCU,-5
+FLI-8144,Air India,delhi_DEL,12
+FLI-4718,Indigo,delhi_DEL,26
+FLI-6992,Indigo,Mumbai_BOM,12
+FLI-4343,Vistara,Bengaluru_BLR,12
+FLI-6002,Indigo,Mumbai_BOM,26
+FLI-4111,Indigo,Mumbai_BOM,12
+FLI-8285,Vistara,delhi_DEL,12
+FLI-8832,Indigo,Mumbai_BOM,26
+FLI-4332,Air India,Mumbai_BOM,26
+FLI-7316,Indigo,Bengaluru_BLR,26
+FLI-6293,Air India,Mumbai_BOM,12
+FLI-6201,Indigo,Bengaluru_BLR,12
+FLI-7173,Indigo,delhi_DEL,12
+FLI-1869,Air India,delhi_DEL,12
+FLI-4756,Indigo,delhi_DEL,12
+FLI-5096,Air India,Bengaluru_BLR,12
+FLI-2866,Indigo,delhi_DEL,12
+FLI-6355,Indigo,delhi_DEL,12
+FLI-3324,Air India,Mumbai_BOM,12
+FLI-3037,Vistara,Mumbai_BOM,-5
+FLI-8110,Indigo,Mumbai_BOM,12
+FLI-2183,Indigo,Bengaluru_BLR,12
+FLI-8914,Akasa Air,Mumbai_BOM,-5
+FLI-6988,Vistara,delhi_DEL,12
+FLI-5011,Vistara,delhi_DEL,12
+FLI-2768,Indigo,Mumbai_BOM,-5
+FLI-9414,Indigo,Mumbai_BOM,26
+FLI-1620,Indigo,delhi_DEL,12
+FLI-9142,Indigo,Mumbai_BOM,26
+FLI-1613,Indigo,delhi_DEL,-5
+FLI-8239,Indigo,Bengaluru_BLR,26
+FLI-7870,Air India,Mumbai_BOM,12
+FLI-8384,Air India,Mumbai_BOM,12
+FLI-2623,Indigo,delhi_DEL,12
+FLI-1341,Vistara,Bengaluru_BLR,12
+FLI-9213,Akasa Air,Mumbai_BOM,-5
+FLI-3610,Air India,Kolkata_CCU,12
+FLI-5668,Vistara,delhi_DEL,12
+FLI-9867,Akasa Air,Kolkata_CCU,12
+FLI-9017,Air India,Mumbai_BOM,-5
+FLI-2037,Indigo,delhi_DEL,12
+FLI-9599,Indigo,delhi_DEL,12
+FLI-2265,Indigo,Kolkata_CCU,26
+FLI-4107,Indigo,delhi_DEL,26
+FLI-2860,Indigo,delhi_DEL,-5
+FLI-3324,Vistara,delhi_DEL,12
+FLI-5036,Vistara,Bengaluru_BLR,26
+FLI-5681,Air India,delhi_DEL,26
+FLI-4859,Indigo,Kolkata_CCU,12
+FLI-5721,Indigo,Kolkata_CCU,12
+FLI-5416,Air India,Bengaluru_BLR,12
+FLI-1799,Akasa Air,Mumbai_BOM,26
+FLI-6534,Indigo,delhi_DEL,12
+FLI-4275,Vistara,Mumbai_BOM,12
+FLI-9528,Indigo,Bengaluru_BLR,12
+FLI-6846,Indigo,Mumbai_BOM,12
+FLI-7361,Air India,delhi_DEL,12
+FLI-8706,Vistara,Kolkata_CCU,12
+FLI-5143,Indigo,Bengaluru_BLR,12
+FLI-3995,Air India,Kolkata_CCU,26
+FLI-2389,Indigo,Kolkata_CCU,-5
+FLI-9352,Air India,Bengaluru_BLR,12
+FLI-8535,Indigo,Kolkata_CCU,-5
+FLI-2341,Vistara,Kolkata_CCU,26
+FLI-6927,Indigo,Bengaluru_BLR,26
+FLI-1677,Indigo,delhi_DEL,26
+FLI-4693,Akasa Air,delhi_DEL,12
+FLI-6780,Air India,Mumbai_BOM,12
+FLI-1436,Indigo,Mumbai_BOM,12
+FLI-4401,Indigo,delhi_DEL,12
+FLI-7377,Air India,delhi_DEL,12
+FLI-5164,Indigo,Kolkata_CCU,26
+FLI-4057,Indigo,Mumbai_BOM,12
+FLI-4307,Air India,delhi_DEL,26
+FLI-4150,Indigo,Kolkata_CCU,26
+FLI-5535,Indigo,Mumbai_BOM,26
+FLI-1966,Indigo,Bengaluru_BLR,12
+FLI-8736,Indigo,Bengaluru_BLR,12
+FLI-2507,Akasa Air,Mumbai_BOM,12
+FLI-9358,Air India,delhi_DEL,12
+FLI-7987,Indigo,Bengaluru_BLR,26
+FLI-3200,Indigo,delhi_DEL,12
+FLI-4842,Air India,Kolkata_CCU,-5
+FLI-9006,Indigo,delhi_DEL,12
+FLI-5985,Air India,Bengaluru_BLR,12
+FLI-8103,Vistara,delhi_DEL,12
+FLI-9091,Indigo,Mumbai_BOM,12
+FLI-6927,Indigo,Bengaluru_BLR,26
+FLI-8668,Air India,delhi_DEL,26
+FLI-7413,Vistara,Mumbai_BOM,12
+FLI-2604,Indigo,Mumbai_BOM,12
+FLI-8329,Indigo,Mumbai_BOM,26
+FLI-7399,Air India,Kolkata_CCU,26
+FLI-2665,Air India,delhi_DEL,12
+FLI-3827,Indigo,Kolkata_CCU,12
+FLI-8871,Akasa Air,Bengaluru_BLR,12
+FLI-3242,Air India,delhi_DEL,12
+FLI-4557,Indigo,Kolkata_CCU,12
+FLI-7559,Akasa Air,Mumbai_BOM,26
+FLI-5534,Indigo,delhi_DEL,12
+FLI-5129,Vistara,Bengaluru_BLR,12
+FLI-3279,Vistara,delhi_DEL,12
+FLI-1704,Indigo,Mumbai_BOM,12
+FLI-6463,Vistara,Mumbai_BOM,12
+FLI-1144,Indigo,Kolkata_CCU,12
+FLI-5347,Indigo,delhi_DEL,12
+FLI-3406,Indigo,Mumbai_BOM,12
+FLI-2169,Indigo,delhi_DEL,12
+FLI-5807,Vistara,delhi_DEL,26
+FLI-7761,Indigo,Bengaluru_BLR,26
+FLI-1138,Indigo,Kolkata_CCU,26
+FLI-5411,Indigo,Kolkata_CCU,26
+FLI-4990,Vistara,Mumbai_BOM,26
+FLI-1951,Air India,Bengaluru_BLR,12
+FLI-1567,Vistara,delhi_DEL,12
+FLI-3931,Air India,Bengaluru_BLR,26
+FLI-3731,Indigo,Mumbai_BOM,12
+FLI-4885,Air India,Kolkata_CCU,26
+FLI-5695,Indigo,delhi_DEL,12
+FLI-9195,Indigo,Bengaluru_BLR,12
+FLI-5003,Indigo,delhi_DEL,12
+FLI-7572,Vistara,Bengaluru_BLR,12
+FLI-3646,Indigo,delhi_DEL,12
+FLI-1078,Akasa Air,Mumbai_BOM,26
+FLI-4535,Indigo,delhi_DEL,12
+FLI-7105,Air India,Bengaluru_BLR,12
+FLI-3701,Vistara,delhi_DEL,12
+FLI-1192,Vistara,Kolkata_CCU,-5
+FLI-7931,Indigo,Mumbai_BOM,12
+FLI-4409,Vistara,delhi_DEL,12
+FLI-7535,Indigo,Bengaluru_BLR,12
+FLI-7663,Air India,Bengaluru_BLR,12
+FLI-8631,Indigo,Bengaluru_BLR,26
+FLI-3519,Indigo,Bengaluru_BLR,26
+FLI-3556,Air India,delhi_DEL,12
+FLI-1769,Akasa Air,Mumbai_BOM,26
+FLI-9390,Indigo,Mumbai_BOM,26
+FLI-7141,Air India,Mumbai_BOM,12
+FLI-6256,Indigo,Mumbai_BOM,26
+FLI-1491,Air India,Kolkata_CCU,12
+FLI-6130,Air India,delhi_DEL,26
+FLI-4793,Indigo,Mumbai_BOM,12
+FLI-8622,Air India,Bengaluru_BLR,12
+FLI-5619,Air India,delhi_DEL,26
+FLI-2673,Indigo,delhi_DEL,26
+FLI-9943,Indigo,delhi_DEL,12
+FLI-5626,Vistara,Kolkata_CCU,26
+FLI-6410,Vistara,delhi_DEL,12
+FLI-1382,Indigo,Mumbai_BOM,12
+FLI-2267,Air India,Mumbai_BOM,12
+FLI-4648,Air India,Mumbai_BOM,12
+FLI-1234,Indigo,Bengaluru_BLR,12
+FLI-2558,Indigo,Mumbai_BOM,12
+FLI-6648,Air India,delhi_DEL,12
+FLI-9877,Akasa Air,Bengaluru_BLR,26
+FLI-6023,Indigo,Mumbai_BOM,12
+FLI-8747,Indigo,delhi_DEL,12
+FLI-2466,Indigo,delhi_DEL,12
+FLI-9307,Indigo,delhi_DEL,12
+FLI-7218,Indigo,Mumbai_BOM,12
+FLI-1592,Vistara,Mumbai_BOM,26
+FLI-6601,Indigo,Bengaluru_BLR,26
+FLI-8539,Indigo,Mumbai_BOM,-5
+FLI-5463,Vistara,delhi_DEL,26
+FLI-5768,Indigo,Bengaluru_BLR,12
+FLI-9470,Indigo,Mumbai_BOM,12
+FLI-3054,Vistara,Bengaluru_BLR,12
+FLI-5152,Indigo,Mumbai_BOM,12
+FLI-7290,Vistara,Bengaluru_BLR,12
+FLI-7868,Air India,Kolkata_CCU,26
+FLI-6502,Indigo,delhi_DEL,12
+FLI-2508,Indigo,Mumbai_BOM,26
+FLI-4884,Indigo,Mumbai_BOM,12
+FLI-2582,Air India,delhi_DEL,12
+FLI-9156,Air India,Bengaluru_BLR,12
+FLI-7604,Air India,delhi_DEL,12
+FLI-8184,Air India,Mumbai_BOM,26
+FLI-8447,Air India,Mumbai_BOM,12
+FLI-8504,Indigo,delhi_DEL,26
+FLI-4709,Air India,Mumbai_BOM,12
+FLI-4954,Indigo,delhi_DEL,12
+FLI-5980,Indigo,Kolkata_CCU,12
+FLI-8599,Indigo,delhi_DEL,26
+FLI-3865,Indigo,Kolkata_CCU,12
+FLI-1404,Akasa Air,Kolkata_CCU,12
+FLI-4470,Air India,delhi_DEL,12
+FLI-1288,Indigo,Mumbai_BOM,12
+FLI-3749,Akasa Air,Kolkata_CCU,-5
+FLI-3283,Air India,Bengaluru_BLR,12
+FLI-6891,Indigo,delhi_DEL,12
+FLI-8236,Indigo,delhi_DEL,26
+FLI-8227,Indigo,Mumbai_BOM,26
+FLI-2185,Indigo,delhi_DEL,26
+FLI-7844,Indigo,delhi_DEL,26
+FLI-4883,Vistara,Kolkata_CCU,12
+FLI-7709,Indigo,delhi_DEL,12
+FLI-9597,Indigo,Bengaluru_BLR,12
+FLI-3302,Air India,Mumbai_BOM,12
+FLI-6054,Indigo,Mumbai_BOM,12
+FLI-9515,Indigo,Kolkata_CCU,26
+FLI-2768,Indigo,Bengaluru_BLR,12
+FLI-5619,Indigo,Bengaluru_BLR,26
+FLI-6279,Vistara,Bengaluru_BLR,12
+FLI-4460,Indigo,Mumbai_BOM,12
+FLI-7700,Air India,Bengaluru_BLR,12
+FLI-3748,Indigo,Kolkata_CCU,12
+FLI-6953,Indigo,delhi_DEL,12
+FLI-4380,Akasa Air,delhi_DEL,26
+FLI-6288,Indigo,delhi_DEL,12
+FLI-2037,Indigo,Mumbai_BOM,12
+FLI-1584,Indigo,Mumbai_BOM,12
+FLI-1543,Air India,delhi_DEL,26
+FLI-4093,Akasa Air,Kolkata_CCU,12
+FLI-7529,Air India,delhi_DEL,12
+FLI-3700,Air India,delhi_DEL,12
+FLI-7389,Air India,Mumbai_BOM,26
+FLI-4583,Indigo,Kolkata_CCU,12
+FLI-9561,Air India,delhi_DEL,12
+FLI-2380,Indigo,Mumbai_BOM,26
+FLI-6041,Air India,Bengaluru_BLR,12
+FLI-4102,Indigo,Mumbai_BOM,12
+FLI-1959,Indigo,Mumbai_BOM,12
+FLI-1460,Vistara,delhi_DEL,12
+FLI-1626,Indigo,delhi_DEL,12
+FLI-8366,Vistara,Bengaluru_BLR,12
+FLI-1942,Air India,Bengaluru_BLR,26
+FLI-1761,Vistara,delhi_DEL,-5
+FLI-2538,Indigo,delhi_DEL,12
+FLI-7039,Vistara,delhi_DEL,12
+FLI-6467,Akasa Air,delhi_DEL,-5
+FLI-4073,Indigo,Mumbai_BOM,26
+FLI-7062,Air India,delhi_DEL,12
+FLI-3529,Indigo,Mumbai_BOM,12
+FLI-3419,Indigo,Mumbai_BOM,26
+FLI-7425,Akasa Air,delhi_DEL,26
+FLI-2795,Vistara,delhi_DEL,12
+FLI-3078,Indigo,delhi_DEL,26
+FLI-6211,Akasa Air,Kolkata_CCU,12
+FLI-5500,Indigo,Kolkata_CCU,12
+FLI-5120,Air India,Bengaluru_BLR,12
+FLI-9588,Indigo,Kolkata_CCU,26
+FLI-6302,Air India,Bengaluru_BLR,-5
+FLI-5854,Indigo,delhi_DEL,12
+FLI-4132,Akasa Air,Mumbai_BOM,12
+FLI-8881,Indigo,delhi_DEL,12
+FLI-5228,Vistara,Mumbai_BOM,26
+FLI-5285,Akasa Air,Mumbai_BOM,-5
+FLI-1726,Air India,Bengaluru_BLR,26
+FLI-4570,Indigo,delhi_DEL,12
+FLI-3174,Air India,delhi_DEL,12
+FLI-3993,Air India,delhi_DEL,12
+FLI-6140,Air India,delhi_DEL,12
+FLI-2212,Indigo,delhi_DEL,26
+FLI-2231,Air India,Kolkata_CCU,12
+FLI-1788,Air India,delhi_DEL,12
+FLI-4355,Indigo,Kolkata_CCU,12
+FLI-3651,Vistara,Mumbai_BOM,12
+FLI-5743,Air India,Kolkata_CCU,12
+FLI-5401,Vistara,Bengaluru_BLR,-5
+FLI-6644,Akasa Air,delhi_DEL,12
+FLI-3796,Vistara,Mumbai_BOM,26
+FLI-8671,Air India,Mumbai_BOM,12
+FLI-1601,Air India,delhi_DEL,12
+FLI-3814,Vistara,delhi_DEL,12
+FLI-9731,Indigo,Bengaluru_BLR,12
+FLI-1400,Indigo,Bengaluru_BLR,12
+FLI-7887,Akasa Air,Kolkata_CCU,12
+FLI-5920,Air India,Mumbai_BOM,12
+FLI-9956,Indigo,Bengaluru_BLR,26
+FLI-9200,Vistara,delhi_DEL,12
+FLI-6079,Air India,delhi_DEL,26
+FLI-7856,Akasa Air,Mumbai_BOM,12
+FLI-8776,Akasa Air,Mumbai_BOM,12
+FLI-4159,Indigo,delhi_DEL,26
+FLI-1473,Indigo,Kolkata_CCU,26
+FLI-9763,Indigo,Bengaluru_BLR,26
+FLI-6074,Vistara,Kolkata_CCU,12
+FLI-1739,Indigo,Bengaluru_BLR,12
+FLI-3670,Akasa Air,Mumbai_BOM,12
+FLI-5206,Indigo,delhi_DEL,12
+FLI-2862,Indigo,Mumbai_BOM,26
+FLI-8432,Akasa Air,Mumbai_BOM,-5
+FLI-3014,Vistara,Kolkata_CCU,12
+FLI-9708,Indigo,Kolkata_CCU,12
+FLI-1012,Indigo,Mumbai_BOM,26
+FLI-3592,Air India,delhi_DEL,12
+FLI-7378,Akasa Air,delhi_DEL,12
+FLI-1393,Air India,delhi_DEL,12
+FLI-6456,Air India,Bengaluru_BLR,12
+FLI-8263,Indigo,Mumbai_BOM,12
+FLI-4342,Indigo,Bengaluru_BLR,12
+FLI-8432,Vistara,Mumbai_BOM,-5
+FLI-7892,Air India,Mumbai_BOM,12
+FLI-7223,Air India,Bengaluru_BLR,12
+FLI-2577,Vistara,Mumbai_BOM,12
+FLI-9714,Air India,delhi_DEL,26
+FLI-4322,Indigo,Bengaluru_BLR,-5
+FLI-9274,Indigo,delhi_DEL,26
+FLI-2427,Vistara,delhi_DEL,12
+FLI-6765,Air India,Mumbai_BOM,-5
+FLI-9068,Air India,delhi_DEL,12
+FLI-9958,Indigo,Bengaluru_BLR,26
+FLI-9393,Indigo,delhi_DEL,12
+FLI-9744,Air India,Bengaluru_BLR,26
+FLI-6051,Vistara,delhi_DEL,-5
+FLI-1278,Air India,Kolkata_CCU,12
+FLI-4183,Indigo,Kolkata_CCU,26
+FLI-1675,Indigo,delhi_DEL,12
+FLI-3357,Vistara,Bengaluru_BLR,12
+FLI-2428,Indigo,Mumbai_BOM,12
+FLI-6855,Indigo,Mumbai_BOM,26
+FLI-9212,Air India,delhi_DEL,26
+FLI-1062,Air India,Bengaluru_BLR,12
+FLI-7387,Indigo,Mumbai_BOM,12
+FLI-3730,Indigo,Bengaluru_BLR,12
+FLI-9336,Air India,delhi_DEL,12
+FLI-8808,Indigo,delhi_DEL,12
+FLI-8101,Air India,Bengaluru_BLR,26
+FLI-6311,Air India,Bengaluru_BLR,12
+FLI-6167,Air India,delhi_DEL,-5
+FLI-8021,Air India,Bengaluru_BLR,12
+FLI-1856,Indigo,delhi_DEL,12
+FLI-8891,Akasa Air,Bengaluru_BLR,12
+FLI-3423,Vistara,delhi_DEL,12
+FLI-6514,Indigo,delhi_DEL,-5
+FLI-1582,Vistara,delhi_DEL,12
+FLI-4309,Indigo,Kolkata_CCU,26
+FLI-4508,Indigo,Mumbai_BOM,12
+FLI-3242,Vistara,Bengaluru_BLR,12
+FLI-7775,Vistara,delhi_DEL,12
+FLI-8157,Vistara,Mumbai_BOM,26
+FLI-1803,Akasa Air,Bengaluru_BLR,12
+FLI-9842,Akasa Air,delhi_DEL,26
+FLI-4185,Indigo,Bengaluru_BLR,12
+FLI-3664,Indigo,delhi_DEL,12
+FLI-2894,Indigo,Kolkata_CCU,12
+FLI-4464,Vistara,delhi_DEL,26
+FLI-5496,Indigo,Kolkata_CCU,12
+FLI-4918,Indigo,delhi_DEL,12
+FLI-5332,Vistara,Bengaluru_BLR,26
+FLI-5157,Indigo,delhi_DEL,12
+FLI-7922,Air India,Kolkata_CCU,12
+FLI-7466,Indigo,delhi_DEL,26
+FLI-1723,Air India,Bengaluru_BLR,12
+FLI-9394,Air India,delhi_DEL,12
+FLI-8941,Indigo,delhi_DEL,12
+FLI-3996,Air India,Mumbai_BOM,26
+FLI-9366,Air India,delhi_DEL,12
+FLI-5054,Akasa Air,Mumbai_BOM,12
+FLI-9360,Vistara,Kolkata_CCU,12
+FLI-1160,Vistara,Mumbai_BOM,12
+FLI-6132,Akasa Air,Bengaluru_BLR,26
+FLI-5140,Vistara,Mumbai_BOM,12
+FLI-1898,Indigo,Bengaluru_BLR,12
+FLI-8729,Air India,delhi_DEL,12
+FLI-8906,Air India,delhi_DEL,12
+FLI-6785,Vistara,Mumbai_BOM,12
+FLI-9318,Indigo,Mumbai_BOM,26
+FLI-6674,Akasa Air,Bengaluru_BLR,12
+FLI-6405,Akasa Air,Kolkata_CCU,12
+FLI-2468,Vistara,Bengaluru_BLR,26
+FLI-1530,Vistara,Kolkata_CCU,12
+FLI-5210,Vistara,Mumbai_BOM,26
+FLI-7368,Vistara,Bengaluru_BLR,12
+FLI-4913,Indigo,delhi_DEL,26
+FLI-2396,Indigo,delhi_DEL,12
+FLI-1704,Air India,Mumbai_BOM,26
+FLI-3926,Air India,Mumbai_BOM,26
+FLI-6659,Vistara,delhi_DEL,12
+FLI-8215,Indigo,Mumbai_BOM,26
+FLI-8244,Indigo,Mumbai_BOM,12
+FLI-4605,Akasa Air,delhi_DEL,26
+FLI-2963,Indigo,Bengaluru_BLR,26
+FLI-9333,Air India,Mumbai_BOM,12
+FLI-6426,Indigo,Bengaluru_BLR,12
+FLI-5323,Indigo,delhi_DEL,12
+FLI-3648,Akasa Air,delhi_DEL,12
+FLI-4455,Vistara,delhi_DEL,12
+FLI-8111,Vistara,Kolkata_CCU,12
+FLI-4941,Indigo,Kolkata_CCU,-5
+FLI-8500,Air India,delhi_DEL,12
+FLI-8340,Indigo,Kolkata_CCU,12
+FLI-8052,Akasa Air,delhi_DEL,12
+FLI-2346,Indigo,delhi_DEL,12
+FLI-4586,Air India,delhi_DEL,12
+FLI-2121,Air India,Mumbai_BOM,26
+FLI-9687,Air India,Bengaluru_BLR,26
+FLI-6880,Indigo,delhi_DEL,26
+FLI-5260,Indigo,Mumbai_BOM,12
+FLI-2949,Indigo,Mumbai_BOM,12
+FLI-1701,Vistara,Bengaluru_BLR,12
+FLI-8375,Indigo,delhi_DEL,12
+FLI-6779,Vistara,delhi_DEL,12
+FLI-9480,Indigo,Kolkata_CCU,26
+FLI-1540,Air India,Mumbai_BOM,12
+FLI-2208,Indigo,Bengaluru_BLR,12
+FLI-6271,Indigo,Mumbai_BOM,12
+FLI-9698,Vistara,Mumbai_BOM,12
+FLI-3263,Indigo,Mumbai_BOM,12
+FLI-4139,Indigo,delhi_DEL,26
+FLI-4515,Indigo,delhi_DEL,-5
+FLI-9750,Akasa Air,Mumbai_BOM,12
+FLI-2905,Air India,delhi_DEL,12
+FLI-3984,Vistara,Mumbai_BOM,12
+FLI-5350,Vistara,Kolkata_CCU,12
+FLI-2270,Indigo,delhi_DEL,26
+FLI-7665,Air India,delhi_DEL,26
+FLI-2260,Indigo,Bengaluru_BLR,12
+FLI-2663,Air India,delhi_DEL,12
+FLI-6928,Vistara,Mumbai_BOM,12
+FLI-6550,Vistara,Mumbai_BOM,12
+FLI-8558,Air India,Kolkata_CCU,26
+FLI-8984,Vistara,delhi_DEL,12
+FLI-8434,Indigo,delhi_DEL,12
+FLI-6975,Indigo,delhi_DEL,26
+FLI-3304,Indigo,Bengaluru_BLR,26
+FLI-8861,Indigo,Kolkata_CCU,26
+FLI-9330,Indigo,Kolkata_CCU,12
+FLI-7055,Indigo,Mumbai_BOM,12
+FLI-5779,Indigo,delhi_DEL,12
+FLI-1006,Vistara,delhi_DEL,12
+FLI-6348,Akasa Air,Mumbai_BOM,12
+FLI-2977,Indigo,Mumbai_BOM,12
+FLI-7835,Vistara,Bengaluru_BLR,12
+FLI-3760,Air India,Mumbai_BOM,26
+FLI-5378,Indigo,Mumbai_BOM,12
+FLI-2645,Vistara,delhi_DEL,12
+FLI-1300,Air India,delhi_DEL,12
+FLI-7784,Air India,Bengaluru_BLR,12
+FLI-8641,Indigo,Kolkata_CCU,26
+FLI-3872,Air India,Mumbai_BOM,12
+FLI-6187,Vistara,Bengaluru_BLR,12
+FLI-5070,Vistara,Kolkata_CCU,12
+FLI-9758,Indigo,delhi_DEL,26
+FLI-5095,Indigo,Mumbai_BOM,12
+FLI-4183,Vistara,Mumbai_BOM,12
+FLI-2281,Indigo,Kolkata_CCU,12
+FLI-7151,Vistara,Kolkata_CCU,26
+FLI-3650,Akasa Air,delhi_DEL,12
+FLI-4934,Air India,Kolkata_CCU,12
+FLI-8174,Indigo,Mumbai_BOM,12
+FLI-9866,Indigo,Mumbai_BOM,12
+FLI-9805,Air India,Mumbai_BOM,26
+FLI-8159,Vistara,Bengaluru_BLR,26
+FLI-5242,Indigo,Bengaluru_BLR,26
+FLI-2436,Indigo,Kolkata_CCU,12
+FLI-2493,Akasa Air,delhi_DEL,26
+FLI-6370,Akasa Air,Mumbai_BOM,12
+FLI-6076,Vistara,Bengaluru_BLR,12
+FLI-8312,Air India,delhi_DEL,26
+FLI-5930,Indigo,delhi_DEL,12
+FLI-8197,Indigo,delhi_DEL,12
+FLI-6537,Indigo,Bengaluru_BLR,-5
+FLI-9882,Air India,delhi_DEL,12
+FLI-1226,Akasa Air,delhi_DEL,12
+FLI-3318,Indigo,Mumbai_BOM,26
+FLI-9412,Vistara,delhi_DEL,12
+FLI-2106,Indigo,delhi_DEL,26
+FLI-3870,Indigo,Bengaluru_BLR,26
+FLI-4509,Air India,Kolkata_CCU,12
+FLI-9720,Akasa Air,Bengaluru_BLR,12
+FLI-1470,Akasa Air,Mumbai_BOM,12
+FLI-3252,Air India,Mumbai_BOM,12
+FLI-8955,Indigo,Mumbai_BOM,12
+FLI-7910,Air India,Bengaluru_BLR,12
+FLI-5664,Indigo,delhi_DEL,12
+FLI-1133,Air India,Mumbai_BOM,12
+FLI-4809,Indigo,delhi_DEL,12
+FLI-1304,Indigo,delhi_DEL,12
+FLI-3462,Indigo,delhi_DEL,12
+FLI-2408,Indigo,delhi_DEL,12
+FLI-9393,Indigo,Kolkata_CCU,12
+FLI-5379,Air India,Mumbai_BOM,12
+FLI-7384,Indigo,delhi_DEL,26
+FLI-7146,Indigo,delhi_DEL,12
+FLI-6352,Indigo,delhi_DEL,26
+FLI-8348,Indigo,Mumbai_BOM,12
+FLI-3240,Air India,Mumbai_BOM,26
+FLI-5530,Akasa Air,Kolkata_CCU,26
+FLI-4435,Indigo,Bengaluru_BLR,12
+FLI-2451,Indigo,delhi_DEL,12
+FLI-2257,Akasa Air,Kolkata_CCU,12
+FLI-7519,Indigo,Bengaluru_BLR,12
+FLI-9303,Indigo,Mumbai_BOM,12
+FLI-9460,Vistara,Kolkata_CCU,12
+FLI-5895,Air India,Mumbai_BOM,26
+FLI-6537,Indigo,delhi_DEL,12
+FLI-2915,Vistara,delhi_DEL,12
+FLI-1004,Vistara,Mumbai_BOM,12
+FLI-7719,Indigo,Kolkata_CCU,12
+FLI-4103,Indigo,Kolkata_CCU,26
+FLI-2048,Vistara,Mumbai_BOM,26
+FLI-8674,Vistara,Bengaluru_BLR,26
+FLI-9275,Akasa Air,delhi_DEL,26
+FLI-6592,Vistara,Bengaluru_BLR,12
+FLI-1401,Vistara,Mumbai_BOM,12
+FLI-4842,Indigo,delhi_DEL,12
+FLI-1045,Vistara,Mumbai_BOM,12
+FLI-4958,Indigo,Kolkata_CCU,12
+FLI-4992,Air India,Bengaluru_BLR,12
+FLI-1417,Vistara,delhi_DEL,12
+FLI-3774,Akasa Air,Mumbai_BOM,26
+FLI-3504,Akasa Air,delhi_DEL,-5
+FLI-5279,Vistara,delhi_DEL,12
+FLI-5185,Akasa Air,delhi_DEL,26
+FLI-3837,Indigo,Kolkata_CCU,12
+FLI-1592,Vistara,Mumbai_BOM,12
+FLI-2423,Indigo,Mumbai_BOM,26
+FLI-1534,Indigo,Mumbai_BOM,12
+FLI-1754,Indigo,Bengaluru_BLR,12
+FLI-7304,Air India,Bengaluru_BLR,12
+FLI-7988,Vistara,Mumbai_BOM,12
+FLI-8246,Indigo,delhi_DEL,12
+FLI-6787,Air India,Bengaluru_BLR,12
+FLI-9295,Air India,delhi_DEL,12
+FLI-6238,Vistara,delhi_DEL,12
+FLI-5352,Vistara,delhi_DEL,12
+FLI-1938,Indigo,delhi_DEL,12
+FLI-8222,Indigo,Bengaluru_BLR,12
+FLI-6598,Indigo,Bengaluru_BLR,12
+FLI-4179,Indigo,Mumbai_BOM,26
+FLI-6855,Vistara,Mumbai_BOM,12
+FLI-4461,Air India,Mumbai_BOM,12
+FLI-6606,Indigo,Bengaluru_BLR,12
+FLI-8770,Indigo,delhi_DEL,26
+FLI-9689,Indigo,Mumbai_BOM,12
+FLI-5172,Vistara,Mumbai_BOM,12
+FLI-8772,Indigo,delhi_DEL,12
+FLI-4869,Indigo,Mumbai_BOM,26
+FLI-9168,Indigo,delhi_DEL,12
+FLI-9528,Indigo,Mumbai_BOM,12
+FLI-3257,Indigo,delhi_DEL,26
+FLI-6136,Vistara,delhi_DEL,26
+FLI-4477,Indigo,Mumbai_BOM,12
+FLI-3027,Indigo,Bengaluru_BLR,12
+FLI-6490,Indigo,Mumbai_BOM,12
+FLI-9816,Vistara,Bengaluru_BLR,12
+FLI-6835,Air India,Bengaluru_BLR,12
+FLI-3489,Indigo,Kolkata_CCU,12
+FLI-7353,Air India,Mumbai_BOM,12
+FLI-9731,Vistara,Bengaluru_BLR,12
+FLI-8960,Air India,Mumbai_BOM,12
+FLI-9551,Air India,delhi_DEL,12
+FLI-9880,Indigo,Mumbai_BOM,12
+FLI-4450,Indigo,Bengaluru_BLR,12
+FLI-2603,Indigo,delhi_DEL,12
+FLI-6867,Indigo,Mumbai_BOM,12
+FLI-4481,Indigo,delhi_DEL,26
+FLI-1290,Akasa Air,delhi_DEL,12
+FLI-3391,Indigo,Bengaluru_BLR,26
+FLI-5941,Indigo,Bengaluru_BLR,12
+FLI-6146,Indigo,delhi_DEL,26
+FLI-6428,Indigo,Kolkata_CCU,12
+FLI-6952,Indigo,Kolkata_CCU,12
+FLI-6849,Vistara,Mumbai_BOM,12
+FLI-9168,Air India,Bengaluru_BLR,12
+FLI-4335,Indigo,Mumbai_BOM,12
+FLI-6709,Air India,Mumbai_BOM,12
+FLI-7235,Akasa Air,delhi_DEL,26
+FLI-6431,Vistara,delhi_DEL,12
+FLI-7889,Air India,delhi_DEL,12
+FLI-8809,Indigo,Bengaluru_BLR,12
+FLI-3635,Indigo,Mumbai_BOM,-5
+FLI-2836,Indigo,Kolkata_CCU,-5
+FLI-8281,Indigo,Mumbai_BOM,12
+FLI-3089,Air India,Kolkata_CCU,26
+FLI-1937,Akasa Air,delhi_DEL,12
+FLI-9207,Akasa Air,Mumbai_BOM,26
+FLI-6744,Indigo,Bengaluru_BLR,12
+FLI-9025,Indigo,Kolkata_CCU,12
+FLI-7291,Air India,delhi_DEL,26
+FLI-1038,Indigo,Kolkata_CCU,12
+FLI-8216,Indigo,delhi_DEL,12
+FLI-8907,Indigo,delhi_DEL,12
+FLI-4555,Indigo,delhi_DEL,12
+FLI-3196,Indigo,delhi_DEL,12
+FLI-7489,Indigo,Mumbai_BOM,12
+FLI-3995,Vistara,delhi_DEL,12
+FLI-7543,Air India,delhi_DEL,12
+FLI-6400,Air India,delhi_DEL,12
+FLI-7324,Akasa Air,Bengaluru_BLR,-5
+FLI-8351,Indigo,Bengaluru_BLR,12
+FLI-8181,Vistara,Bengaluru_BLR,26
+FLI-2198,Indigo,Mumbai_BOM,12
+FLI-2871,Vistara,Kolkata_CCU,12
+FLI-4014,Air India,delhi_DEL,12
+FLI-8272,Indigo,delhi_DEL,12
+FLI-7953,Indigo,delhi_DEL,12
+FLI-8542,Air India,Mumbai_BOM,12
+FLI-2556,Akasa Air,delhi_DEL,12
+FLI-9397,Indigo,Mumbai_BOM,26
+FLI-2513,Akasa Air,Bengaluru_BLR,12
+FLI-6978,Indigo,delhi_DEL,26
+FLI-1271,Vistara,Kolkata_CCU,26
+FLI-1451,Indigo,Mumbai_BOM,26
+FLI-2041,Indigo,Mumbai_BOM,12
+FLI-5718,Akasa Air,delhi_DEL,12
+FLI-2246,Akasa Air,Mumbai_BOM,12
+FLI-9718,Vistara,delhi_DEL,26
+FLI-7688,Indigo,Bengaluru_BLR,26
+FLI-2279,Vistara,delhi_DEL,12
+FLI-4170,Air India,delhi_DEL,26
+FLI-7447,Akasa Air,delhi_DEL,12
+FLI-9392,Akasa Air,delhi_DEL,12
+FLI-1238,Indigo,Mumbai_BOM,26
+FLI-9413,Indigo,Bengaluru_BLR,26
+FLI-6347,Indigo,delhi_DEL,26
+FLI-6553,Air India,Kolkata_CCU,12
+FLI-9593,Indigo,delhi_DEL,26
+FLI-9591,Indigo,Kolkata_CCU,26
+FLI-5800,Vistara,delhi_DEL,26
+FLI-6273,Indigo,Kolkata_CCU,-5
+FLI-8937,Air India,Bengaluru_BLR,26
+FLI-1843,Indigo,delhi_DEL,12
+FLI-7048,Vistara,Kolkata_CCU,12
+FLI-8840,Indigo,Bengaluru_BLR,12
+FLI-3234,Indigo,delhi_DEL,12
+FLI-5241,Air India,Mumbai_BOM,-5
+FLI-8188,Indigo,Mumbai_BOM,12
+FLI-6519,Akasa Air,delhi_DEL,12
+FLI-6933,Akasa Air,Mumbai_BOM,-5
+FLI-8571,Indigo,delhi_DEL,26
+FLI-1771,Vistara,delhi_DEL,12
+FLI-8757,Akasa Air,delhi_DEL,12
+FLI-3513,Air India,delhi_DEL,12
+FLI-2744,Indigo,Mumbai_BOM,12
+FLI-1080,Indigo,delhi_DEL,12
+FLI-7473,Vistara,Bengaluru_BLR,12
+FLI-8288,Indigo,delhi_DEL,26
+FLI-3701,Air India,Kolkata_CCU,12
+FLI-4195,Vistara,Mumbai_BOM,-5
+FLI-5311,Indigo,delhi_DEL,12
+FLI-8534,Indigo,Bengaluru_BLR,12
+FLI-2975,Air India,Kolkata_CCU,-5
+FLI-2016,Air India,delhi_DEL,12
+FLI-4490,Indigo,Kolkata_CCU,12
+FLI-5350,Air India,Mumbai_BOM,12
+FLI-7563,Air India,Kolkata_CCU,12
+FLI-2579,Air India,delhi_DEL,12
+FLI-2075,Akasa Air,Mumbai_BOM,12
+FLI-6035,Indigo,Kolkata_CCU,12
+FLI-2062,Indigo,delhi_DEL,26
+FLI-3261,Vistara,Mumbai_BOM,26
+FLI-2008,Air India,delhi_DEL,12
+FLI-3866,Air India,Kolkata_CCU,12
+FLI-8263,Indigo,Kolkata_CCU,26
+FLI-4413,Vistara,Bengaluru_BLR,12
+FLI-5947,Air India,Kolkata_CCU,12
+FLI-2245,Vistara,Mumbai_BOM,12
+FLI-4998,Indigo,Kolkata_CCU,12
+FLI-6059,Indigo,Mumbai_BOM,12
+FLI-6295,Vistara,Bengaluru_BLR,-5
+FLI-1343,Air India,delhi_DEL,12
+FLI-2110,Indigo,Mumbai_BOM,26
+FLI-6612,Air India,Mumbai_BOM,12
+FLI-1872,Indigo,delhi_DEL,12
+FLI-6305,Air India,delhi_DEL,12
+FLI-5952,Vistara,Kolkata_CCU,26
+FLI-4443,Air India,delhi_DEL,12
+FLI-3997,Indigo,Bengaluru_BLR,12
+FLI-6297,Vistara,Bengaluru_BLR,12
+FLI-9335,Indigo,Mumbai_BOM,12
+FLI-2901,Vistara,delhi_DEL,12
+FLI-2043,Indigo,delhi_DEL,12
+FLI-2219,Vistara,delhi_DEL,26
+FLI-3722,Indigo,Mumbai_BOM,26
+FLI-3007,Air India,delhi_DEL,26
+FLI-3935,Indigo,Mumbai_BOM,12
+FLI-9477,Air India,Bengaluru_BLR,26
+FLI-5590,Akasa Air,Mumbai_BOM,12
+FLI-7826,Indigo,Kolkata_CCU,12
+FLI-5601,Air India,Bengaluru_BLR,26
+FLI-4516,Air India,Mumbai_BOM,12
+FLI-8183,Vistara,Mumbai_BOM,12
+FLI-1509,Vistara,delhi_DEL,12
+FLI-8423,Indigo,Mumbai_BOM,12
+FLI-5516,Indigo,Kolkata_CCU,12
+FLI-3769,Air India,delhi_DEL,12
+FLI-2124,Air India,Bengaluru_BLR,26
+FLI-9530,Indigo,Kolkata_CCU,12
+FLI-8123,Akasa Air,Mumbai_BOM,12
+FLI-1314,Indigo,Mumbai_BOM,26
+FLI-5774,Indigo,Mumbai_BOM,12
+FLI-5297,Vistara,delhi_DEL,26
+FLI-4467,Indigo,delhi_DEL,12
+FLI-8904,Akasa Air,Kolkata_CCU,12
+FLI-3827,Indigo,Mumbai_BOM,-5
+FLI-7903,Indigo,Mumbai_BOM,12
+FLI-6026,Indigo,Mumbai_BOM,12
+FLI-9843,Indigo,delhi_DEL,12
+FLI-8564,Vistara,delhi_DEL,12
+FLI-7243,Indigo,delhi_DEL,12
+FLI-1390,Vistara,Mumbai_BOM,12
+FLI-1687,Akasa Air,Bengaluru_BLR,12
+FLI-9256,Air India,Bengaluru_BLR,26
+FLI-4133,Indigo,delhi_DEL,12
+FLI-9221,Vistara,delhi_DEL,12
+FLI-2851,Vistara,Kolkata_CCU,12
+FLI-5847,Akasa Air,Kolkata_CCU,12
+FLI-9920,Indigo,delhi_DEL,12
+FLI-2398,Indigo,delhi_DEL,12
+FLI-4679,Indigo,delhi_DEL,26
+FLI-8670,Indigo,delhi_DEL,12
+FLI-6126,Vistara,delhi_DEL,12
+FLI-3679,Indigo,Kolkata_CCU,12
+FLI-9145,Vistara,Mumbai_BOM,12
+FLI-6466,Vistara,Mumbai_BOM,26
+FLI-7905,Indigo,Mumbai_BOM,12
+FLI-3706,Vistara,Mumbai_BOM,12
+FLI-1922,Indigo,Mumbai_BOM,26
+FLI-4010,Indigo,Kolkata_CCU,12
+FLI-9443,Indigo,Kolkata_CCU,26
+FLI-7169,Indigo,delhi_DEL,26
+FLI-2689,Vistara,Bengaluru_BLR,12
+FLI-5786,Indigo,Bengaluru_BLR,12
+FLI-8970,Indigo,delhi_DEL,12
+FLI-2647,Indigo,Bengaluru_BLR,26
+FLI-5472,Air India,Kolkata_CCU,26
+FLI-7211,Indigo,Bengaluru_BLR,12
+FLI-7055,Akasa Air,Mumbai_BOM,12
+FLI-5762,Indigo,delhi_DEL,12
+FLI-3076,Indigo,Bengaluru_BLR,12
+FLI-1885,Indigo,Mumbai_BOM,12
+FLI-2349,Indigo,Mumbai_BOM,12
+FLI-7889,Air India,Bengaluru_BLR,12
+FLI-6002,Indigo,delhi_DEL,12
+FLI-1527,Vistara,Bengaluru_BLR,12
+FLI-4015,Akasa Air,Mumbai_BOM,12
+FLI-2325,Indigo,delhi_DEL,12
+FLI-5420,Vistara,Mumbai_BOM,26
+FLI-2633,Vistara,Mumbai_BOM,12
+FLI-1386,Indigo,Kolkata_CCU,12
+FLI-1867,Air India,Kolkata_CCU,12
+FLI-1818,Air India,Bengaluru_BLR,26
+FLI-9513,Indigo,Bengaluru_BLR,26
+FLI-8753,Vistara,Bengaluru_BLR,-5
+FLI-9547,Air India,delhi_DEL,12
+FLI-9596,Air India,Bengaluru_BLR,-5
+FLI-6904,Akasa Air,delhi_DEL,26
+FLI-2588,Vistara,Bengaluru_BLR,26
+FLI-2465,Indigo,Kolkata_CCU,12
+FLI-8053,Air India,Kolkata_CCU,12
+FLI-2952,Vistara,Kolkata_CCU,12
+FLI-7811,Akasa Air,Bengaluru_BLR,26
+FLI-1505,Indigo,Mumbai_BOM,12
+FLI-5903,Akasa Air,delhi_DEL,12
+FLI-8996,Air India,delhi_DEL,26
+FLI-5040,Air India,delhi_DEL,12
+FLI-5037,Akasa Air,delhi_DEL,12
+FLI-6763,Vistara,Mumbai_BOM,12
+FLI-7997,Air India,Bengaluru_BLR,12
+FLI-7639,Air India,Kolkata_CCU,12
+FLI-8012,Indigo,Bengaluru_BLR,12
+FLI-9735,Indigo,delhi_DEL,12
+FLI-2062,Indigo,Bengaluru_BLR,12
+FLI-8678,Indigo,Bengaluru_BLR,12
+FLI-3284,Akasa Air,Mumbai_BOM,26
+FLI-5781,Vistara,Bengaluru_BLR,12
+FLI-3427,Indigo,delhi_DEL,12
+FLI-8205,Indigo,delhi_DEL,12
+FLI-9485,Indigo,delhi_DEL,12
+FLI-3778,Akasa Air,delhi_DEL,12
+FLI-2860,Indigo,Kolkata_CCU,12
+FLI-2026,Vistara,delhi_DEL,12
+FLI-5554,Akasa Air,Bengaluru_BLR,26
+FLI-3790,Air India,Mumbai_BOM,12
+FLI-9809,Vistara,Mumbai_BOM,26
+FLI-3963,Indigo,Mumbai_BOM,12
+FLI-3091,Indigo,Kolkata_CCU,12
+FLI-1063,Akasa Air,Kolkata_CCU,26
+FLI-2905,Indigo,Mumbai_BOM,-5
+FLI-7968,Air India,delhi_DEL,12
+FLI-5684,Indigo,Bengaluru_BLR,-5
+FLI-1160,Vistara,Kolkata_CCU,12
+FLI-8566,Vistara,Mumbai_BOM,12
+FLI-9776,Vistara,Bengaluru_BLR,12
+FLI-8577,Vistara,delhi_DEL,26
+FLI-7449,Indigo,delhi_DEL,12
+FLI-8842,Indigo,delhi_DEL,26
+FLI-1236,Vistara,Mumbai_BOM,12
+FLI-5935,Akasa Air,Kolkata_CCU,26
+FLI-8847,Indigo,delhi_DEL,12
+FLI-2164,Air India,Bengaluru_BLR,26
+FLI-1340,Vistara,Mumbai_BOM,26
+FLI-4048,Air India,Kolkata_CCU,26
+FLI-5114,Vistara,Bengaluru_BLR,12
+FLI-7161,Indigo,delhi_DEL,12
+FLI-3821,Vistara,delhi_DEL,12
+FLI-6030,Air India,delhi_DEL,12
+FLI-4188,Indigo,delhi_DEL,12
+FLI-1257,Vistara,Bengaluru_BLR,12
+FLI-4047,Akasa Air,Bengaluru_BLR,12
+FLI-3915,Indigo,Bengaluru_BLR,12
+FLI-7084,Air India,Mumbai_BOM,26
+FLI-5088,Vistara,Mumbai_BOM,12
+FLI-7868,Akasa Air,Mumbai_BOM,12
+FLI-5646,Indigo,Kolkata_CCU,12
+FLI-6136,Indigo,Mumbai_BOM,26
+FLI-3547,Akasa Air,Mumbai_BOM,-5
+FLI-6385,Air India,Mumbai_BOM,12
+FLI-6363,Air India,Mumbai_BOM,26
+FLI-4616,Air India,Mumbai_BOM,12
+FLI-3638,Indigo,Bengaluru_BLR,26
+FLI-8316,Indigo,delhi_DEL,12
+FLI-1264,Akasa Air,Mumbai_BOM,12
+FLI-5945,Indigo,delhi_DEL,12
+FLI-4544,Vistara,Bengaluru_BLR,26
+FLI-2789,Indigo,Kolkata_CCU,12
+FLI-2016,Akasa Air,Mumbai_BOM,12
+FLI-6258,Indigo,Bengaluru_BLR,26
+FLI-3925,Vistara,Bengaluru_BLR,12
+FLI-2142,Air India,Mumbai_BOM,12
+FLI-3538,Akasa Air,delhi_DEL,12
+FLI-3551,Air India,Mumbai_BOM,-5
+FLI-4222,Indigo,Bengaluru_BLR,12
+FLI-3645,Air India,Bengaluru_BLR,12
+FLI-5868,Vistara,Kolkata_CCU,26
+FLI-3585,Air India,delhi_DEL,26
+FLI-3580,Air India,Kolkata_CCU,12
+FLI-7752,Indigo,Kolkata_CCU,12
+FLI-8785,Vistara,Mumbai_BOM,26
+FLI-6224,Indigo,Bengaluru_BLR,12
+FLI-5988,Vistara,Bengaluru_BLR,26
+FLI-7409,Indigo,Bengaluru_BLR,12
+FLI-7588,Air India,delhi_DEL,12
+FLI-2162,Indigo,Kolkata_CCU,12
+FLI-1937,Air India,Mumbai_BOM,26
+FLI-1717,Akasa Air,delhi_DEL,12
+FLI-9635,Air India,delhi_DEL,12
+FLI-6874,Air India,Mumbai_BOM,12
+FLI-3064,Air India,delhi_DEL,12
+FLI-1069,Air India,Bengaluru_BLR,12
+FLI-9433,Air India,Bengaluru_BLR,26
+FLI-9809,Air India,delhi_DEL,12
+FLI-1836,Air India,Mumbai_BOM,12
+FLI-9361,Indigo,Mumbai_BOM,12
+FLI-5850,Akasa Air,Bengaluru_BLR,12
+FLI-1565,Indigo,delhi_DEL,12
+FLI-2605,Akasa Air,Kolkata_CCU,12
+FLI-5954,Vistara,delhi_DEL,12
+FLI-8616,Air India,Mumbai_BOM,12
+FLI-8770,Vistara,Bengaluru_BLR,12
+FLI-2962,Vistara,delhi_DEL,12
+FLI-4064,Air India,Kolkata_CCU,12
+FLI-8451,Indigo,Kolkata_CCU,12
+FLI-6416,Air India,Mumbai_BOM,12
+FLI-8697,Vistara,delhi_DEL,12
+FLI-8920,Air India,delhi_DEL,12
+FLI-6075,Air India,delhi_DEL,26
+FLI-2129,Air India,Mumbai_BOM,12
+FLI-1788,Indigo,Kolkata_CCU,12
+FLI-9131,Vistara,Mumbai_BOM,26
+FLI-3733,Indigo,Kolkata_CCU,12
+FLI-4920,Indigo,Kolkata_CCU,26
+FLI-9412,Indigo,delhi_DEL,12
+FLI-2697,Air India,Mumbai_BOM,12
+FLI-8653,Indigo,Kolkata_CCU,12
+FLI-6997,Indigo,Mumbai_BOM,12
+FLI-8858,Vistara,delhi_DEL,12
+FLI-2848,Indigo,Mumbai_BOM,26
+FLI-5609,Akasa Air,Mumbai_BOM,12
+FLI-1822,Air India,Kolkata_CCU,12
+FLI-9211,Air India,delhi_DEL,12
+FLI-9176,Indigo,delhi_DEL,12
+FLI-4549,Indigo,Mumbai_BOM,26
+FLI-4200,Indigo,Mumbai_BOM,12
+FLI-2389,Indigo,delhi_DEL,12
+FLI-8744,Indigo,Kolkata_CCU,12
+FLI-9215,Indigo,Kolkata_CCU,26
+FLI-4726,Indigo,Kolkata_CCU,26
+FLI-7468,Indigo,Kolkata_CCU,26
+FLI-4838,Indigo,delhi_DEL,12
+FLI-4966,Air India,delhi_DEL,12
+FLI-4299,Air India,delhi_DEL,12
+FLI-2188,Vistara,Bengaluru_BLR,26
+FLI-7344,Air India,delhi_DEL,-5
+FLI-9249,Vistara,Kolkata_CCU,26
+FLI-7883,Indigo,Kolkata_CCU,12
+FLI-9376,Vistara,delhi_DEL,12
+FLI-2802,Air India,delhi_DEL,12
+FLI-6397,Air India,Bengaluru_BLR,26
+FLI-2374,Vistara,delhi_DEL,12
+FLI-4702,Akasa Air,Mumbai_BOM,12
+FLI-9067,Indigo,delhi_DEL,12
+FLI-1751,Indigo,Mumbai_BOM,12
+FLI-6869,Akasa Air,delhi_DEL,12
+FLI-1344,Indigo,delhi_DEL,12
+FLI-1421,Indigo,delhi_DEL,12
+FLI-5697,Indigo,Bengaluru_BLR,12
+FLI-3586,Indigo,delhi_DEL,26
+FLI-6600,Indigo,delhi_DEL,26
+FLI-6812,Air India,Mumbai_BOM,12
+FLI-1299,Air India,delhi_DEL,12
+FLI-3646,Indigo,delhi_DEL,12
+FLI-6218,Vistara,Kolkata_CCU,12
+FLI-5326,Air India,Mumbai_BOM,12
+FLI-4624,Indigo,Mumbai_BOM,12
+FLI-8090,Air India,Bengaluru_BLR,12
+FLI-7259,Air India,delhi_DEL,12
+FLI-3382,Indigo,Kolkata_CCU,12
+FLI-2216,Air India,delhi_DEL,12
+FLI-2777,Indigo,Mumbai_BOM,12
+FLI-2572,Indigo,Kolkata_CCU,26
+FLI-5015,Akasa Air,Bengaluru_BLR,12
+FLI-4830,Indigo,Mumbai_BOM,12
+FLI-2662,Indigo,Mumbai_BOM,26
+FLI-2273,Akasa Air,Kolkata_CCU,12
+FLI-4644,Indigo,Mumbai_BOM,12
+FLI-3876,Indigo,Mumbai_BOM,12
+FLI-1131,Air India,Mumbai_BOM,12
+FLI-3987,Akasa Air,Kolkata_CCU,12
+FLI-2214,Indigo,delhi_DEL,12
+FLI-1654,Vistara,Bengaluru_BLR,12
+FLI-7994,Indigo,Mumbai_BOM,12
+FLI-7504,Indigo,delhi_DEL,12
+FLI-1504,Indigo,delhi_DEL,12
+FLI-6545,Indigo,delhi_DEL,12
+FLI-8010,Akasa Air,Kolkata_CCU,12
+FLI-2075,Air India,Bengaluru_BLR,12
+FLI-3238,Indigo,Kolkata_CCU,26
+FLI-6587,Vistara,delhi_DEL,12
+FLI-3146,Akasa Air,delhi_DEL,12
+FLI-3546,Indigo,delhi_DEL,12
+FLI-1529,Vistara,Kolkata_CCU,12
+FLI-6219,Vistara,Mumbai_BOM,12
+FLI-1046,Akasa Air,delhi_DEL,12
+FLI-6167,Vistara,Kolkata_CCU,12
+FLI-6551,Air India,Mumbai_BOM,12
+FLI-8295,Indigo,Mumbai_BOM,12
+FLI-5892,Indigo,Mumbai_BOM,12
+FLI-5606,Indigo,Mumbai_BOM,12
+FLI-1314,Vistara,Mumbai_BOM,12
+FLI-3976,Vistara,Kolkata_CCU,12
+FLI-1014,Indigo,Kolkata_CCU,12
+FLI-7890,Vistara,Kolkata_CCU,12
+FLI-5261,Indigo,delhi_DEL,12
+FLI-8626,Indigo,Mumbai_BOM,12
+FLI-6577,Vistara,Bengaluru_BLR,26
+FLI-1861,Indigo,delhi_DEL,12
+FLI-9086,Indigo,delhi_DEL,12
+FLI-9189,Indigo,Kolkata_CCU,26
+FLI-9867,Indigo,delhi_DEL,12
+FLI-4002,Air India,Mumbai_BOM,12
+FLI-9269,Air India,delhi_DEL,26
+FLI-3964,Air India,Mumbai_BOM,12
+FLI-7071,Indigo,Bengaluru_BLR,12
+FLI-2829,Indigo,Mumbai_BOM,12
+FLI-3815,Vistara,Bengaluru_BLR,26
+FLI-8788,Indigo,Mumbai_BOM,12
+FLI-8831,Air India,Mumbai_BOM,12
+FLI-3952,Indigo,Bengaluru_BLR,12
+FLI-7100,Indigo,delhi_DEL,12
+FLI-5042,Indigo,delhi_DEL,12
+FLI-1732,Air India,Mumbai_BOM,26
+FLI-7778,Indigo,delhi_DEL,26
+FLI-2820,Indigo,delhi_DEL,12
+FLI-1420,Vistara,Mumbai_BOM,12
+FLI-5466,Indigo,Kolkata_CCU,12
+FLI-7147,Vistara,Mumbai_BOM,12
+FLI-4724,Vistara,delhi_DEL,12
+FLI-1059,Vistara,Kolkata_CCU,12
+FLI-3605,Indigo,delhi_DEL,12
+FLI-7449,Air India,delhi_DEL,12
+FLI-3896,Indigo,delhi_DEL,12
+FLI-8277,Indigo,delhi_DEL,12
+FLI-4668,Indigo,Mumbai_BOM,26
+FLI-1423,Air India,Bengaluru_BLR,26
+FLI-1859,Akasa Air,Mumbai_BOM,26
+FLI-7255,Vistara,Mumbai_BOM,12
+FLI-1835,Indigo,Bengaluru_BLR,12
+FLI-3502,Indigo,delhi_DEL,12
+FLI-2685,Indigo,Bengaluru_BLR,26
+FLI-1923,Air India,Mumbai_BOM,12
+FLI-8905,Indigo,Mumbai_BOM,12
+FLI-3345,Air India,Mumbai_BOM,12
+FLI-8505,Indigo,Bengaluru_BLR,26
+FLI-2438,Indigo,Mumbai_BOM,12
+FLI-3347,Indigo,Bengaluru_BLR,12
+FLI-4016,Indigo,delhi_DEL,12
+FLI-2610,Akasa Air,Kolkata_CCU,12
+FLI-4313,Indigo,delhi_DEL,26
+FLI-8935,Indigo,Kolkata_CCU,-5
+FLI-8401,Indigo,Mumbai_BOM,12
+FLI-7714,Akasa Air,Bengaluru_BLR,12
+FLI-8518,Air India,Mumbai_BOM,12
+FLI-7990,Vistara,Mumbai_BOM,12
+FLI-3105,Vistara,Mumbai_BOM,12
+FLI-9229,Vistara,Bengaluru_BLR,12
+FLI-8158,Air India,Bengaluru_BLR,12
+FLI-3786,Air India,delhi_DEL,-5
+FLI-9637,Indigo,Mumbai_BOM,12
+FLI-4171,Indigo,Bengaluru_BLR,12
+FLI-1837,Air India,delhi_DEL,12
+FLI-2918,Air India,Mumbai_BOM,12
+FLI-2532,Indigo,Bengaluru_BLR,26
+FLI-1542,Indigo,Mumbai_BOM,-5
+FLI-4571,Indigo,Bengaluru_BLR,12
+FLI-4454,Indigo,Bengaluru_BLR,26
+FLI-3804,Air India,Bengaluru_BLR,12
+FLI-7406,Air India,Mumbai_BOM,12
+FLI-1973,Vistara,Mumbai_BOM,12
+FLI-1288,Akasa Air,Kolkata_CCU,12
+FLI-7849,Vistara,delhi_DEL,26
+FLI-2869,Akasa Air,delhi_DEL,-5
+FLI-9591,Vistara,Kolkata_CCU,12
+FLI-9950,Air India,delhi_DEL,12
+FLI-8305,Air India,Kolkata_CCU,12
+FLI-7070,Indigo,Bengaluru_BLR,12
+FLI-9729,Indigo,delhi_DEL,26
+FLI-7736,Air India,delhi_DEL,12
+FLI-1440,Vistara,Bengaluru_BLR,12
+FLI-4263,Air India,Kolkata_CCU,-5
+FLI-5370,Indigo,delhi_DEL,-5
+FLI-9465,Akasa Air,Mumbai_BOM,12
+FLI-3446,Air India,delhi_DEL,12
+FLI-1451,Indigo,Bengaluru_BLR,26
+FLI-2072,Air India,delhi_DEL,12
+FLI-1928,Air India,Mumbai_BOM,12
+FLI-5613,Vistara,delhi_DEL,26
+FLI-9895,Vistara,Mumbai_BOM,12
+FLI-8841,Air India,delhi_DEL,-5
+FLI-2025,Vistara,Bengaluru_BLR,12
+FLI-4350,Air India,Mumbai_BOM,26
+FLI-7791,Indigo,Mumbai_BOM,26
+FLI-3698,Air India,delhi_DEL,12
+FLI-7407,Indigo,delhi_DEL,12
+FLI-9037,Air India,delhi_DEL,12
+FLI-9846,Air India,Mumbai_BOM,26
+FLI-8071,Indigo,Bengaluru_BLR,12
+FLI-5832,Vistara,Kolkata_CCU,26
+FLI-3477,Akasa Air,Mumbai_BOM,12
+FLI-6572,Indigo,Mumbai_BOM,12
+FLI-3633,Vistara,Mumbai_BOM,26
+FLI-1809,Indigo,delhi_DEL,12
+FLI-9247,Indigo,Mumbai_BOM,12
+FLI-9426,Indigo,Bengaluru_BLR,12
+FLI-1068,Indigo,delhi_DEL,12
+FLI-6944,Vistara,Bengaluru_BLR,12
+FLI-8753,Indigo,delhi_DEL,26
+FLI-6500,Indigo,Bengaluru_BLR,26
+FLI-8511,Air India,delhi_DEL,12
+FLI-3357,Vistara,delhi_DEL,-5
+FLI-5476,Indigo,Bengaluru_BLR,12
+FLI-3212,Indigo,delhi_DEL,12
+FLI-3120,Vistara,Bengaluru_BLR,12
+FLI-7855,Indigo,Mumbai_BOM,12
+FLI-1971,Air India,Bengaluru_BLR,26
+FLI-7813,Indigo,delhi_DEL,12
+FLI-2386,Akasa Air,Mumbai_BOM,-5
+FLI-2939,Akasa Air,Kolkata_CCU,12
+FLI-8597,Indigo,delhi_DEL,12
+FLI-4969,Indigo,Kolkata_CCU,12
+FLI-5951,Indigo,Mumbai_BOM,26
+FLI-3713,Vistara,Mumbai_BOM,12
+FLI-6194,Vistara,Bengaluru_BLR,12
+FLI-9736,Vistara,Mumbai_BOM,12
+FLI-7489,Air India,Bengaluru_BLR,12
+FLI-2338,Indigo,Mumbai_BOM,12
+FLI-6389,Indigo,Bengaluru_BLR,12
+FLI-2924,Air India,Bengaluru_BLR,-5
+FLI-2251,Vistara,Mumbai_BOM,12
+FLI-7902,Indigo,delhi_DEL,26
+FLI-3980,Air India,Bengaluru_BLR,12
+FLI-5758,Indigo,Bengaluru_BLR,12
+FLI-1693,Indigo,Mumbai_BOM,26
+FLI-4430,Air India,Kolkata_CCU,12
+FLI-5729,Indigo,Mumbai_BOM,12
+FLI-5292,Air India,Mumbai_BOM,12
+FLI-2190,Vistara,Kolkata_CCU,12
+FLI-3515,Akasa Air,Bengaluru_BLR,12
+FLI-6490,Indigo,Mumbai_BOM,-5
+FLI-6576,Air India,Mumbai_BOM,12
+FLI-9854,Indigo,delhi_DEL,12
+FLI-1240,Indigo,delhi_DEL,12
+FLI-5482,Air India,Kolkata_CCU,12
+FLI-5617,Air India,Bengaluru_BLR,26
+FLI-2081,Indigo,Mumbai_BOM,12
+FLI-9334,Vistara,Kolkata_CCU,12
+FLI-9342,Indigo,Mumbai_BOM,12
+FLI-1504,Indigo,delhi_DEL,-5
+FLI-7745,Indigo,Mumbai_BOM,26
+FLI-7021,Vistara,Mumbai_BOM,12
+FLI-6900,Vistara,delhi_DEL,12
+FLI-6241,Indigo,Mumbai_BOM,12
+FLI-2887,Indigo,delhi_DEL,12
+FLI-2288,Air India,Bengaluru_BLR,12
+FLI-1572,Indigo,Kolkata_CCU,12
+FLI-3665,Indigo,Bengaluru_BLR,12
+FLI-6156,Indigo,delhi_DEL,12
+FLI-3753,Air India,Mumbai_BOM,12
+FLI-9648,Akasa Air,delhi_DEL,12
+FLI-2441,Indigo,Bengaluru_BLR,12
+FLI-5454,Indigo,delhi_DEL,26
+FLI-5339,Vistara,delhi_DEL,12
+FLI-4374,Vistara,delhi_DEL,12
+FLI-6524,Akasa Air,Kolkata_CCU,-5
+FLI-9703,Air India,delhi_DEL,12
+FLI-4968,Akasa Air,delhi_DEL,26
+FLI-7958,Indigo,Bengaluru_BLR,26
+FLI-1840,Indigo,delhi_DEL,12
+FLI-5449,Indigo,delhi_DEL,12
+FLI-5374,Vistara,Mumbai_BOM,12
+FLI-7095,Indigo,delhi_DEL,-5
+FLI-9527,Indigo,Bengaluru_BLR,12
+FLI-7002,Indigo,delhi_DEL,12
+FLI-5507,Vistara,Mumbai_BOM,12
+FLI-6914,Akasa Air,Mumbai_BOM,12
+FLI-1685,Air India,delhi_DEL,12
+FLI-3085,Akasa Air,delhi_DEL,12
+FLI-3744,Indigo,Bengaluru_BLR,12
+FLI-5760,Air India,delhi_DEL,26
+FLI-5527,Indigo,delhi_DEL,26
+FLI-9075,Indigo,Bengaluru_BLR,12
+FLI-6591,Indigo,Bengaluru_BLR,12
+FLI-3928,Indigo,Bengaluru_BLR,12
+FLI-6331,Indigo,Mumbai_BOM,12
+FLI-3622,Vistara,Bengaluru_BLR,12
+FLI-4271,Vistara,delhi_DEL,26
+FLI-1734,Vistara,Kolkata_CCU,12
+FLI-5341,Indigo,delhi_DEL,26
+FLI-7774,Vistara,delhi_DEL,12
+FLI-8011,Vistara,Mumbai_BOM,26
+FLI-9620,Vistara,Kolkata_CCU,12
+FLI-2450,Indigo,delhi_DEL,12
+FLI-1888,Air India,delhi_DEL,26
+FLI-3074,Vistara,Kolkata_CCU,26
+FLI-6404,Indigo,delhi_DEL,12
+FLI-1258,Indigo,Kolkata_CCU,12
+FLI-6761,Vistara,Mumbai_BOM,12
+FLI-1552,Indigo,delhi_DEL,26
+FLI-8625,Indigo,delhi_DEL,26
+FLI-4196,Indigo,delhi_DEL,-5
+FLI-2248,Indigo,Mumbai_BOM,12
+FLI-8672,Air India,delhi_DEL,12
+FLI-5005,Indigo,Bengaluru_BLR,12
+FLI-1741,Air India,delhi_DEL,12
+FLI-5155,Air India,Mumbai_BOM,12
+FLI-1114,Indigo,delhi_DEL,12
+FLI-3352,Air India,Bengaluru_BLR,-5
+FLI-9466,Indigo,delhi_DEL,26
+FLI-1158,Indigo,Bengaluru_BLR,12
+FLI-2345,Akasa Air,delhi_DEL,26
+FLI-9965,Indigo,Kolkata_CCU,-5
+FLI-8017,Vistara,delhi_DEL,12
+FLI-3217,Indigo,delhi_DEL,26
+FLI-1697,Akasa Air,Kolkata_CCU,12
+FLI-4669,Vistara,Mumbai_BOM,12
+FLI-6173,Indigo,Bengaluru_BLR,12
+FLI-9319,Air India,Bengaluru_BLR,26
+FLI-1332,Indigo,Kolkata_CCU,12
+FLI-3656,Vistara,Kolkata_CCU,12
+FLI-2904,Vistara,Mumbai_BOM,12
+FLI-4722,Vistara,delhi_DEL,12
+FLI-2964,Air India,Mumbai_BOM,12
+FLI-4394,Vistara,delhi_DEL,12
+FLI-4870,Indigo,Bengaluru_BLR,12
+FLI-1657,Vistara,Kolkata_CCU,12
+FLI-2478,Indigo,delhi_DEL,12
+FLI-8880,Indigo,Mumbai_BOM,26
+FLI-1165,Air India,Bengaluru_BLR,12
+FLI-4575,Indigo,Mumbai_BOM,12
+FLI-7490,Air India,delhi_DEL,26
+FLI-9007,Indigo,Bengaluru_BLR,26
+FLI-5316,Indigo,delhi_DEL,12
+FLI-7788,Air India,Bengaluru_BLR,12
+FLI-5473,Indigo,Kolkata_CCU,12
+FLI-5598,Vistara,Bengaluru_BLR,12
+FLI-8456,Indigo,Mumbai_BOM,26
+FLI-8995,Akasa Air,Mumbai_BOM,12
+FLI-6433,Akasa Air,delhi_DEL,26
+FLI-4960,Indigo,Mumbai_BOM,12
+FLI-3947,Indigo,delhi_DEL,12
+FLI-9923,Indigo,Kolkata_CCU,26
+FLI-6742,Indigo,Mumbai_BOM,26
+FLI-5483,Air India,Kolkata_CCU,12
+FLI-8087,Air India,delhi_DEL,26
+FLI-6073,Vistara,delhi_DEL,26
+FLI-1451,Indigo,Mumbai_BOM,12
+FLI-4633,Indigo,delhi_DEL,26
+FLI-3997,Vistara,Mumbai_BOM,12
+FLI-5184,Vistara,Mumbai_BOM,26
+FLI-4528,Air India,Kolkata_CCU,12
+FLI-3185,Vistara,Bengaluru_BLR,26
+FLI-8933,Indigo,Mumbai_BOM,26
+FLI-9726,Indigo,delhi_DEL,12
+FLI-1620,Vistara,Kolkata_CCU,26
+FLI-5315,Indigo,Bengaluru_BLR,12
+FLI-8642,Indigo,Bengaluru_BLR,26
+FLI-2790,Vistara,Mumbai_BOM,12
+FLI-8287,Akasa Air,delhi_DEL,-5
+FLI-2279,Air India,Bengaluru_BLR,12
+FLI-4828,Air India,delhi_DEL,26
+FLI-4657,Indigo,Bengaluru_BLR,26
+FLI-4880,Air India,Bengaluru_BLR,12
+FLI-2963,Air India,delhi_DEL,12
+FLI-7307,Air India,Bengaluru_BLR,-5
+FLI-4615,Vistara,Kolkata_CCU,12
+FLI-7087,Indigo,Mumbai_BOM,12
+FLI-4146,Air India,Bengaluru_BLR,12
+FLI-2919,Indigo,Bengaluru_BLR,26
+FLI-2962,Indigo,Mumbai_BOM,12
+FLI-6340,Vistara,Kolkata_CCU,26
+FLI-8267,Indigo,delhi_DEL,12
+FLI-9060,Akasa Air,delhi_DEL,12
+FLI-4453,Indigo,Mumbai_BOM,12
+FLI-3914,Indigo,Mumbai_BOM,12
+FLI-5745,Akasa Air,delhi_DEL,12
+FLI-2491,Air India,Mumbai_BOM,26
+FLI-5598,Akasa Air,Mumbai_BOM,12
+FLI-2262,Indigo,Mumbai_BOM,26
+FLI-4193,Air India,Kolkata_CCU,12
+FLI-1752,Air India,Bengaluru_BLR,12
+FLI-8956,Air India,delhi_DEL,26
+FLI-3428,Indigo,Mumbai_BOM,12
+FLI-2306,Indigo,Mumbai_BOM,12
+FLI-6593,Indigo,Mumbai_BOM,-5
+FLI-2933,Vistara,Mumbai_BOM,12
+FLI-6308,Indigo,Bengaluru_BLR,12
+FLI-1677,Indigo,delhi_DEL,26
+FLI-8662,Vistara,Kolkata_CCU,12
+FLI-6594,Indigo,Bengaluru_BLR,12
+FLI-5048,Vistara,delhi_DEL,12
+FLI-7661,Vistara,Mumbai_BOM,12
+FLI-8142,Vistara,Bengaluru_BLR,26
+FLI-3507,Akasa Air,Mumbai_BOM,12
+FLI-9953,Air India,delhi_DEL,26
+FLI-7726,Air India,Bengaluru_BLR,12
+FLI-5249,Indigo,Kolkata_CCU,12
+FLI-3085,Vistara,delhi_DEL,12
+FLI-7115,Indigo,delhi_DEL,12
+FLI-2540,Air India,Mumbai_BOM,26
+FLI-9523,Indigo,Mumbai_BOM,12
+FLI-6872,Air India,delhi_DEL,12
+FLI-5989,Air India,delhi_DEL,12
+FLI-6051,Indigo,delhi_DEL,26
+FLI-4658,Vistara,Bengaluru_BLR,26
+FLI-5233,Air India,Kolkata_CCU,12
+FLI-4538,Air India,Mumbai_BOM,12
+FLI-2008,Air India,delhi_DEL,12
+FLI-7316,Air India,Bengaluru_BLR,12
+FLI-8112,Air India,delhi_DEL,26
+FLI-1453,Indigo,Mumbai_BOM,12
+FLI-5179,Air India,delhi_DEL,12
+FLI-8983,Indigo,Bengaluru_BLR,26
+FLI-4729,Indigo,delhi_DEL,12
+FLI-2788,Air India,delhi_DEL,12
+FLI-8999,Indigo,Mumbai_BOM,12
+FLI-5977,Vistara,Kolkata_CCU,-5
+FLI-5545,Indigo,Bengaluru_BLR,12
+FLI-5142,Vistara,Bengaluru_BLR,26
+FLI-7961,Air India,delhi_DEL,12
+FLI-4900,Indigo,Mumbai_BOM,12
+FLI-1492,Air India,delhi_DEL,12
+FLI-5020,Indigo,Bengaluru_BLR,12
+FLI-9446,Air India,Mumbai_BOM,12
+FLI-8385,Air India,Kolkata_CCU,26
+FLI-7986,Indigo,Mumbai_BOM,12
+FLI-8103,Akasa Air,delhi_DEL,26
+FLI-2170,Indigo,delhi_DEL,26
+FLI-6786,Indigo,Bengaluru_BLR,12
+FLI-3728,Air India,Mumbai_BOM,26
+FLI-8634,Indigo,Mumbai_BOM,26
+FLI-1185,Indigo,delhi_DEL,12
+FLI-6919,Indigo,delhi_DEL,12
+FLI-2140,Vistara,Bengaluru_BLR,-5
+FLI-3421,Air India,delhi_DEL,12
+FLI-6839,Vistara,Bengaluru_BLR,26
+FLI-1149,Indigo,Bengaluru_BLR,12
+FLI-4352,Akasa Air,Bengaluru_BLR,12
+FLI-6336,Air India,Bengaluru_BLR,12
+FLI-9302,Air India,delhi_DEL,-5
+FLI-6867,Indigo,Bengaluru_BLR,26
+FLI-3542,Air India,Bengaluru_BLR,26
+FLI-8273,Air India,Mumbai_BOM,12
+FLI-3303,Indigo,delhi_DEL,12
+FLI-9679,Vistara,delhi_DEL,12
+FLI-9489,Indigo,Mumbai_BOM,12
+FLI-4865,Indigo,Bengaluru_BLR,12
+FLI-3530,Akasa Air,Kolkata_CCU,12
+FLI-6364,Air India,delhi_DEL,12
+FLI-5007,Air India,delhi_DEL,26
+FLI-9681,Indigo,delhi_DEL,12
+FLI-3203,Indigo,delhi_DEL,12
+FLI-7068,Indigo,Mumbai_BOM,12
+FLI-1857,Indigo,delhi_DEL,26
+FLI-1631,Indigo,Mumbai_BOM,12
+FLI-3923,Indigo,delhi_DEL,12
+FLI-6505,Indigo,Mumbai_BOM,12
+FLI-5547,Indigo,Mumbai_BOM,26
+FLI-4700,Indigo,Mumbai_BOM,12
+FLI-3930,Indigo,Bengaluru_BLR,12
+FLI-2518,Air India,Mumbai_BOM,12
+FLI-8848,Akasa Air,Kolkata_CCU,26
+FLI-5594,Air India,delhi_DEL,12
+FLI-3960,Air India,Bengaluru_BLR,-5
+FLI-4149,Akasa Air,delhi_DEL,12
+FLI-2309,Akasa Air,delhi_DEL,12
+FLI-4352,Indigo,delhi_DEL,-5
+FLI-3379,Air India,Mumbai_BOM,12
+FLI-8470,Indigo,delhi_DEL,12
+FLI-5512,Vistara,Bengaluru_BLR,12
+FLI-4240,Indigo,delhi_DEL,-5
+FLI-8426,Indigo,Mumbai_BOM,26
+FLI-3417,Air India,delhi_DEL,12
+FLI-3730,Vistara,Kolkata_CCU,12
+FLI-6548,Air India,delhi_DEL,12
+FLI-3238,Indigo,Mumbai_BOM,12
+FLI-1200,Air India,Kolkata_CCU,12
+FLI-6897,Indigo,Bengaluru_BLR,12
+FLI-2910,Indigo,Kolkata_CCU,12
+FLI-8952,Indigo,Mumbai_BOM,-5
+FLI-1840,Vistara,delhi_DEL,12
+FLI-2018,Indigo,Kolkata_CCU,12
+FLI-5661,Indigo,delhi_DEL,12
+FLI-6682,Vistara,Bengaluru_BLR,26
+FLI-8105,Vistara,Kolkata_CCU,-5
+FLI-6246,Air India,delhi_DEL,12
+FLI-6631,Air India,Bengaluru_BLR,12
+FLI-2386,Akasa Air,Mumbai_BOM,12
+FLI-3663,Vistara,Bengaluru_BLR,12
+FLI-9564,Indigo,Mumbai_BOM,26
+FLI-9685,Air India,Bengaluru_BLR,12
+FLI-9271,Indigo,Bengaluru_BLR,12
+FLI-5758,Indigo,delhi_DEL,12
+FLI-7732,Vistara,Mumbai_BOM,12
+FLI-7235,Indigo,delhi_DEL,12
+FLI-7745,Vistara,delhi_DEL,-5
+FLI-2268,Indigo,delhi_DEL,12
+FLI-1190,Air India,delhi_DEL,12
+FLI-4646,Akasa Air,Mumbai_BOM,12
+FLI-7072,Air India,delhi_DEL,12
+FLI-5234,Vistara,Mumbai_BOM,12
+FLI-2359,Indigo,Mumbai_BOM,12
+FLI-3779,Vistara,delhi_DEL,12
+FLI-4573,Akasa Air,Mumbai_BOM,26
+FLI-1779,Indigo,delhi_DEL,12
+FLI-4372,Indigo,delhi_DEL,12
+FLI-1752,Air India,Kolkata_CCU,12
+FLI-1426,Indigo,delhi_DEL,12
+FLI-8525,Vistara,Bengaluru_BLR,12
+FLI-4072,Indigo,Mumbai_BOM,12
+FLI-4825,Vistara,Mumbai_BOM,12
+FLI-5250,Indigo,Mumbai_BOM,12
+FLI-8978,Vistara,delhi_DEL,12
+FLI-6110,Indigo,delhi_DEL,12
+FLI-3610,Vistara,delhi_DEL,12
+FLI-2520,Indigo,Bengaluru_BLR,-5
+FLI-7357,Vistara,delhi_DEL,12
+FLI-7653,Indigo,Mumbai_BOM,26
+FLI-4359,Indigo,delhi_DEL,12
+FLI-8495,Indigo,Bengaluru_BLR,12
+FLI-1417,Indigo,Bengaluru_BLR,26
+FLI-1809,Air India,Bengaluru_BLR,12
+FLI-1605,Indigo,Mumbai_BOM,12
+FLI-5587,Indigo,Bengaluru_BLR,12
+FLI-4202,Indigo,Bengaluru_BLR,26
+FLI-3806,Indigo,delhi_DEL,12
+FLI-7363,Indigo,Mumbai_BOM,12
+FLI-5923,Air India,delhi_DEL,12
+FLI-9820,Indigo,Kolkata_CCU,12
+FLI-1177,Indigo,Bengaluru_BLR,12
+FLI-9049,Akasa Air,delhi_DEL,12
+FLI-1633,Indigo,Mumbai_BOM,12
+FLI-1812,Indigo,Mumbai_BOM,12
+FLI-3874,Indigo,Bengaluru_BLR,12
+FLI-2761,Indigo,Kolkata_CCU,12
+FLI-3560,Akasa Air,Mumbai_BOM,12
+FLI-1986,Indigo,Mumbai_BOM,12
+FLI-8726,Vistara,Mumbai_BOM,12
+FLI-2178,Indigo,delhi_DEL,12
+FLI-5958,Indigo,delhi_DEL,26
+FLI-8254,Air India,Kolkata_CCU,-5
+FLI-4036,Indigo,Bengaluru_BLR,26
+FLI-4273,Indigo,Bengaluru_BLR,12
+FLI-3154,Indigo,Mumbai_BOM,12
+FLI-5816,Vistara,delhi_DEL,12
+FLI-6321,Indigo,Bengaluru_BLR,12
+FLI-7361,Indigo,Kolkata_CCU,12
+FLI-4279,Air India,delhi_DEL,12
+FLI-5506,Indigo,Kolkata_CCU,12
+FLI-7162,Vistara,Mumbai_BOM,26
+FLI-3625,Indigo,Mumbai_BOM,26
+FLI-9149,Indigo,Kolkata_CCU,12
+FLI-5646,Indigo,Bengaluru_BLR,12
+FLI-5237,Indigo,Mumbai_BOM,12
+FLI-1246,Air India,Mumbai_BOM,12
+FLI-1516,Air India,delhi_DEL,12
+FLI-9524,Vistara,delhi_DEL,12
+FLI-6869,Vistara,Kolkata_CCU,12
+FLI-6731,Indigo,Kolkata_CCU,-5
+FLI-1347,Vistara,delhi_DEL,12
+FLI-5206,Akasa Air,delhi_DEL,-5
+FLI-1996,Vistara,Mumbai_BOM,12
+FLI-4356,Indigo,Kolkata_CCU,26
+FLI-4300,Vistara,delhi_DEL,12
+FLI-8084,Vistara,Kolkata_CCU,12
+FLI-2072,Vistara,Kolkata_CCU,12
+FLI-6837,Vistara,delhi_DEL,26
+FLI-1359,Indigo,delhi_DEL,26
+FLI-7688,Air India,Mumbai_BOM,-5
+FLI-6007,Indigo,Mumbai_BOM,12
+FLI-2750,Air India,delhi_DEL,12
+FLI-4384,Indigo,delhi_DEL,12
+FLI-7485,Vistara,Mumbai_BOM,12
+FLI-6549,Indigo,Mumbai_BOM,12
+FLI-2011,Indigo,Mumbai_BOM,12
+FLI-3944,Indigo,Kolkata_CCU,26
+FLI-7363,Indigo,Mumbai_BOM,26
+FLI-2782,Air India,delhi_DEL,12
+FLI-6639,Indigo,Mumbai_BOM,12
+FLI-5840,Vistara,Bengaluru_BLR,12
+FLI-5900,Vistara,delhi_DEL,26
+FLI-9901,Indigo,delhi_DEL,12
+FLI-7052,Indigo,Mumbai_BOM,12
+FLI-3293,Indigo,Mumbai_BOM,12
+FLI-6308,Air India,delhi_DEL,12
+FLI-3148,Indigo,Mumbai_BOM,12
+FLI-5591,Vistara,delhi_DEL,26
+FLI-2445,Air India,Kolkata_CCU,12
+FLI-2945,Indigo,Kolkata_CCU,12
+FLI-1620,Air India,Mumbai_BOM,12
+FLI-2179,Vistara,Bengaluru_BLR,26
+FLI-3441,Indigo,Bengaluru_BLR,12
+FLI-7470,Indigo,Kolkata_CCU,12
+FLI-5828,Vistara,delhi_DEL,12
+FLI-3427,Indigo,delhi_DEL,12
+FLI-1600,Indigo,Kolkata_CCU,12
+FLI-8437,Indigo,Kolkata_CCU,12
+FLI-9404,Air India,delhi_DEL,12
+FLI-3175,Indigo,Mumbai_BOM,12
+FLI-1295,Indigo,Kolkata_CCU,12
+FLI-9126,Indigo,delhi_DEL,12
+FLI-3410,Air India,Bengaluru_BLR,12
+FLI-3566,Air India,delhi_DEL,26
+FLI-7783,Air India,delhi_DEL,26
+FLI-2756,Indigo,Kolkata_CCU,12
+FLI-7626,Vistara,delhi_DEL,12
+FLI-1971,Akasa Air,Mumbai_BOM,26
+FLI-2632,Indigo,Kolkata_CCU,12
+FLI-2410,Air India,Bengaluru_BLR,26
+FLI-1605,Indigo,Bengaluru_BLR,12
+FLI-8585,Indigo,delhi_DEL,12
+FLI-2949,Indigo,delhi_DEL,12
+FLI-3077,Air India,delhi_DEL,26
+FLI-4621,Indigo,Kolkata_CCU,12
+FLI-1662,Vistara,Bengaluru_BLR,-5
+FLI-4212,Indigo,Mumbai_BOM,12
+FLI-1599,Air India,Mumbai_BOM,12
+FLI-7241,Air India,Bengaluru_BLR,12
+FLI-6337,Air India,Bengaluru_BLR,12
+FLI-5720,Indigo,delhi_DEL,12
+FLI-7301,Vistara,Mumbai_BOM,12
+FLI-4372,Akasa Air,Mumbai_BOM,12
+FLI-7804,Indigo,delhi_DEL,12
+FLI-5541,Indigo,Bengaluru_BLR,12
+FLI-9109,Indigo,Mumbai_BOM,26
+FLI-6670,Indigo,Bengaluru_BLR,12
+FLI-9995,Air India,Bengaluru_BLR,12
+FLI-3882,Air India,delhi_DEL,26
+FLI-7445,Vistara,Bengaluru_BLR,26
+FLI-2787,Air India,delhi_DEL,26
+FLI-6979,Vistara,Kolkata_CCU,12
+FLI-7201,Indigo,delhi_DEL,-5
+FLI-9272,Indigo,Mumbai_BOM,12
+FLI-6035,Indigo,delhi_DEL,12
+FLI-4442,Air India,Mumbai_BOM,12
+FLI-1509,Indigo,delhi_DEL,12
+FLI-8877,Air India,Bengaluru_BLR,12
+FLI-5342,Indigo,Kolkata_CCU,26
+FLI-8117,Akasa Air,Mumbai_BOM,26
+FLI-7126,Indigo,Mumbai_BOM,12
+FLI-2566,Air India,delhi_DEL,12
+FLI-9484,Air India,Kolkata_CCU,12
+FLI-2154,Vistara,Mumbai_BOM,12
+FLI-5805,Air India,Mumbai_BOM,12
+FLI-8086,Air India,delhi_DEL,12
+FLI-7270,Vistara,Kolkata_CCU,12
+FLI-3738,Indigo,Bengaluru_BLR,12
+FLI-6900,Indigo,delhi_DEL,12
+FLI-4603,Indigo,delhi_DEL,12
+FLI-6278,Indigo,delhi_DEL,12
+FLI-4977,Air India,Mumbai_BOM,26
+FLI-8058,Indigo,delhi_DEL,12
+FLI-9663,Indigo,Kolkata_CCU,26
+FLI-7571,Indigo,Kolkata_CCU,12
+FLI-4535,Air India,delhi_DEL,12
+FLI-6127,Indigo,Bengaluru_BLR,12
+FLI-7118,Indigo,Kolkata_CCU,26
+FLI-8378,Indigo,delhi_DEL,12
+FLI-4197,Indigo,delhi_DEL,12
+FLI-6959,Indigo,Mumbai_BOM,12
+FLI-8425,Vistara,delhi_DEL,26
+FLI-6641,Indigo,Kolkata_CCU,-5
+FLI-4166,Vistara,delhi_DEL,26
+FLI-8922,Indigo,Bengaluru_BLR,12
+FLI-3729,Air India,Mumbai_BOM,26
+FLI-7419,Indigo,delhi_DEL,12
+FLI-3811,Air India,Mumbai_BOM,12
+FLI-9984,Vistara,delhi_DEL,12
+FLI-2619,Indigo,delhi_DEL,12
+FLI-4191,Indigo,Bengaluru_BLR,26
+FLI-4406,Indigo,delhi_DEL,12
+FLI-9551,Air India,Kolkata_CCU,12
+FLI-4008,Indigo,delhi_DEL,12
+FLI-8536,Air India,Mumbai_BOM,12
+FLI-8867,Air India,delhi_DEL,26
+FLI-1127,Vistara,Mumbai_BOM,12
+FLI-7221,Indigo,delhi_DEL,12
+FLI-7310,Akasa Air,delhi_DEL,26
+FLI-2793,Indigo,Kolkata_CCU,12
+FLI-9944,Air India,Mumbai_BOM,26
+FLI-8949,Vistara,delhi_DEL,26
+FLI-5974,Air India,Bengaluru_BLR,12
+FLI-4586,Indigo,Bengaluru_BLR,12
+FLI-5304,Indigo,delhi_DEL,12
+FLI-9097,Indigo,Bengaluru_BLR,26
+FLI-7770,Akasa Air,Mumbai_BOM,26
+FLI-5874,Indigo,delhi_DEL,12
+FLI-3377,Indigo,delhi_DEL,12
+FLI-6367,Air India,Kolkata_CCU,12
+FLI-5093,Air India,delhi_DEL,26
+FLI-8089,Air India,Kolkata_CCU,26
+FLI-5846,Vistara,Mumbai_BOM,26
+FLI-2278,Indigo,delhi_DEL,12
+FLI-6442,Akasa Air,Mumbai_BOM,12
+FLI-3952,Vistara,Kolkata_CCU,12
+FLI-5483,Air India,Mumbai_BOM,-5
+FLI-2756,Air India,Bengaluru_BLR,12
+FLI-6387,Vistara,Mumbai_BOM,12
+FLI-3381,Akasa Air,Bengaluru_BLR,12
+FLI-8215,Indigo,delhi_DEL,12
